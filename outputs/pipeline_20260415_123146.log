@@ -1,0 +1,177 @@
+=== Generating synthetic dataset ===
+[Synthetic] Generated 1600 posts → data/synthetic/synthetic_posts.csv
+       author_followers  ...           created_at
+count       1600.000000  ...                 1600
+mean         506.017500  ...  2025-03-02 02:43:48
+min           10.000000  ...  2025-01-01 00:00:00
+25%          254.750000  ...  2025-01-30 00:00:00
+50%          429.000000  ...  2025-03-02 00:00:00
+75%          664.250000  ...  2025-04-02 00:00:00
+max         2393.000000  ...  2025-04-30 00:00:00
+std          348.857167  ...                  NaN
+
+[8 rows x 11 columns]
+Loading data from data/synthetic/synthetic_posts.csv...
+Loaded 1600 posts.
+
+=== AI Detection Summary ===
+Total posts:      1600
+AI-generated:     800 (50.0%)
+
+Detection methods used:
+detection_method
+pre_labeled    1600
+
+Mean confidence by method:
+detection_method
+pre_labeled    1.0
+
+Saved classified data → data/processed/classified_posts.csv
+Loading data from data/synthetic/synthetic_posts.csv...
+Loaded 1600 posts.
+
+=== Building bipartite network ===
+Bipartite graph: 1596 nodes, 2734 edges
+
+=== Building account projection ===
+Account projection: 1587 nodes, 360804 edges
+
+=== Detecting communities ===
+[INFO] python-louvain not installed. Using greedy modularity.
+[Greedy Modularity] Detected 2 communities.
+
+=== Computing statistics ===
+
+=== Centralization Results ===
+  gini_coefficient: 0.1707
+  top10_degree_share: 0.1601
+  network_density: 0.286696
+  n_nodes: 1587
+  n_edges: 360804
+  n_communities: 2
+  structure: Decentralized (peer-to-peer)
+
+=== Top 10 accounts by betweenness centrality ===
+  username  degree  betweenness  community  followers
+user_90177       6     0.216662          0        785
+user_52674       4     0.116379          0        114
+user_82750       3     0.060754          0        195
+user_20814       3     0.048379          0       1044
+user_15447       2     0.029437          0         91
+user_75091       2     0.027090          1        245
+user_41577       4     0.001532          1        264
+user_36099       3     0.001025          1        214
+user_36799       3     0.001025          1        154
+user_14018       3     0.001025          1        152
+
+=== Top 15 hashtags ===
+          hashtag  accounts_using  total_uses
+        #portrait             347         415
+      #digitalart             328         404
+#artistsontwitter             336         399
+     #photography             328         381
+     #aigenerated             306         359
+          #grokai             270         322
+       #grokimage             277         318
+           #aiart             269         312
+  #syntheticmedia             273         300
+
+=== Plotting ===
+[Plot] Network graph → outputs/figures/network_bipartite.png
+[Plot] Degree distribution → outputs/figures/degree_distribution.png
+
+Network analysis complete.
+Loading data from data/synthetic/synthetic_posts.csv...
+Loaded 1600 posts.
+
+=== Preparing features ===
+Prepared dataset: 1600 posts (800 treated, 800 control)
+
+=== Estimating propensity scores ===
+[PSM] Propensity score range: 0.408 – 0.530
+
+=== Matching samples ===
+[PSM] Matched 440 pairs (440 treated + 440 control).
+
+=== Covariate Balance After PSM ===
+Covariate                   Treated Mean   Control Mean      SMD
+-----------------------------------------------------------------
+log_followers                     5.9757         5.9667   0.012 ✓
+log_account_age                   6.6142         6.6262  -0.013 ✓
+has_media_int                     0.8500         0.8500   0.000 ✓
+hour_of_day                       0.0000         0.0000   0.000 ✓
+(SMD < 0.1 indicates good balance)
+
+=== T-tests on matched sample ===
+
+  log_views:
+    AI-gen mean:  9.2622
+    Human mean:   8.4306
+    Difference:   +9.9%
+    t=27.987, p=0.0000 [SIGNIFICANT]
+    Cohen's d:    1.887
+
+  log_engagement_total:
+    AI-gen mean:  6.6012
+    Human mean:   5.7368
+    Difference:   +15.1%
+    t=23.912, p=0.0000 [SIGNIFICANT]
+    Cohen's d:    1.612
+
+  engagement_rate:
+    AI-gen mean:  0.0722
+    Human mean:   0.0699
+    Difference:   +3.3%
+    t=1.876, p=0.0610 [not significant]
+    Cohen's d:    0.127
+
+=== OLS Regressions ===
+
+  Outcome: log_views
+    Treat coef: 0.8318 (SE=0.0297, p=0.0000) ***
+    R² = 0.4731, N = 880
+[Plot] Regression coefficients → outputs/figures/regression_coef_views.png
+
+  Outcome: log_engagement_total
+    Treat coef: 0.8648 (SE=0.0362, p=0.0000) ***
+    R² = 0.3961, N = 880
+
+  Outcome: engagement_rate
+    Treat coef: 0.0023 (SE=0.0012, p=0.0605) 
+    R² = 0.0052, N = 880
+
+=== Visualizations ===
+[Plot] Violin plot → outputs/figures/engagement_violin.png
+
+✓ Engagement analysis complete.
+
+╔══════════════════════════════════════════════════════════╗
+║  AI-NCII on X: Full Analysis Pipeline                   ║
+║  Data Science & Public Policy — Spring 2026             ║
+╚══════════════════════════════════════════════════════════╝
+
+
+============================================================
+▶  python3 01_data_collection.py --mode synthetic
+============================================================
+
+============================================================
+▶  python3 02_ai_detection.py --input data/synthetic/synthetic_posts.csv --output data/processed/classified_posts.csv 
+============================================================
+
+============================================================
+▶  python3 03_network_analysis.py --input data/synthetic/synthetic_posts.csv
+============================================================
+
+============================================================
+▶  python3 04_engagement_analysis.py --input data/synthetic/synthetic_posts.csv
+============================================================
+
+╔══════════════════════════════════════════════════════════╗
+║  ✓ Pipeline complete!                                   ║
+║                                                          ║
+║  Outputs:                                                ║
+║    outputs/figures/  → All charts                       ║
+║    outputs/tables/   → CSV result tables                ║
+╚══════════════════════════════════════════════════════════╝
+
