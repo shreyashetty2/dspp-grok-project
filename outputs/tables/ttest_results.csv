@@ -1,0 +1,4 @@
+outcome,treated_mean,control_mean,difference,pct_difference,t_stat,p_value,cohen_d,significant
+log_views,9.2622,8.4306,0.8317,9.86,27.9872,0.0,1.8869,True
+log_engagement_total,6.6012,5.7368,0.8644,15.07,23.9123,0.0,1.6122,True
+engagement_rate,0.0722,0.0699,0.0023,3.31,1.876,0.060991,0.1265,False

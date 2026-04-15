@@ -8,8 +8,8 @@ Modes:
   --mode live        → Use real Apify-scraped data (requires APIFY_TOKEN)
 
 Usage:
-  python 05_run_pipeline.py --mode synthetic
-  python 05_run_pipeline.py --mode live
+  python3 05_run_pipeline.py --mode synthetic
+  python3 05_run_pipeline.py --mode live
 """
 
 import subprocess
@@ -39,12 +39,12 @@ if __name__ == "__main__":
 
     if args.mode == "synthetic":
         # Step 1: Generate synthetic data
-        run("python 01_data_collection.py --mode synthetic")
+        run("python3 01_data_collection.py --mode synthetic")
         DATA = "data/synthetic/synthetic_posts.csv"
     else:
         # Step 1: Scrape live data
-        run("python 01_data_collection.py --mode treatment")
-        run("python 01_data_collection.py --mode control")
+        run("python3 01_data_collection.py --mode treatment")
+        run("python3 01_data_collection.py --mode control")
         DATA = "data/processed/all_posts.csv"
         # Merge treatment + control
         import pandas as pd
@@ -55,13 +55,13 @@ if __name__ == "__main__":
 
     # Step 2: AI Detection
     clip_flag = "--use-clip" if args.use_clip else ""
-    run(f"python 02_ai_detection.py --input {DATA} --output data/processed/classified_posts.csv {clip_flag}")
+    run(f"python3 02_ai_detection.py --input {DATA} --output data/processed/classified_posts.csv {clip_flag}")
 
     # Step 3: Network Analysis
-    run(f"python 03_network_analysis.py --input {DATA}")
+    run(f"python3 03_network_analysis.py --input {DATA}")
 
     # Step 4: Engagement Analysis
-    run(f"python 04_engagement_analysis.py --input {DATA}")
+    run(f"python3 04_engagement_analysis.py --input {DATA}")
 
     print("""
 ╔══════════════════════════════════════════════════════════╗
