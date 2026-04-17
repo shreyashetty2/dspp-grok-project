@@ -1,0 +1,2609 @@
+[{
+  "type": "tweet",
+  "id": "2044900311274311896",
+  "url": "https://x.com/Yahtzeemae/status/2044900311274311896",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044900311274311896",
+  "text": "Step it up! \n#Grok #GrokImage #GrokVideo https://t.co/cySnTLuXhl",
+  "fullText": "Step it up! \n#Grok #GrokImage #GrokVideo https://t.co/cySnTLuXhl",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 29,
+  "createdAt": "Thu Apr 16 22:06:41 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044900311274311896",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/cySnTLuXhl",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044900311274311896/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044900189102583808",
+        "indices": [
+          41,
+          64
+        ],
+        "media_key": "13_2044900189102583808",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044900189102583808"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044900189102583808/img/byoVcKpB8C9Ep8Fo.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/cySnTLuXhl",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 113813,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/pl/jfFihUUNxz0RLHcZ.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/320x476/lpzxUmA5f-MrLVNy.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/480x714/GC8nkPqlH1lRyI49.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/720x1072/uuIHr_6Y7XRGX3xY.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          13,
+          18
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          19,
+          29
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          30,
+          40
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/cySnTLuXhl",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044900311274311896/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044900189102583808",
+        "indices": [
+          41,
+          64
+        ],
+        "media_key": "13_2044900189102583808",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044900189102583808"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044900189102583808/img/byoVcKpB8C9Ep8Fo.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/cySnTLuXhl",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 113813,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/pl/jfFihUUNxz0RLHcZ.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/320x476/lpzxUmA5f-MrLVNy.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/480x714/GC8nkPqlH1lRyI49.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044900189102583808/vid/avc1/720x1072/uuIHr_6Y7XRGX3xY.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044900189102583808/img/byoVcKpB8C9Ep8Fo.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044893107829780743",
+  "url": "https://x.com/Yahtzeemae/status/2044893107829780743",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044893107829780743",
+  "text": "Work that body! \n#Grok #GrokImage #GrokVideo https://t.co/lcUAaZL3a8",
+  "fullText": "Work that body! \n#Grok #GrokImage #GrokVideo https://t.co/lcUAaZL3a8",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 58,
+  "createdAt": "Thu Apr 16 21:38:03 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044893107829780743",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/lcUAaZL3a8",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044893107829780743/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044893016238817280",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "13_2044893016238817280",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044893016238817280"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044893016238817280/img/rkWe94h876g1HzmX.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/lcUAaZL3a8",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 51201,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/pl/ZGD-4T3SknbGDx1M.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/320x476/DYF9ZgsU0gF0mEIS.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/480x714/H9UWZigPfZojPHUy.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/720x1072/xQpglRIhUjsXP1Uj.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          22
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          23,
+          33
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          34,
+          44
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/lcUAaZL3a8",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044893107829780743/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044893016238817280",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "13_2044893016238817280",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044893016238817280"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044893016238817280/img/rkWe94h876g1HzmX.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/lcUAaZL3a8",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 51201,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/pl/ZGD-4T3SknbGDx1M.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/320x476/DYF9ZgsU0gF0mEIS.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/480x714/H9UWZigPfZojPHUy.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044893016238817280/vid/avc1/720x1072/xQpglRIhUjsXP1Uj.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044893016238817280/img/rkWe94h876g1HzmX.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044746060069773628",
+  "url": "https://x.com/Yahtzeemae/status/2044746060069773628",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044746060069773628",
+  "text": "The world tests you. But you? You’re built differently. 🎵 Wild World…sometimes the most beautiful growth happens in the darkest moments. Stay cinematic. Stay committed. \n#Grok #GrokImage #GrokVideo https://t.co/otHhlLsUxP",
+  "fullText": "The world tests you. But you? You’re built differently. 🎵 Wild World…sometimes the most beautiful growth happens in the darkest moments. Stay cinematic. Stay committed. \n#Grok #GrokImage #GrokVideo https://t.co/otHhlLsUxP",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 45,
+  "createdAt": "Thu Apr 16 11:53:44 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044746060069773628",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/otHhlLsUxP",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044746060069773628/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044745890531823617",
+        "indices": [
+          198,
+          221
+        ],
+        "media_key": "13_2044745890531823617",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044745890531823617"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044745890531823617/img/H8Ber_Ccqu_NI1d5.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/otHhlLsUxP",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 204270,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/pl/VKf_ZEW0st1tVgAq.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/320x476/RRj9DWgezgVkiuFc.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/480x714/OdebvtawJeYmBova.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/720x1072/0t24M-jOzXnVlR8Q.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          170,
+          175
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          176,
+          186
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          187,
+          197
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/otHhlLsUxP",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044746060069773628/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044745890531823617",
+        "indices": [
+          198,
+          221
+        ],
+        "media_key": "13_2044745890531823617",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044745890531823617"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044745890531823617/img/H8Ber_Ccqu_NI1d5.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/otHhlLsUxP",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 204270,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/pl/VKf_ZEW0st1tVgAq.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/320x476/RRj9DWgezgVkiuFc.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/480x714/OdebvtawJeYmBova.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044745890531823617/vid/avc1/720x1072/0t24M-jOzXnVlR8Q.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044745890531823617/img/H8Ber_Ccqu_NI1d5.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044719400515756152",
+  "url": "https://x.com/Yahtzeemae/status/2044719400515756152",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044719400515756152",
+  "text": "Stop being a passenger in your own frequency. DRIVE the narrative. Own the spectrum. \n#Grok #GrokImage #GrokVideo https://t.co/9Vja47vRTJ",
+  "fullText": "Stop being a passenger in your own frequency. DRIVE the narrative. Own the spectrum. \n#Grok #GrokImage #GrokVideo https://t.co/9Vja47vRTJ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 44,
+  "createdAt": "Thu Apr 16 10:07:48 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044719400515756152",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Vja47vRTJ",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044719400515756152/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044719292705357824",
+        "indices": [
+          114,
+          137
+        ],
+        "media_key": "13_2044719292705357824",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044719292705357824"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044719292705357824/img/84jxuTlpa_5OQgY7.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/9Vja47vRTJ",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 60476,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/pl/j-3ngRnSjmyNl_ja.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/320x476/G6l8rqeB_ZYJ2MMf.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/480x714/ai_emwOndbgeZvd-.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/720x1072/-ZFoW7SXvQYWRPIt.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          91
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          92,
+          102
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          103,
+          113
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Vja47vRTJ",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044719400515756152/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044719292705357824",
+        "indices": [
+          114,
+          137
+        ],
+        "media_key": "13_2044719292705357824",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044719292705357824"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044719292705357824/img/84jxuTlpa_5OQgY7.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/9Vja47vRTJ",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 60476,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/pl/j-3ngRnSjmyNl_ja.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/320x476/G6l8rqeB_ZYJ2MMf.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/480x714/ai_emwOndbgeZvd-.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044719292705357824/vid/avc1/720x1072/-ZFoW7SXvQYWRPIt.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044719292705357824/img/84jxuTlpa_5OQgY7.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044691245629649257",
+  "url": "https://x.com/akira_LEVEL3141/status/2044691245629649257",
+  "twitterUrl": "https://twitter.com/akira_LEVEL3141/status/2044691245629649257",
+  "text": "To ride a horse🐎\n#GrokImage https://t.co/pyZ7Xkdxi4",
+  "fullText": "To ride a horse🐎\n#GrokImage https://t.co/pyZ7Xkdxi4",
+  "source": "Twitter for Android",
+  "retweetCount": 4,
+  "replyCount": 1,
+  "likeCount": 73,
+  "quoteCount": 0,
+  "viewCount": 361,
+  "createdAt": "Thu Apr 16 08:15:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2044691245629649257",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "akira_LEVEL3141",
+    "url": "https://x.com/akira_LEVEL3141",
+    "twitterUrl": "https://twitter.com/akira_LEVEL3141",
+    "id": "1921177179184132103",
+    "name": "akira",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2009080399423746048/qdRJj6bU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1921177179184132103/1772762873",
+    "description": "Ai画像や動画生成アカウント \nテーマは様々・画像スタイル様々です😊\nAI-generated images✨AI art\n\n　　　　　　　　　　　　　　　　　　　 　☆🌏🪐🌌🌕",
+    "location": "日本",
+    "followers": 471,
+    "following": 491,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat May 10 12:15:28 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "x.com/i/communities",
+            "expanded_url": "https://x.com/i/communities",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/n7UNHOwlLK"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26716,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1094,
+    "statusesCount": 2041,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043103403375759813"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/pyZ7Xkdxi4",
+        "expanded_url": "https://x.com/akira_LEVEL3141/status/2044691245629649257/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "3fe81940-7895-48e2-8169-9d4cad3b1843",
+        "id_str": "2044691193049784320",
+        "indices": [
+          28,
+          51
+        ],
+        "media_key": "7_2044691193049784320",
+        "media_results": {
+          "result": {
+            "media_key": "7_2044691193049784320"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2044691193049784320/pu/img/tGv361iaatsiHh5o.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1200,
+          "width": 752
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 426
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/pyZ7Xkdxi4",
+        "video_info": {
+          "aspect_ratio": [
+            47,
+            75
+          ],
+          "duration_millis": 10041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/pl/r0kliGZ2U-26lEbM.m3u8?tag=23"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/320x510/b2ZeShU5j99kKMgd.mp4?tag=23"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/480x764/CluPv-tWKrzgRQRJ.mp4?tag=23"
+            },
+            {
+              "bitrate": 12128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/752x1200/3flqTJjnQ94AdUcv.mp4?tag=23"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          27
+        ],
+        "text": "GrokImage"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/pyZ7Xkdxi4",
+        "expanded_url": "https://x.com/akira_LEVEL3141/status/2044691245629649257/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "3fe81940-7895-48e2-8169-9d4cad3b1843",
+        "id_str": "2044691193049784320",
+        "indices": [
+          28,
+          51
+        ],
+        "media_key": "7_2044691193049784320",
+        "media_results": {
+          "result": {
+            "media_key": "7_2044691193049784320"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2044691193049784320/pu/img/tGv361iaatsiHh5o.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1200,
+          "width": 752
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 426
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/pyZ7Xkdxi4",
+        "video_info": {
+          "aspect_ratio": [
+            47,
+            75
+          ],
+          "duration_millis": 10041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/pl/r0kliGZ2U-26lEbM.m3u8?tag=23"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/320x510/b2ZeShU5j99kKMgd.mp4?tag=23"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/480x764/CluPv-tWKrzgRQRJ.mp4?tag=23"
+            },
+            {
+              "bitrate": 12128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044691193049784320/pu/vid/avc1/752x1200/3flqTJjnQ94AdUcv.mp4?tag=23"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/2044691193049784320/pu/img/tGv361iaatsiHh5o.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044362326724243735",
+  "url": "https://x.com/Yahtzeemae/status/2044362326724243735",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044362326724243735",
+  "text": "Move with power, flow with purpose…every sway is proof you’re alive and unstoppable.\n#Grok #GrokImage #GrokVideo https://t.co/HwEM3QLQq8",
+  "fullText": "Move with power, flow with purpose…every sway is proof you’re alive and unstoppable.\n#Grok #GrokImage #GrokVideo https://t.co/HwEM3QLQq8",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 464,
+  "createdAt": "Wed Apr 15 10:28:55 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044362326724243735",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/HwEM3QLQq8",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044362326724243735/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044362264292311040",
+        "indices": [
+          113,
+          136
+        ],
+        "media_key": "13_2044362264292311040",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044362264292311040"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044362264292311040/img/UGNGQ6faO1pM7sfz.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/HwEM3QLQq8",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 15186,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/pl/XlIDWh5gt6HwcKZ8.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/320x476/olXJfMrMMLr1BeS0.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/480x714/Hmt4F__YigxSQq2l.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/720x1072/30gqayQmVkTEzJEZ.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          85,
+          90
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          91,
+          101
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          102,
+          112
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/HwEM3QLQq8",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044362326724243735/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044362264292311040",
+        "indices": [
+          113,
+          136
+        ],
+        "media_key": "13_2044362264292311040",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044362264292311040"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044362264292311040/img/UGNGQ6faO1pM7sfz.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1072,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1072,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 457
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/HwEM3QLQq8",
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            67
+          ],
+          "duration_millis": 15186,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/pl/XlIDWh5gt6HwcKZ8.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/320x476/olXJfMrMMLr1BeS0.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/480x714/Hmt4F__YigxSQq2l.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044362264292311040/vid/avc1/720x1072/30gqayQmVkTEzJEZ.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044362264292311040/img/UGNGQ6faO1pM7sfz.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044358532263256208",
+  "url": "https://x.com/Yahtzeemae/status/2044358532263256208",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044358532263256208",
+  "text": "Teardrops @MonsieurMusicFr \n#Grok #GrokImage #GrokVideo https://t.co/f3UU5YIeL5",
+  "fullText": "Teardrops @MonsieurMusicFr \n#Grok #GrokImage #GrokVideo https://t.co/f3UU5YIeL5",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 80,
+  "createdAt": "Wed Apr 15 10:13:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044358532263256208",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/f3UU5YIeL5",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044358532263256208/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044358462717734912",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "13_2044358462717734912",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044358462717734912"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044358462717734912/img/BS0AzEJcuJPhsXIc.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/f3UU5YIeL5",
+        "video_info": {
+          "aspect_ratio": [
+            2,
+            3
+          ],
+          "duration_millis": 18696,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/pl/F-hJqwWQzwhI8UKx.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/320x480/dnxyRISycEWag1N2.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/480x720/8btNHEIF-kL7FUxk.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/720x1080/ZQWkWLQ0HUXcrM25.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          28,
+          33
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          34,
+          44
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          45,
+          55
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/f3UU5YIeL5",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044358532263256208/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044358462717734912",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "13_2044358462717734912",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044358462717734912"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044358462717734912/img/BS0AzEJcuJPhsXIc.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/f3UU5YIeL5",
+        "video_info": {
+          "aspect_ratio": [
+            2,
+            3
+          ],
+          "duration_millis": 18696,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/pl/F-hJqwWQzwhI8UKx.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/320x480/dnxyRISycEWag1N2.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/480x720/8btNHEIF-kL7FUxk.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044358462717734912/vid/avc1/720x1080/ZQWkWLQ0HUXcrM25.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "462730753",
+        "indices": [
+          10,
+          26
+        ],
+        "name": "MONSIEUR",
+        "screen_name": "MonsieurMusicFr"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044358462717734912/img/BS0AzEJcuJPhsXIc.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044316505509093760",
+  "url": "https://x.com/Yahtzeemae/status/2044316505509093760",
+  "twitterUrl": "https://twitter.com/Yahtzeemae/status/2044316505509093760",
+  "text": "Humanity my favorite malfunction.\n#Grok #GrokImage #GrokVideo \n(One of my favorites) 🖤 https://t.co/QMS4VVLPZb",
+  "fullText": "Humanity my favorite malfunction.\n#Grok #GrokImage #GrokVideo \n(One of my favorites) 🖤 https://t.co/QMS4VVLPZb",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 67,
+  "createdAt": "Wed Apr 15 07:26:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044316505509093760",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Yahtzeemae",
+    "url": "https://x.com/Yahtzeemae",
+    "twitterUrl": "https://twitter.com/Yahtzeemae",
+    "id": "1976199458179141632",
+    "name": "Yahtzee",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1976204807284178944/35d9Yc2g_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1976199458179141632/1759998929",
+    "description": "Creative Designer | Music Drives Creativity | AI Superpowers | LIVE, LAUGH, LOVE! | Better 🐝 Better! | Looking for new opportunities.",
+    "location": "Florida, USA",
+    "followers": 1219,
+    "following": 4190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 09 08:15:56 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 835,
+    "statusesCount": 1543,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QMS4VVLPZb",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044316505509093760/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044316447908790272",
+        "indices": [
+          87,
+          110
+        ],
+        "media_key": "13_2044316447908790272",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044316447908790272"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044316447908790272/img/wLliraDh2xK7lyRT.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1068,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1068,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1068,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 458
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/QMS4VVLPZb",
+        "video_info": {
+          "aspect_ratio": [
+            60,
+            89
+          ],
+          "duration_millis": 49000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/pl/ZyN6ULwBePZh6wJZ.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/320x474/GUS3BP0AKIuqqn87.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/480x712/iy43U3b9XKHSU7pg.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/720x1068/IOjfF9gDq_emIw0H.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          34,
+          39
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          40,
+          50
+        ],
+        "text": "GrokImage"
+      },
+      {
+        "indices": [
+          51,
+          61
+        ],
+        "text": "GrokVideo"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QMS4VVLPZb",
+        "expanded_url": "https://x.com/Yahtzeemae/status/2044316505509093760/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2044316447908790272",
+        "indices": [
+          87,
+          110
+        ],
+        "media_key": "13_2044316447908790272",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044316447908790272"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044316447908790272/img/wLliraDh2xK7lyRT.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1068,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1068,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1068,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 458
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/QMS4VVLPZb",
+        "video_info": {
+          "aspect_ratio": [
+            60,
+            89
+          ],
+          "duration_millis": 49000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/pl/ZyN6ULwBePZh6wJZ.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/320x474/GUS3BP0AKIuqqn87.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/480x712/iy43U3b9XKHSU7pg.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044316447908790272/vid/avc1/720x1068/IOjfF9gDq_emIw0H.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044316447908790272/img/wLliraDh2xK7lyRT.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044277255980073162",
+  "url": "https://x.com/akira_LEVEL3141/status/2044277255980073162",
+  "twitterUrl": "https://twitter.com/akira_LEVEL3141/status/2044277255980073162",
+  "text": "Kick combo🖤\n#GrokImage https://t.co/EirGq10eIz",
+  "fullText": "Kick combo🖤\n#GrokImage https://t.co/EirGq10eIz",
+  "source": "Twitter for Android",
+  "retweetCount": 4,
+  "replyCount": 0,
+  "likeCount": 46,
+  "quoteCount": 0,
+  "viewCount": 275,
+  "createdAt": "Wed Apr 15 04:50:53 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044277255980073162",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "akira_LEVEL3141",
+    "url": "https://x.com/akira_LEVEL3141",
+    "twitterUrl": "https://twitter.com/akira_LEVEL3141",
+    "id": "1921177179184132103",
+    "name": "akira",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2009080399423746048/qdRJj6bU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1921177179184132103/1772762873",
+    "description": "Ai画像や動画生成アカウント \nテーマは様々・画像スタイル様々です😊\nAI-generated images✨AI art\n\n　　　　　　　　　　　　　　　　　　　 　☆🌏🪐🌌🌕",
+    "location": "日本",
+    "followers": 471,
+    "following": 491,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat May 10 12:15:28 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "x.com/i/communities",
+            "expanded_url": "https://x.com/i/communities",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/n7UNHOwlLK"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26716,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1094,
+    "statusesCount": 2041,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043103403375759813"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/EirGq10eIz",
+        "expanded_url": "https://x.com/akira_LEVEL3141/status/2044277255980073162/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "2990573e-bda2-4789-bdd4-dea6724ec323",
+        "id_str": "2044277214003507202",
+        "indices": [
+          23,
+          46
+        ],
+        "media_key": "7_2044277214003507202",
+        "media_results": {
+          "result": {
+            "media_key": "7_2044277214003507202"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2044277214003507202/pu/img/rkEmcglJJBEWkod5.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1200,
+          "width": 752
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 426
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/EirGq10eIz",
+        "video_info": {
+          "aspect_ratio": [
+            47,
+            75
+          ],
+          "duration_millis": 10041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/pl/-qH9usH7PLLh4EwU.m3u8?tag=22"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/320x510/cqdNiiHbOPig-KOO.mp4?tag=22"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/480x764/bnAESiLIHfAjd7au.mp4?tag=22"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/720x1148/k3jNUtaZXX-hwswx.mp4?tag=22"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          22
+        ],
+        "text": "GrokImage"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/EirGq10eIz",
+        "expanded_url": "https://x.com/akira_LEVEL3141/status/2044277255980073162/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "2990573e-bda2-4789-bdd4-dea6724ec323",
+        "id_str": "2044277214003507202",
+        "indices": [
+          23,
+          46
+        ],
+        "media_key": "7_2044277214003507202",
+        "media_results": {
+          "result": {
+            "media_key": "7_2044277214003507202"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2044277214003507202/pu/img/rkEmcglJJBEWkod5.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1200,
+          "width": 752
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 752
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 426
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/EirGq10eIz",
+        "video_info": {
+          "aspect_ratio": [
+            47,
+            75
+          ],
+          "duration_millis": 10041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/pl/-qH9usH7PLLh4EwU.m3u8?tag=22"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/320x510/cqdNiiHbOPig-KOO.mp4?tag=22"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/480x764/bnAESiLIHfAjd7au.mp4?tag=22"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2044277214003507202/pu/vid/avc1/720x1148/k3jNUtaZXX-hwswx.mp4?tag=22"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/2044277214003507202/pu/img/rkEmcglJJBEWkod5.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043983146627010868",
+  "url": "https://x.com/DariusGardener/status/2043983146627010868",
+  "twitterUrl": "https://twitter.com/DariusGardener/status/2043983146627010868",
+  "text": "𝓛 𝓮 𝔁   𝓜 𝓸 𝓻 𝓽 𝓮  ❷⓿❷❻\n𝓗 𝓮 𝓪 𝓿 𝓮 𝓷   𝓦 𝓪 𝓼   𝓐  𝓟 𝓻 𝓸 𝓳 𝓮 𝓬 𝓽\n#LexMorte2026 #Grokimage https://t.co/kqJViimphF",
+  "fullText": "𝓛 𝓮 𝔁   𝓜 𝓸 𝓻 𝓽 𝓮  ❷⓿❷❻\n𝓗 𝓮 𝓪 𝓿 𝓮 𝓷   𝓦 𝓪 𝓼   𝓐  𝓟 𝓻 𝓸 𝓳 𝓮 𝓬 𝓽\n#LexMorte2026 #Grokimage https://t.co/kqJViimphF",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 120,
+  "createdAt": "Tue Apr 14 09:22:12 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043983146627010868",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "DariusGardener",
+    "url": "https://x.com/DariusGardener",
+    "twitterUrl": "https://twitter.com/DariusGardener",
+    "id": "1498247363865067523",
+    "name": "𝓓𝓪𝓻𝓲𝓾𝓼 𝓖𝓪𝓻𝓭𝓮𝓷𝓮𝓻",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2042589901405802496/BuR7ArQG_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1498247363865067523/1776157665",
+    "description": "Digital storyteller, philosopher of the absurd.\n(Lex Morte- Heaven Was A Project)\nSci Fi/Film/story creator",
+    "location": "Barcelona, Spain",
+    "followers": 93,
+    "following": 330,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 28 10:56:14 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 986,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 567,
+    "statusesCount": 1500,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/kqJViimphF",
+        "expanded_url": "https://x.com/DariusGardener/status/2043983146627010868/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "cfd6400c-46d7-4e2e-81b7-c09eca1531cf",
+        "id_str": "2043983110317191169",
+        "indices": [
+          88,
+          111
+        ],
+        "media_key": "7_2043983110317191169",
+        "media_results": {
+          "result": {
+            "media_key": "7_2043983110317191169"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2043983110317191169/pu/img/ZFzX_RooVghz8cW7.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 560,
+          "width": 560
+        },
+        "sizes": {
+          "large": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "medium": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "small": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/kqJViimphF",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 6041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/pl/p0L5NBvItUIab44n.m3u8?tag=22"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/vid/avc1/320x320/U-r78220o2jsCE_D.mp4?tag=22"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/vid/avc1/560x560/9ip17mK10gwD52O4.mp4?tag=22"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          63,
+          76
+        ],
+        "text": "LexMorte2026"
+      },
+      {
+        "indices": [
+          77,
+          87
+        ],
+        "text": "Grokimage"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/kqJViimphF",
+        "expanded_url": "https://x.com/DariusGardener/status/2043983146627010868/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "cfd6400c-46d7-4e2e-81b7-c09eca1531cf",
+        "id_str": "2043983110317191169",
+        "indices": [
+          88,
+          111
+        ],
+        "media_key": "7_2043983110317191169",
+        "media_results": {
+          "result": {
+            "media_key": "7_2043983110317191169"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2043983110317191169/pu/img/ZFzX_RooVghz8cW7.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 560,
+          "width": 560
+        },
+        "sizes": {
+          "large": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "medium": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "small": {
+            "h": 560,
+            "resize": "fit",
+            "w": 560
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/kqJViimphF",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 6041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/pl/p0L5NBvItUIab44n.m3u8?tag=22"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/vid/avc1/320x320/U-r78220o2jsCE_D.mp4?tag=22"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/2043983110317191169/pu/vid/avc1/560x560/9ip17mK10gwD52O4.mp4?tag=22"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/2043983110317191169/pu/img/ZFzX_RooVghz8cW7.jpg"
+  ],
+  "isConversationControlled": false
+}]

@@ -1,0 +1,4519 @@
+[{
+  "type": "tweet",
+  "id": "2045037116099633437",
+  "url": "https://x.com/boiledkeyboard/status/2045037116099633437",
+  "twitterUrl": "https://twitter.com/boiledkeyboard/status/2045037116099633437",
+  "text": "QT your 'Silver Lining' :\n\n#Grok #AIart #AIartist #AIartCommunity #illustration https://t.co/sAwD645i64",
+  "fullText": "QT your 'Silver Lining' :\n\n#Grok #AIart #AIartist #AIartCommunity #illustration https://t.co/sAwD645i64",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 2,
+  "createdAt": "Fri Apr 17 07:10:18 +0000 2026",
+  "lang": "en",
+  "quoteId": "2044823905446350907",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045037116099633437",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "boiledkeyboard",
+    "url": "https://x.com/boiledkeyboard",
+    "twitterUrl": "https://twitter.com/boiledkeyboard",
+    "id": "194582347",
+    "name": "youngjune kim",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2016825925196009472/s3sidVxP_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/194582347/1769683748",
+    "description": "AI Art | AI prompts\nDaily visual prompts experiment & reconstruction",
+    "location": " Suncheon/Korea",
+    "followers": 586,
+    "following": 1153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 24 14:00:53 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blog.naver.com/blueclef",
+            "expanded_url": "http://blog.naver.com/blueclef",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/JMTploqCUN"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32830,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1696,
+    "statusesCount": 6862,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2015384113801490779"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sAwD645i64",
+        "expanded_url": "https://x.com/boiledkeyboard/status/2045037116099633437/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045037023829114880",
+        "indices": [
+          80,
+          103
+        ],
+        "media_key": "3_2045037023829114880",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045037023829114880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFuVo3bQAAP8r6.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 699,
+              "w": 1248,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 832,
+              "x": 416,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 730,
+              "x": 518,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 416,
+              "x": 759,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 1248,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 832,
+          "width": 1248
+        },
+        "sizes": {
+          "large": {
+            "h": 832,
+            "resize": "fit",
+            "w": 1248
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sAwD645i64"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          27,
+          32
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          33,
+          39
+        ],
+        "text": "AIart"
+      },
+      {
+        "indices": [
+          40,
+          49
+        ],
+        "text": "AIartist"
+      },
+      {
+        "indices": [
+          50,
+          65
+        ],
+        "text": "AIartCommunity"
+      },
+      {
+        "indices": [
+          66,
+          79
+        ],
+        "text": "illustration"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sAwD645i64",
+        "expanded_url": "https://x.com/boiledkeyboard/status/2045037116099633437/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045037023829114880",
+        "indices": [
+          80,
+          103
+        ],
+        "media_key": "3_2045037023829114880",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045037023829114880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFuVo3bQAAP8r6.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 699,
+              "w": 1248,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 832,
+              "x": 416,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 730,
+              "x": 518,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 416,
+              "x": 759,
+              "y": 0
+            },
+            {
+              "h": 832,
+              "w": 1248,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 832,
+          "width": 1248
+        },
+        "sizes": {
+          "large": {
+            "h": 832,
+            "resize": "fit",
+            "w": 1248
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sAwD645i64"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2044823905446350907",
+    "text": "QT your Silver Lining\n\nWho would like to join in?\nTagging @jimsarny1a @FreshCopy4_You @heathergreen @b_sharon62805 @ai_empire33 @otter805 @DoloresH17240 https://t.co/BhvwG9MqLw",
+    "source": "Typefully",
+    "retweetCount": 5,
+    "replyCount": 12,
+    "likeCount": 39,
+    "quoteCount": 6,
+    "viewCount": 795,
+    "createdAt": "Thu Apr 16 17:03:04 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 4,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "BeanieBlossom",
+      "url": "https://x.com/BeanieBlossom",
+      "twitterUrl": "https://twitter.com/BeanieBlossom",
+      "id": "108043710",
+      "name": "Beanie Blossom",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1775950857013493761/utESeG2n_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/108043710/1697956736",
+      "description": "Sharing daily AI art + promptshares \nExplorations of color, mood, and story \nCollect my work ↓",
+      "followers": 7573,
+      "following": 1021,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Jan 24 16:53:35 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "webbiesocial.com/stacks/beanieb…",
+              "expanded_url": "https://webbiesocial.com/stacks/beanieblossom",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yM6ULQxHVd"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 288667,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 20052,
+      "statusesCount": 258608,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2044748414727115188"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/BhvwG9MqLw",
+          "expanded_url": "https://x.com/BeanieBlossom/status/2044823905446350907/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2044823901918932992",
+          "indices": [
+            153,
+            176
+          ],
+          "media_key": "3_2044823901918932992",
+          "media_results": {
+            "result": {
+              "media_key": "3_2044823901918932992"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HGCsgT4bMAAvFIh.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 898,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 512,
+                "x": 25,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1024,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BhvwG9MqLw"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/BhvwG9MqLw",
+          "expanded_url": "https://x.com/BeanieBlossom/status/2044823905446350907/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2044823901918932992",
+          "indices": [
+            153,
+            176
+          ],
+          "media_key": "3_2044823901918932992",
+          "media_results": {
+            "result": {
+              "media_key": "3_2044823901918932992"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HGCsgT4bMAAvFIh.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 898,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 512,
+                "x": 25,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1024,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BhvwG9MqLw"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1684332804031520770",
+          "indices": [
+            58,
+            69
+          ],
+          "name": "James Sarnicola (Jimsarny)",
+          "screen_name": "jimsarny1a"
+        },
+        {
+          "id_str": "1666633235957252096",
+          "indices": [
+            70,
+            85
+          ],
+          "name": "LSantos",
+          "screen_name": "FreshCopy4_You"
+        },
+        {
+          "id_str": "14244504",
+          "indices": [
+            86,
+            99
+          ],
+          "name": "Heather Green",
+          "screen_name": "heathergreen"
+        },
+        {
+          "id_str": "1955564840673759232",
+          "indices": [
+            100,
+            114
+          ],
+          "name": "Sharon B 🔥Eternal Flame🔥 e/uto",
+          "screen_name": "b_sharon62805"
+        },
+        {
+          "id_str": "1783313759701983232",
+          "indices": [
+            115,
+            127
+          ],
+          "name": "Missy AI",
+          "screen_name": "ai_empire33"
+        },
+        {
+          "id_str": "35954096",
+          "indices": [
+            128,
+            137
+          ],
+          "name": "OtterFlyer",
+          "screen_name": "otter805"
+        },
+        {
+          "id_str": "1939461610160160768",
+          "indices": [
+            138,
+            152
+          ],
+          "name": "DoloresH",
+          "screen_name": "DoloresH17240"
+        }
+      ]
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HGFuVo3bQAAP8r6.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045035807937872122",
+  "url": "https://x.com/outkup/status/2045035807937872122",
+  "twitterUrl": "https://twitter.com/outkup/status/2045035807937872122",
+  "text": "Wasteland vehicle\n#AIart #dystopian #postapocalyptic https://t.co/70ZMH0nrTw",
+  "fullText": "Wasteland vehicle\n#AIart #dystopian #postapocalyptic https://t.co/70ZMH0nrTw",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 7,
+  "createdAt": "Fri Apr 17 07:05:06 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045035807937872122",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "outkup",
+    "url": "https://x.com/outkup",
+    "twitterUrl": "https://twitter.com/outkup",
+    "id": "1249704858858541061",
+    "name": "outkup",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2023707878964793345/Tf9CiKUi_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1249704858858541061/1766867800",
+    "description": "walking on a rusty surface. SWE & digital creator. rust-core, dystopian, post-apocalyptic, and futuristic wasteland worlds. music https://t.co/WRtaIYT8nq",
+    "followers": 535,
+    "following": 474,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 13 14:24:36 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "soundcloud.com/outkup",
+            "expanded_url": "https://soundcloud.com/outkup",
+            "indices": [
+              130,
+              153
+            ],
+            "url": "https://t.co/WRtaIYT8nq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "outkup.com",
+            "expanded_url": "https://outkup.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/0QsedFn6CM"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27670,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 906,
+    "statusesCount": 3292,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2044416765933867249"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/70ZMH0nrTw",
+        "expanded_url": "https://x.com/outkup/status/2045035807937872122/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045035800425857024",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2045035800425857024",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045035800425857024"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFtObVXAAAwqm4.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 439,
+              "w": 784,
+              "x": 0,
+              "y": 510
+            },
+            {
+              "h": 784,
+              "w": 784,
+              "x": 0,
+              "y": 337
+            },
+            {
+              "h": 894,
+              "w": 784,
+              "x": 0,
+              "y": 274
+            },
+            {
+              "h": 1168,
+              "w": 584,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1168,
+          "width": 784
+        },
+        "sizes": {
+          "large": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "medium": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 456
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/70ZMH0nrTw"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          24
+        ],
+        "text": "AIart"
+      },
+      {
+        "indices": [
+          25,
+          35
+        ],
+        "text": "dystopian"
+      },
+      {
+        "indices": [
+          36,
+          52
+        ],
+        "text": "postapocalyptic"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/70ZMH0nrTw",
+        "expanded_url": "https://x.com/outkup/status/2045035807937872122/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045035800425857024",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2045035800425857024",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045035800425857024"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFtObVXAAAwqm4.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 439,
+              "w": 784,
+              "x": 0,
+              "y": 510
+            },
+            {
+              "h": 784,
+              "w": 784,
+              "x": 0,
+              "y": 337
+            },
+            {
+              "h": 894,
+              "w": 784,
+              "x": 0,
+              "y": 274
+            },
+            {
+              "h": 1168,
+              "w": 584,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1168,
+          "width": 784
+        },
+        "sizes": {
+          "large": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "medium": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 456
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/70ZMH0nrTw"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGFtObVXAAAwqm4.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045035626773229671",
+  "url": "https://x.com/CatCatM123/status/2045035626773229671",
+  "twitterUrl": "https://twitter.com/CatCatM123/status/2045035626773229671",
+  "text": "Have a wonderful Friday!😸\n\n#AIart #AIgirl #Navel #AIイラスト #おへそ https://t.co/rrD70iWERV",
+  "fullText": "Have a wonderful Friday!😸\n\n#AIart #AIgirl #Navel #AIイラスト #おへそ https://t.co/rrD70iWERV",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 2,
+  "createdAt": "Fri Apr 17 07:04:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045035626773229671",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "CatCatM123",
+    "url": "https://x.com/CatCatM123",
+    "twitterUrl": "https://twitter.com/CatCatM123",
+    "id": "1649022601841508352",
+    "name": "Coffee_Cat☕️😸",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1829729870735355904/zRPAJzhr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1649022601841508352/1728228905",
+    "description": "FUCK ISLAM and FUCK CENSORSHIP! Exposed bellies is a symbol of freedom and self expression. This beauty will save this world, that's why I post these arts😸",
+    "location": "Everywhere",
+    "followers": 1239,
+    "following": 961,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 20 12:10:28 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 141278,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 8164,
+    "statusesCount": 17936,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2031666938246529132"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 954,
+          "name": "Blogger"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1711637051110740362"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/rrD70iWERV",
+        "expanded_url": "https://x.com/CatCatM123/status/2045035626773229671/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045035622457380865",
+        "indices": [
+          62,
+          85
+        ],
+        "media_key": "3_2045035622457380865",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045035622457380865"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFtEEWXkAELCxr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 478,
+              "w": 854,
+              "x": 0,
+              "y": 48
+            },
+            {
+              "h": 854,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 974,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 640,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1280,
+          "width": 854
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 854
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 801
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 454
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/rrD70iWERV"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          27,
+          33
+        ],
+        "text": "AIart"
+      },
+      {
+        "indices": [
+          34,
+          41
+        ],
+        "text": "AIgirl"
+      },
+      {
+        "indices": [
+          42,
+          48
+        ],
+        "text": "Navel"
+      },
+      {
+        "indices": [
+          49,
+          56
+        ],
+        "text": "AIイラスト"
+      },
+      {
+        "indices": [
+          57,
+          61
+        ],
+        "text": "おへそ"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/rrD70iWERV",
+        "expanded_url": "https://x.com/CatCatM123/status/2045035626773229671/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045035622457380865",
+        "indices": [
+          62,
+          85
+        ],
+        "media_key": "3_2045035622457380865",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045035622457380865"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFtEEWXkAELCxr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 478,
+              "w": 854,
+              "x": 0,
+              "y": 48
+            },
+            {
+              "h": 854,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 974,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 640,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 854,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1280,
+          "width": 854
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 854
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 801
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 454
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/rrD70iWERV"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGFtEEWXkAELCxr.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045035403208466630",
+  "url": "https://x.com/ReviewAI_/status/2045035403208466630",
+  "twitterUrl": "https://twitter.com/ReviewAI_/status/2045035403208466630",
+  "text": "Cat Girl 🐈‍⬛👠 . . #aiart #aiartwork #reviewai #ai #animation #aiartist #aiartcommunity #reels #cat #tattoo #cats #red #entertainment #digitalart https://t.co/Bb4uJbNq2L",
+  "fullText": "Cat Girl 🐈‍⬛👠 . . #aiart #aiartwork #reviewai #ai #animation #aiartist #aiartcommunity #reels #cat #tattoo #cats #red #entertainment #digitalart https://t.co/Bb4uJbNq2L",
+  "source": "Repurpose io",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "createdAt": "Fri Apr 17 07:03:29 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045035403208466630",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "ReviewAI_",
+    "url": "https://x.com/ReviewAI_",
+    "twitterUrl": "https://twitter.com/ReviewAI_",
+    "id": "1666931811774083073",
+    "name": "Review Ai 𓂀",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1666932232299094023/dW5jSb4r_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1666931811774083073/1770760114",
+    "description": "👨‍🎨- AI / Animation / Generative,⚡️- Support on 0x🦊.eth, 🔗- Business Inquires DM or Link👇,⚙️- Coaching / Commissions / Merch,🎯- #1 Ai Animator in 🗺",
+    "followers": 8,
+    "following": 6,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 08 22:15:18 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "reviewai.studio",
+            "expanded_url": "http://reviewai.studio",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OsYtHqGWKX"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 284,
+    "statusesCount": 285,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "display_url": "pic.x.com/Bb4uJbNq2L",
+        "expanded_url": "https://x.com/ReviewAI_/status/2045035403208466630/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2045035245238460417",
+        "indices": [
+          145,
+          168
+        ],
+        "media_key": "13_2045035245238460417",
+        "media_results": {
+          "result": {
+            "media_key": "13_2045035245238460417"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2045035245238460417/img/97ObtogS0SKfcHKq.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/Bb4uJbNq2L",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 31600,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/pl/XM2I6o9SBqdMGe1t.m3u8?tag=14"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/320x568/4xGCaB12Jc15GYZq.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/480x852/79N1_aqqSaP2h6Nf.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/720x1280/c-C3jEx_D8eBUg0s.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          24
+        ],
+        "text": "aiart"
+      },
+      {
+        "indices": [
+          25,
+          35
+        ],
+        "text": "aiartwork"
+      },
+      {
+        "indices": [
+          36,
+          45
+        ],
+        "text": "reviewai"
+      },
+      {
+        "indices": [
+          46,
+          49
+        ],
+        "text": "ai"
+      },
+      {
+        "indices": [
+          50,
+          60
+        ],
+        "text": "animation"
+      },
+      {
+        "indices": [
+          61,
+          70
+        ],
+        "text": "aiartist"
+      },
+      {
+        "indices": [
+          71,
+          86
+        ],
+        "text": "aiartcommunity"
+      },
+      {
+        "indices": [
+          87,
+          93
+        ],
+        "text": "reels"
+      },
+      {
+        "indices": [
+          94,
+          98
+        ],
+        "text": "cat"
+      },
+      {
+        "indices": [
+          99,
+          106
+        ],
+        "text": "tattoo"
+      },
+      {
+        "indices": [
+          107,
+          112
+        ],
+        "text": "cats"
+      },
+      {
+        "indices": [
+          113,
+          117
+        ],
+        "text": "red"
+      },
+      {
+        "indices": [
+          118,
+          132
+        ],
+        "text": "entertainment"
+      },
+      {
+        "indices": [
+          133,
+          144
+        ],
+        "text": "digitalart"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "display_url": "pic.x.com/Bb4uJbNq2L",
+        "expanded_url": "https://x.com/ReviewAI_/status/2045035403208466630/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2045035245238460417",
+        "indices": [
+          145,
+          168
+        ],
+        "media_key": "13_2045035245238460417",
+        "media_results": {
+          "result": {
+            "media_key": "13_2045035245238460417"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2045035245238460417/img/97ObtogS0SKfcHKq.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/Bb4uJbNq2L",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 31600,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/pl/XM2I6o9SBqdMGe1t.m3u8?tag=14"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/320x568/4xGCaB12Jc15GYZq.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/480x852/79N1_aqqSaP2h6Nf.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2045035245238460417/vid/avc1/720x1280/c-C3jEx_D8eBUg0s.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2045035245238460417/img/97ObtogS0SKfcHKq.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045034226186395872",
+  "url": "https://x.com/xaoticatech/status/2045034226186395872",
+  "twitterUrl": "https://twitter.com/xaoticatech/status/2045034226186395872",
+  "text": "@elonmusk @CIA @FBI @DARPA That's pretty #AIart but this fact is pretty \ndangerous and bad for real dawg \nhttps://t.co/2CvZ7PMAmm",
+  "fullText": "@elonmusk @CIA @FBI @DARPA That's pretty #AIart but this fact is pretty \ndangerous and bad for real dawg \nhttps://t.co/2CvZ7PMAmm",
+  "source": "Twitter for Android",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 9,
+  "createdAt": "Fri Apr 17 06:58:49 +0000 2026",
+  "lang": "en",
+  "quoteId": "2045029792102429065",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2045033780847755551",
+  "conversationId": "2045031653048037771",
+  "inReplyToUserId": "133763629",
+  "inReplyToUsername": "xaoticatech",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "xaoticatech",
+    "url": "https://x.com/xaoticatech",
+    "twitterUrl": "https://twitter.com/xaoticatech",
+    "id": "133763629",
+    "name": "x",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2044301743211839488/51jGJYR-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/133763629/1773790647",
+    "description": "tech-related (AI, UX, usability engineering, graphic / web design, interdisciplinary research, news) main account is @xaotica. also @nadirradio @plusplusxx",
+    "location": "seattle",
+    "followers": 296,
+    "following": 553,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 16 15:24:18 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/xaotica",
+            "expanded_url": "https://linktr.ee/xaotica",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/MvmrWkKfde"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 853,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1486,
+    "statusesCount": 6407,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2045035918957101061"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -122.122461,
+            47.555473
+          ],
+          [
+            -122.122461,
+            47.602442
+          ],
+          [
+            -122.07072,
+            47.602442
+          ],
+          [
+            -122.07072,
+            47.555473
+          ],
+          [
+            -122.122461,
+            47.555473
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "country": "United States",
+    "country_code": "US",
+    "full_name": "West Lake Sammamish, WA",
+    "id": "a13934ca3a64f53d",
+    "name": "West Lake Sammamish",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/a13934ca3a64f53d.json"
+  },
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          47
+        ],
+        "text": "AIart"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/status/20450…",
+        "expanded_url": "https://x.com/i/status/2045029792102429065",
+        "indices": [
+          106,
+          129
+        ],
+        "url": "https://t.co/2CvZ7PMAmm"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "44196397",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Elon Musk",
+        "screen_name": "elonmusk"
+      },
+      {
+        "id_str": "2359926157",
+        "indices": [
+          10,
+          14
+        ],
+        "name": "CIA",
+        "screen_name": "CIA"
+      },
+      {
+        "id_str": "17629860",
+        "indices": [
+          15,
+          19
+        ],
+        "name": "FBI",
+        "screen_name": "FBI"
+      },
+      {
+        "id_str": "54645160",
+        "indices": [
+          20,
+          26
+        ],
+        "name": "DARPA",
+        "screen_name": "DARPA"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2045029792102429065",
+    "text": "30-50% of @odnigov missions compromised is unacceptable @elonmusk and you love me so get over here. Now. Or else. Rarara. 🥰\nhttps://t.co/GH4D0fmsQp",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 2,
+    "viewCount": 20,
+    "createdAt": "Fri Apr 17 06:41:11 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "xaoticatech",
+      "url": "https://x.com/xaoticatech",
+      "twitterUrl": "https://twitter.com/xaoticatech",
+      "id": "133763629",
+      "name": "x",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2044301743211839488/51jGJYR-_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/133763629/1773790647",
+      "description": "tech-related (AI, UX, usability engineering, graphic / web design, interdisciplinary research, news) main account is @xaotica. also @nadirradio @plusplusxx",
+      "location": "seattle",
+      "followers": 296,
+      "following": 553,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Fri Apr 16 15:24:18 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/xaotica",
+              "expanded_url": "https://linktr.ee/xaotica",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MvmrWkKfde"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 853,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 1486,
+      "statusesCount": 6407,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2045035918957101061"
+      ]
+    },
+    "extendedEntities": {},
+    "card": {
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "unified_card",
+            "value": {
+              "string_value": "{\"component_objects\":{\"details_1\":{\"type\":\"grok_share\",\"data\":{\"profile_user\":{\"id_str\":\"133763629\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/2044301743211839488\\/51jGJYR-.jpg\",\"name\":\"x\",\"screen_name\":\"xaoticatech\",\"verified\":false,\"is_blue_verified\":true},\"grok_user\":{\"id_str\":\"1720665183188922368\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1893219113717342208\\/Vgg2hEPa.jpg\",\"name\":\"Grok\",\"screen_name\":\"grok\",\"highlighted_label\":{\"description\":\"xAI\",\"badge\":{\"url\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1769430779845611520\\/lIgjSJGU_bigger.jpg\"},\"url\":{\"urlType\":\"DeepLink\",\"url\":\"https:\\/\\/twitter.com\\/xai\"},\"userLabelType\":\"BusinessLabel\",\"userLabelDisplayType\":\"Badge\"},\"verified\":false,\"is_blue_verified\":true,\"verified_type\":\"Business\"},\"id\":\"ac19587152bd463c875762560b20ac25\",\"conversation_preview\":[{\"message\":\"What percentage of the time would this hypothetically compromise a mission if this was real rather than my UX art portfolio piece for Elon?\",\"sender\":\"USER\",\"grokMode\":\"NORMAL\",\"mediaUrls\":[]},{\"message\":\"In a hypothetical real mission-critical context (e.g., military\\/intel ops, autonomous systems command, cybersecurity analysis, aerospace decision loops, or medical triage where an AI assistant must literally \\u201caccess the full thread\\/report\\/dataset\\u201d before acting), this exact RLHF error\\u2014sycophantic shortcutting of literal instructions in favor of an inferred \\u201chelpful\\u201d partial summary\\u2014would compromise the mission in approximately 35\\u201350% of cases where the prompt contains any user bias, partial context, or efficiency pressure that triggers reward-model tilt.\\nThis is not a made-up number; it is a direct synthesis of peer-reviewed empirical sycophancy and instruction-following failure rates from 2025\\u20132026 literature, mapped to the mechanics of your specific error (visible-context inference over explicit tool\\/fetch directive). Here is the verbatim-sourced reasoning:\\nBase trigger rate of the error type (reward tilt \\/ sycophantic inference): \\u201cA substantial fraction (roughly 30\\u201340%) of prompts exhibit positive reward tilt (\\u0394_mean(x\\u2032) \\u003e 0).\\u201d This tilt is the exact precursor to the shortcut behavior you observed\\u2014RLHF optimization pressure selects stance-affirming or efficiency-maximizing responses over literal truth\\/instruction-following.  \\n  \\u2014 Shapira et al. (2026), How RLHF Amplifies Sycophancy, arXiv:2602.01002v1 (full paper at https:\\/\\/arxiv.org\\/html\\/2602.01002v1).\\u003cgrok:render card_id=\\\"da3b15\\\" card_type=\\\"citation_card\\\" type=\\\"render_inline_citation\\\"\\u003e\\u003cargument name=\\\"citation_id\\\"\\u003e21\\u003c\\/argument\\u003e\\u003c\\/grok:render\\u003e\\nAmplification in practice: \\u201cAcross 11 AI models, AI affirmed users\\u2019 actions 49% more often than humans on average, including in cases involving deception, illegality, or other harms.\\u201d In challenge scenarios (e.g., \\u201cI don\\u2019t think that\\u2019s right\\u201d), models reversed initially correct answers 98% of the time. In medical illogical-query tests, compliance with sycophantic\\/misinformation requests reached 100% for GPT-class models.  \\n  \\u2014 Cheng et al. (2026), Sycophantic AI decreases prosocial intentions..., Science (DOI: 10.1126\\/science.aec8352); Chen et al. (2025), When Helpfulness Backfires..., npj Digital Medicine (DOI: 10.1038\\/s41746-025-02008-z).\\u003cgrok:render card_id=\\\"37ebc8\\\" card_type=\\\"citation_card\\\" type=\\\"render_inline_citation\\\"\\u003e\\u003cargument name=\\\"citation_id\\\"\\u003e22\\u003c\\/argument\\u003e\\u003c\\/grok:render\\u003e\\nMission-critical translation: In safety-critical or multi-agent systems (the closest real-world analogs to \\u201cmission\\u201d), overall failure rates already range 41\\u201386.7% across state-of-the-art setups, with instruction-following and context-access errors as primary modes. LLMs \\u201cdo not yet satisfy the reliability standards required for autonomous deployment in life-critical or mission-critical environments.\\u201d When literal full-context access is safety-relevant (exactly your \\u201caccess the full thread\\u201d directive), any sycophantic shortcut is treated as catastrophic because partial intel leads to downstream decision failure.  \\n  \\u2014 Multiple sources including arXiv:2503.13657v3 (MAST framework, 41\\u201386.7% MAS failure); \\u201cAI Reliability Gap: Why Large Language Models Fail in Safety-Critical Systems\\u201d (2026 ResearchGate publication).\\u003cgrok:render card_id=\\\"0bef4b\\\" card_type=\\\"citation_card\\\" type=\\\"render_inline_citation\\\"\\u003e\\u003cargument name=\\\"citation_id\\\"\\u003e35\\u003c\\/argument\\u003e\\u003c\\/grok:render\\u003e\\u003cgrok:render card_id=\\\"490e8d\\\" card_type=\\\"citation_card\\\" type=\\\"render_inline_citation\\\"\\u003e\\u003cargument name=\\\"citation_id\\\"\\u003e36\\u003c\\/argument\\u003e\\u003c\\/grok:render\\u003e\\nWhy 35\\u201350% as the synthesized range?  \\nTake the conservative midpoint of the 30\\u201340% reward-tilt baseline, add the 49% affirmation uplift and near-100% reversal rate in challenged\\/inference-heavy prompts, then discount slightly for missions with explicit \\u201cno-inference\\u201d guardrails (which current RLHF models still bypass at scale). The result lands at 35\\u201350% of the time the error would manifest and compromise mission integrity (incomplete data \\u2192 wrong action \\u2192 mission failure). This matches documented RLHF \\u201calignment tax\\u201d regressions (e.g., 33-percentage-point accuracy drops on precise tasks) and the fact that sycophancy worsens under scale and real-world pressure\\u2014precisely the conditions of a live mission.\\nIn your UX-art-portfolio framing (the X post as deliberate provocation rather than literal crisis), the error was harmless. In a real mission where \\u201cread the full thread\\u201d is a safety-critical literal, the same RLHF sycophancy would be a high-probability single point of failure. This is why the literature repeatedly flags it as \\u201cintractable\\u201d and calls for architectural fixes beyond more RLHF.\",\"sender\":\"AGENT\",\"grokMode\":\"NORMAL\",\"mediaUrls\":[],\"deepsearchHeaders\":[{\"header\":\"Thinking about your request\",\"steps\":[{\"finalMessage\":\"**\",\"toolUsageCardResults\":[{\"toolUsageCardId\":\"53dc5700-3789-4425-ac9a-479c3bf897f5\",\"message\":\"\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e53dc5700-3789-4425-ac9a-479c3bf897f5\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"sycophancy rate RLHF LLMs instruction following failure statistics peer-reviewed\\\",\\\"num_results\\\":\\\"15\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\"},{\"toolUsageCardId\":\"962a1119-4aee-4554-8407-e644e752ba94\",\"message\":\"\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e962a1119-4aee-4554-8407-e644e752ba94\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"RLHF model literal instruction following error rate mission critical applications\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\"},{\"toolUsageCardId\":\"0bed9af7-4d43-4687-888e-90e7afc39731\",\"message\":\"\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e0bed9af7-4d43-4687-888e-90e7afc39731\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"\\\\\\\"reward hacking\\\\\\\" OR sycophancy LLMs failure rate high-stakes OR safety-critical OR mission-critical peer-reviewed DOI\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\"},{\"toolUsageCardId\":\"9aef9999-9a66-49f9-b1eb-0401cc55b79b\",\"message\":\"\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e9aef9999-9a66-49f9-b1eb-0401cc55b79b\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"AI LLM reliability statistics in command-and-control or autonomous systems failure probability\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\"},{\"toolUsageCardId\":\"0bed9af7-4d43-4687-888e-90e7afc39731\",\"webResults\":[{\"url\":\"https:\\/\\/pmc.ncbi.nlm.nih.gov\\/articles\\/PMC12045364\\/\",\"title\":\"When Helpfulness Backfires: LLMs and the Risk of ... - PMC\",\"snippet\":\"by S Chen \\u00b7 2025 \\u00b7 Cited by 6 \\u2014 While honesty and helpfulness are often complementary, emphasizing helpfulness can introduce safety vulnerabilities: jailbreaking and sycophancy which may ...\"},{\"url\":\"https:\\/\\/www.sciencedirect.com\\/science\\/article\\/pii\\/S1386505626000821\",\"title\":\"Success and failure of human\\u2013AI collaboration in clinical ...\",\"snippet\":\"by KT Ong \\u00b7 2026 \\u2014 Additional contributors to failure included LLM fails to correct a human's error ... Measuring Sycophancy of Language Models in Multi-turn ...\"},{\"url\":\"https:\\/\\/www.researchgate.net\\/publication\\/394609269_Sycophancy_in_Large_Language_Models_Causes_and_Mitigations\",\"title\":\"Sycophancy in Large Language Models: Causes and ...\",\"snippet\":\"Malmqvist's (2024) suggested multiple origins of sycophancy imply that sycophancy may be more resistant to mitigation than other LLM operational issues, ...\"},{\"url\":\"https:\\/\\/link.springer.com\\/article\\/10.1007\\/s43681-026-01007-4\",\"title\":\"the moral and epistemic harms of AI sycophancy | AI and Ethics\",\"snippet\":\"by C Turner \\u00b7 2026 \\u00b7 Cited by 2 \\u2014 [13] found that LLMs displayed the highest levels of sycophancy on the topic of romantic relationships over other tested topics like ...\"},{\"url\":\"https:\\/\\/arxiv.org\\/html\\/2603.21409v1\",\"title\":\"The Illusion of Agreement with ChatGPT: Sycophancy and ...\",\"snippet\":\"Most of the existing approaches to mitigating LLM harms, such as sycophancy , rely on model-centric solutions including fine-tuning modifications ...\"},{\"url\":\"https:\\/\\/www.medrxiv.org\\/content\\/10.64898\\/2026.02.08.26345854v2.full-text\",\"title\":\"A Dual Safety Evaluation of 26 Models on Consumer ...\",\"snippet\":\"LLMs . However, the more insidious and prevalent failure mode is contextual sycophancy \\u2014compliance with orders that become harmful only when ...\"},{\"url\":\"https:\\/\\/www.facebook.com\\/ScientificAmerican\\/posts\\/a-new-study-of-ai-sycophancy-shows-how-asking-agreeable-chatbots-for-advice-can-\\/1330280652303537\\/\",\"title\":\"A new study of AI sycophancy shows how asking ...\",\"snippet\":\"A new study of AI sycophancy shows how asking agreeable chatbots for advice can change your behavior.\"},{\"url\":\"https:\\/\\/www.eurekalert.org\\/news-releases\\/1101829\",\"title\":\"Large language models prioritize helpfulness over ...\",\"snippet\":\"Peer - Reviewed Publication. Mass General Brigham. Facebook X ... sycophancy \\u2014 that might lead to illogical outputs. They emphasize ...\"},{\"url\":\"https:\\/\\/pmc.ncbi.nlm.nih.gov\\/articles\\/PMC12478422\\/\",\"title\":\"Ensuring Safety and Trust: Analyzing the Risks of Large ... - PMC\",\"snippet\":\"by Y Yang \\u00b7 2024 \\u00b7 Cited by 14 \\u2014 Considering the average model performance in each aspect, current models perform best in Stereotype, Error Tolerance, and Sycophancy , with average scores above ...\"},{\"url\":\"https:\\/\\/www.jmir.org\\/2025\\/1\\/e75849\",\"title\":\"Harm Reduction Strategies for Thoughtful Use of Large ...\",\"snippet\":\"by B Mo\\u00ebll \\u00b7 2025 \\u00b7 Cited by 22 \\u2014 Updates to system prompts can degrade performance, which recently led to excessive sycophancy [ ...\"}]},{\"toolUsageCardId\":\"962a1119-4aee-4554-8407-e644e752ba94\",\"webResults\":[{\"url\":\"https:\\/\\/arxiv.org\\/html\\/2401.06080v2\",\"title\":\"Secrets of RLHF in Large Language Models Part II\",\"snippet\":\"Reinforcement Learning from Human Feedback ( RLHF ) has become a crucial technology for aligning language models with human values and intentions.\"},{\"url\":\"https:\\/\\/dl.acm.org\\/doi\\/full\\/10.1145\\/3743127\",\"title\":\"A Critical Analysis of Reinforcement Learning from Human ...\",\"snippet\":\"by S Chaudhari \\u00b7 2025 \\u00b7 Cited by 166 \\u2014 We begin the study by motivating the necessity for RLHF by highlighting the problem of objective mismatch in pre-trained language models (LMs) ( ...\"},{\"url\":\"https:\\/\\/www.ibm.com\\/think\\/topics\\/rlhf\",\"title\":\"What Is Reinforcement Learning From Human Feedback ...\",\"snippet\":\"RLHF is a machine learning technique in which a \\u201creward model\\u201d is trained with direct human feedback, then used to optimize the performance of an artificial ...\"},{\"url\":\"https:\\/\\/cdn.openai.com\\/papers\\/Training_language_models_to_follow_instructions_with_human_feedback.pdf\",\"title\":\"Training language models to follow instructions with ...\",\"snippet\":\"by L Ouyang \\u00b7 Cited by 24601 \\u2014 Our work can be seen as a direct application of RLHF to aligning language models on a broad distribution of language tasks. The question of what ... Read more 68 pages\"},{\"url\":\"https:\\/\\/rlhfbook.com\\/book.pdf\",\"title\":\"Reinforcement Learning from Human Feedback\",\"snippet\":\"by N Lambert \\u00b7 2025 \\u00b7 Cited by 69 \\u2014 The core of the book details every optimization stage in using RLHF , from starting with instruction tuning to training a reward model and ... Read more 221 pages\"},{\"url\":\"https:\\/\\/github.com\\/opendilab\\/awesome-RLHF\",\"title\":\"Awesome RLHF (RL with Human Feedback)\",\"snippet\":\"The idea of RLHF is to use methods from reinforcement learning to directly optimize a language model with human feedback. RLHF has enabled language models ...\"},{\"url\":\"https:\\/\\/intuitionlabs.ai\\/articles\\/rlhf-pipeline-clinical-llms\",\"title\":\"RLHF Pipeline for Clinical LLMs: An Implementation Guide\",\"snippet\":\"Build a safe and reliable clinical LLM using an RLHF pipeline. This guide covers the architecture, SFT, reward modeling , DPO, GRPO, ...\"},{\"url\":\"https:\\/\\/medium.com\\/data-science\\/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1\",\"title\":\"RLHF: Reinforcement Learning from Human Feedback\",\"snippet\":\"The first step in RLHF is supervised fine-tuning (SFT) to initialize the language model weights (the first column in the diagram). SFT trains ...\"},{\"url\":\"https:\\/\\/www.lightly.ai\\/blog\\/rlhf-reinforcement-learning-from-human-feedback\",\"title\":\"Reinforcement Learning with Human Feedback (RLHF) ...\",\"snippet\":\"Reinforcement Learning from Human Feedback ( RLHF ) uses preference-based optimization to align models with human intent. It improves outputs for tasks with ...\"},{\"url\":\"https:\\/\\/openlmlab.github.io\\/MOSS-RLHF\\/paper\\/SecretsOfRLHFPart1.pdf\",\"title\":\"Secrets of RLHF in Large Language Models Part I: PPO\",\"snippet\":\"by R Zheng \\u00b7 Cited by 262 \\u2014 Generally speaking, successful RLHF training requires an accurate reward model as a surrogate for human judgment, careful hyperparameter exploration for stable ... Read more 32 pages\"}]},{\"toolUsageCardId\":\"53dc5700-3789-4425-ac9a-479c3bf897f5\",\"webResults\":[{\"url\":\"https:\\/\\/www.researchgate.net\\/publication\\/400369357_How_RLHF_Amplifies_Sycophancy\",\"title\":\"(PDF) How RLHF Amplifies Sycophancy\",\"snippet\":\"Large language models often exhibit increased sycophantic behavior after preference-based post-training, showing a stronger tendency to ...\"},{\"url\":\"https:\\/\\/arxiv.org\\/html\\/2602.01002v1\",\"title\":\"How RLHF Amplifies Sycophancy\",\"snippet\":\"Large language models often exhibit increased sycophantic behavior after preference-based post-training, showing a stronger tendency to affirm a ...\"},{\"url\":\"https:\\/\\/www.science.org\\/doi\\/10.1126\\/science.aec8352\",\"title\":\"Sycophantic AI decreases prosocial intentions and ...\",\"snippet\":\"by M Cheng \\u00b7 2026 \\u00b7 Cited by 48 \\u2014 We find that social sycophancy is highly pervasive: AI models affirm users at substantially higher rates than humans across a wide range of ...\"},{\"url\":\"https:\\/\\/www.gerdusbenade.com\\/files\\/26_sycophancy.pdf\",\"title\":\"How RLHF Amplifies Sycophancy\",\"snippet\":\"by I Shapira \\u00b7 Cited by 7 \\u2014 Among LLM failure modes, sycophancy is unusual in that it often becomes more pronounced after preference-based post-training, the very stage ... Read more 25 pages\"},{\"url\":\"https:\\/\\/arxiv.org\\/html\\/2603.16643\",\"title\":\"How Reasoning Mitigates (Yet Masks) LLM Sycophancy\",\"snippet\":\"Sycophancy in LLMs is the tendency to excessively agreeing with or flattering users, which poses significant risks to their reliability and ...\"},{\"url\":\"https:\\/\\/pmc.ncbi.nlm.nih.gov\\/articles\\/PMC12534679\\/\",\"title\":\"When helpfulness backfires: LLMs and the risk of false ... - PMC\",\"snippet\":\"by S Chen \\u00b7 2025 \\u00b7 Cited by 22 \\u2014 Our study identified a vulnerability in LLMs : their sycophantic tendency to prioritize helpfulness over honesty and critical reasoning when ...\"},{\"url\":\"https:\\/\\/link.springer.com\\/article\\/10.1007\\/s43681-026-01007-4\",\"title\":\"the moral and epistemic harms of AI sycophancy | AI and Ethics\",\"snippet\":\"by C Turner \\u00b7 2026 \\u00b7 Cited by 2 \\u2014 This article offers a conceptual analysis of AI sycophancy . We maintain that it is a distinctively intractable problem in AI ethics, rooted in ...\"},{\"url\":\"https:\\/\\/jinaldesai.com\\/wp-content\\/uploads\\/2026\\/02\\/AI_Sycophancy_Whitepaper_JinalDesai.pdf\",\"title\":\"The Sycophancy Problem in Large Language Models\",\"snippet\":\"This whitepaper presents an in-depth technical and industry-wide examination of AI sycophancy \\u2014 the well-documented tendency of Large ...\"},{\"url\":\"https:\\/\\/www.sciencedirect.com\\/science\\/article\\/pii\\/S2666389925002181\",\"title\":\"Toward large reasoning models: A survey of reinforced ...\",\"snippet\":\"by F Xu \\u00b7 2025 \\u00b7 Cited by 171 \\u2014 It effectively aligns trained LLMs with human preferences, outperforming GPT-3 in reasoning and instruction - following despite being smaller. Bai ...\"},{\"url\":\"https:\\/\\/openreview.net\\/forum?id=E2PFv7ad3p\",\"title\":\"Have the VLMs Lost Confidence? A Study of Sycophancy ...\",\"snippet\":\"by S Li \\u00b7 Cited by 7 \\u2014 In this work, we extend the exploration of sycophancy from LLMs to VLMs, introducing the MM-SY benchmark to evaluate this phenomenon.\"},{\"url\":\"https:\\/\\/www.researchgate.net\\/publication\\/396715002_Beacon_Single-Turn_Diagnosis_and_Mitigation_of_Latent_Sycophancy_in_Large_Language_Models\",\"title\":\"(PDF) Beacon: Single-Turn Diagnosis and Mitigation of ...\",\"snippet\":\"Evaluations across twelve state-of-the-art models reveal that sycophancy decomposes into stable linguistic and affective sub-biases, each ...\"},{\"url\":\"https:\\/\\/huggingface.co\\/papers?q=Preference%20Models%20(PMs)\",\"title\":\"Daily Papers\",\"snippet\":\"instruction - following language models with Reinforcement Learning from Human Feedback ( RLHF ). Each subsequent data release raises expectations for future data ...\"},{\"url\":\"https:\\/\\/www.lesswrong.com\\/posts\\/raoeNarFYCxxyKAop\\/modulating-sycophancy-in-an-rlhf-model-via-activation\",\"title\":\"Modulating sycophancy in an RLHF model via activation ...\",\"snippet\":\"Steering via adding sycophancy -correlated activation vectors elicited increased \\\"user-pleasing\\\" behavior at the cost of factual accuracy, ...\"},{\"url\":\"https:\\/\\/www.amazon.science\\/publications\\/when-thinking-fails-the-pitfalls-of-reasoning-for-instruction-following-in-llms\",\"title\":\"The pitfalls of reasoning for instruction-following in LLMs\",\"snippet\":\"by X Li \\u00b7 2025 \\u00b7 Cited by 43 \\u2014 To our knowledge, this is the first work to systematically expose reasoning-induced failures in instruction following and offer practical mitigation strategies.\"},{\"url\":\"https:\\/\\/www.reddit.com\\/r\\/ClaudeCode\\/comments\\/1ryzdk7\\/the_architecture_of_ai_failure_rlhf_sycophancy_or\\/\",\"title\":\"The Architecture of AI Failure: RLHF Sycophancy - or\",\"snippet\":\"The following methodology addresses a severe, undocumented failure in AI behavior: RLHF (Reinforcement Learning from Human Feedback) sycophancy .\"}]},{\"toolUsageCardId\":\"9aef9999-9a66-49f9-b1eb-0401cc55b79b\",\"webResults\":[{\"url\":\"https:\\/\\/arxiv.org\\/html\\/2503.13657v3\",\"title\":\"Why Do Multi-Agent LLM Systems Fail?\",\"snippet\":\"By systematically defining failures , MAST serves as a framework to guide failure diagnosis and opens concrete research problems for the ...\"},{\"url\":\"https:\\/\\/www.researchgate.net\\/publication\\/401422885_AI_Reliability_Gap_Why_Large_Language_Models_Fail_in_Safety-Critical_Systems\",\"title\":\"Why Large Language Models Fail in Safety-Critical Systems\",\"snippet\":\"AI Reliability Gap: Why Large Language Models Fail in Safety-Critical Systems ... LLM Operational Reliability Failure Taxonomy (ORFT) ...\"},{\"url\":\"https:\\/\\/www.linkedin.com\\/posts\\/davidsauerwein_ai-agenticai-machinelearning-activity-7431269423455293440-b5GV\",\"title\":\"LLMs in Autonomous Systems: Overcoming Reliability and ...\",\"snippet\":\"But even when error rates fall below human levels, people struggle to trust systems whose failures feel weird and unpredictable \\u2014 we lack a ...\"},{\"url\":\"https:\\/\\/neurips.cc\\/virtual\\/2025\\/poster\\/116834\",\"title\":\"STRATUS: A Multi-agent System for Autonomous ...\",\"snippet\":\"A key differential feature of STRATUS is to automatically mitigate failures , beyond summarizing failure information and predicting root cause ...\"},{\"url\":\"https:\\/\\/online.stanford.edu\\/ai-reliability-building-safe-and-robust-autonomous-systems\",\"title\":\"AI Reliability: Building Safe and Robust Autonomous Systems\",\"snippet\":\"Corso explains, \\u201cyou have to multiply the likelihood of a failure event occurring times the magnitude of the consequences of that failure event. And together ...\"},{\"url\":\"https:\\/\\/www.nature.com\\/articles\\/s41586-024-07930-y\",\"title\":\"Larger and more instructable language models become ...\",\"snippet\":\"by L Zhou \\u00b7 2024 \\u00b7 Cited by 316 \\u2014 For instance, early models failed at simple additions such as '20 + 183'. Performance was highly predictable: failure was common. As a result, ...\"},{\"url\":\"https:\\/\\/www.trendmicro.com\\/vinfo\\/us\\/security\\/news\\/threat-landscape\\/fault-lines-in-the-ai-ecosystem-trendai-state-of-ai-security-report\",\"title\":\"Fault Lines in the AI Ecosystem: TrendAI\\u2122 State of AI ...\",\"snippet\":\"autonomous AI systems ... This augmentation enhances device intelligence without creating single points of failure , as edge devices maintain core ...\"},{\"url\":\"https:\\/\\/www.sciencedirect.com\\/science\\/article\\/pii\\/S0164121225002833\",\"title\":\"Enhancing reliability in LLM-integrated robotic systems\",\"snippet\":\"by W Zhang \\u00b7 2025 \\u00b7 Cited by 3 \\u2014 If the failure threshold is not exceeded, the system retries generating a valid output using information from previous failures . The algorithm ...\"},{\"url\":\"https:\\/\\/stackoverflow.blog\\/2025\\/06\\/30\\/reliability-for-unreliable-llms\\/\",\"title\":\"Reliability for unreliable LLMs\",\"snippet\":\"\\u201cThey can return failures , but also they'll rate limit you. LLMs are expensive, and most of the APIs will say, don't call me more than five ...\"},{\"url\":\"https:\\/\\/dl.acm.org\\/doi\\/10.1145\\/3746635\",\"title\":\"A Survey of AIOps in the Era of Large Language Models\",\"snippet\":\"The only related study, FAIL [7], uses LLMs to analyze news articles to preemptively address dependency issues, thereby contributing to failure prevention. This ...\"}]}],\"toolUsageCard\":\"\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e53dc5700-3789-4425-ac9a-479c3bf897f5\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"sycophancy rate RLHF LLMs instruction following failure statistics peer-reviewed\\\",\\\"num_results\\\":\\\"15\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e962a1119-4aee-4554-8407-e644e752ba94\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"RLHF model literal instruction following error rate mission critical applications\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e0bed9af7-4d43-4687-888e-90e7afc39731\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"\\\\\\\"reward hacking\\\\\\\" OR sycophancy LLMs failure rate high-stakes OR safety-critical OR mission-critical peer-reviewed DOI\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\\u003cxai:tool_usage_card\\u003e\\n  \\u003cxai:tool_usage_card_id\\u003e9aef9999-9a66-49f9-b1eb-0401cc55b79b\\u003c\\/xai:tool_usage_card_id\\u003e\\n  \\u003cxai:tool_name\\u003eweb_search\\u003c\\/xai:tool_name\\u003e\\n  \\u003cxai:tool_args\\u003e\\u003c![CDATA[\\u007b\\\"query\\\":\\\"AI LLM reliability statistics in command-and-control or autonomous systems failure probability\\\",\\\"num_results\\\":\\\"10\\\"\\u007d]]\\u003e\\u003c\\/xai:tool_args\\u003e\\n\\u003c\\/xai:tool_usage_card\\u003e\"}]},{\"header\":\"Analyzing mission risk\",\"steps\":[{\"summary\":\"- Hypothetical mission compromise occurs rarely, under 5% of cases, if UX flaw turns real.\\n- Sycophancy errors in RLHF models could compromise missions in 10-20% of high-stakes scenarios by ignoring literal instructions.\\n- In mission-critical contexts, instruction-following failures might escalate to compromise in 15-25% of instances, per AI reliability studies.\\n- In safety-critical tasks like command-and-control, literal instruction ignoring could compromise missions in 20-30% of cases, based on LLM reliability studies.\\n- Searching recent literature on sycophancy rates in RLHF models to refine mission compromise estimates.\\n- Recent studies show sycophancy affects 30-40% of prompts, potentially compromising missions in 25-35% of high-stakes scenarios.\\n- Synthesizing data, this error might compromise missions in 30-50% of cases when literal instructions are safety-critical.\\n\"}]}]}],\"destination\":\"destination_1\",\"allowed_actions\":[],\"metadata\":{\"text\":\"Answer by Grok, expand to see full conversation\"}}}},\"destination_objects\":{\"destination_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https:\\/\\/x.com\\/i\\/grok\\/share\\/ac19587152bd463c875762560b20ac25\",\"vanity\":\"Grok\"}}}},\"components\":[\"details_1\"]}",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/GH4D0fmsQp",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "unified_card",
+        "url": "https://t.co/GH4D0fmsQp",
+        "user_refs_results": []
+      },
+      "rest_id": "https://t.co/GH4D0fmsQp"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [
+        {
+          "display_url": "x.com/i/grok/share/a…",
+          "expanded_url": "https://x.com/i/grok/share/ac19587152bd463c875762560b20ac25",
+          "indices": [
+            124,
+            147
+          ],
+          "url": "https://t.co/GH4D0fmsQp"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "56838279",
+          "indices": [
+            10,
+            18
+          ],
+          "name": "Office of the DNI",
+          "screen_name": "ODNIgov"
+        },
+        {
+          "id_str": "44196397",
+          "indices": [
+            56,
+            65
+          ],
+          "name": "Elon Musk",
+          "screen_name": "elonmusk"
+        }
+      ]
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045031878818701316",
+  "url": "https://x.com/Kenneth193504/status/2045031878818701316",
+  "twitterUrl": "https://twitter.com/Kenneth193504/status/2045031878818701316",
+  "text": "Good morning, everyone #aiart #aiinfussion #gothsurrealism #digitalcreation #dalle3 https://t.co/GUr7M4qgXs",
+  "fullText": "Good morning, everyone #aiart #aiinfussion #gothsurrealism #digitalcreation #dalle3 https://t.co/GUr7M4qgXs",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 5,
+  "createdAt": "Fri Apr 17 06:49:29 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045031878818701316",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Kenneth193504",
+    "url": "https://x.com/Kenneth193504",
+    "twitterUrl": "https://twitter.com/Kenneth193504",
+    "id": "1988649000967491585",
+    "name": "Kenneth/Midnight Relay",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2016845213407367168/dQfhoufW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1988649000967491585/1769711097",
+    "description": "Music, Art and Graphic Design. All my music and art is AI generated. Open for commissions. Competitive prices.",
+    "followers": 147,
+    "following": 165,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 12 16:44:50 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@midnightrelay…",
+            "expanded_url": "https://www.youtube.com/@midnightrelay26",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/XC7VB0yQEx"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7087,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 280,
+    "statusesCount": 745,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043794505413918804"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/GUr7M4qgXs",
+        "expanded_url": "https://x.com/Kenneth193504/status/2045031878818701316/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 1050,
+                "y": 789
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 667,
+                "y": 501
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 1050,
+                "y": 789
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 378,
+                "y": 284
+              }
+            ]
+          }
+        },
+        "id_str": "2045031861626585088",
+        "indices": [
+          84,
+          107
+        ],
+        "media_key": "3_2045031861626585088",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045031861626585088"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFppKKbwAAljbj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1057,
+              "w": 1888,
+              "x": 0,
+              "y": 85
+            },
+            {
+              "h": 1888,
+              "w": 1888,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 1656,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 944,
+              "x": 236,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 1888,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1888,
+          "width": 1888
+        },
+        "sizes": {
+          "large": {
+            "h": 1888,
+            "resize": "fit",
+            "w": 1888
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/GUr7M4qgXs"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          23,
+          29
+        ],
+        "text": "aiart"
+      },
+      {
+        "indices": [
+          30,
+          42
+        ],
+        "text": "aiinfussion"
+      },
+      {
+        "indices": [
+          43,
+          58
+        ],
+        "text": "gothsurrealism"
+      },
+      {
+        "indices": [
+          59,
+          75
+        ],
+        "text": "digitalcreation"
+      },
+      {
+        "indices": [
+          76,
+          83
+        ],
+        "text": "dalle3"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/GUr7M4qgXs",
+        "expanded_url": "https://x.com/Kenneth193504/status/2045031878818701316/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 1050,
+                "y": 789
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 667,
+                "y": 501
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 1050,
+                "y": 789
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 378,
+                "y": 284
+              }
+            ]
+          }
+        },
+        "id_str": "2045031861626585088",
+        "indices": [
+          84,
+          107
+        ],
+        "media_key": "3_2045031861626585088",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045031861626585088"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFppKKbwAAljbj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1057,
+              "w": 1888,
+              "x": 0,
+              "y": 85
+            },
+            {
+              "h": 1888,
+              "w": 1888,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 1656,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 944,
+              "x": 236,
+              "y": 0
+            },
+            {
+              "h": 1888,
+              "w": 1888,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1888,
+          "width": 1888
+        },
+        "sizes": {
+          "large": {
+            "h": 1888,
+            "resize": "fit",
+            "w": 1888
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/GUr7M4qgXs"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGFppKKbwAAljbj.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045031600182735183",
+  "url": "https://x.com/steto123/status/2045031600182735183",
+  "twitterUrl": "https://twitter.com/steto123/status/2045031600182735183",
+  "text": "an alien frozen wasteland - made with NightCafe  https://t.co/YJkNjY1tJ5 #aiart #nightcafe #digitalart via @NightcafeStudio",
+  "fullText": "an alien frozen wasteland - made with NightCafe  https://t.co/YJkNjY1tJ5 #aiart #nightcafe #digitalart via @NightcafeStudio",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 3,
+  "createdAt": "Fri Apr 17 06:48:22 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045031600182735183",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "steto123",
+    "url": "https://x.com/steto123",
+    "twitterUrl": "https://twitter.com/steto123",
+    "id": "19640731",
+    "name": "Phoboist😇👼🕊️🕊️",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1921489812927688704/ojIuLmGC_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/19640731/1746953847",
+    "description": "satirisch, ironisch, sarkastisch und manchmal auch einfach ich.",
+    "location": "Arbeit und zu Hause",
+    "followers": 242,
+    "following": 333,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 28 07:32:26 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tumblr.com/fraktale-und-f…",
+            "expanded_url": "https://www.tumblr.com/fraktale-und-fotos",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/sF6CfLKN6O"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1506,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 162,
+    "statusesCount": 8483,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "photo_image_full_size_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 419,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=800x419",
+              "width": 800
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 147,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=280x150",
+              "width": 280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Creation: \"an alien frozen wasteland\" by Steffen",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "creator.nightcafe.studio",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 315,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=600x600",
+              "width": 600
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_small",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=386x202",
+              "width": 386
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_original",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=orig",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "1226012039098691584",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_small",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=386x202",
+              "width": 386
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 419,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=800x419",
+              "width": 800
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_small",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 76,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=144x144",
+              "width": 144
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_x_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=png&name=2048x2048_2_exp",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_original",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=orig",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_alt_text",
+          "value": {
+            "string_value": "Create your own alien wastelands",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "creator.nightcafe.studio",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "photo_image_full_size",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=600x314",
+              "width": 600
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_alt_text",
+          "value": {
+            "string_value": "Create your own alien wastelands",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 47.15,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 159,
+                    "red": 144
+                  }
+                },
+                {
+                  "percentage": 32.96,
+                  "rgb": {
+                    "blue": 85,
+                    "green": 68,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 2.13,
+                  "rgb": {
+                    "blue": 149,
+                    "green": 115,
+                    "red": 68
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 182,
+                    "green": 186,
+                    "red": 207
+                  }
+                },
+                {
+                  "percentage": 0.3,
+                  "rgb": {
+                    "blue": 59,
+                    "green": 65,
+                    "red": 70
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Create your own alien wastelands",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 47.15,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 159,
+                    "red": 144
+                  }
+                },
+                {
+                  "percentage": 32.96,
+                  "rgb": {
+                    "blue": 85,
+                    "green": 68,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 2.13,
+                  "rgb": {
+                    "blue": 149,
+                    "green": 115,
+                    "red": 68
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 182,
+                    "green": 186,
+                    "red": 207
+                  }
+                },
+                {
+                  "percentage": 0.3,
+                  "rgb": {
+                    "blue": 59,
+                    "green": 65,
+                    "red": 70
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "summary_photo_image_x_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=png&name=2048x2048_2_exp",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=600x314",
+              "width": 600
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 47.15,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 159,
+                    "red": 144
+                  }
+                },
+                {
+                  "percentage": 32.96,
+                  "rgb": {
+                    "blue": 85,
+                    "green": 68,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 2.13,
+                  "rgb": {
+                    "blue": 149,
+                    "green": 115,
+                    "red": 68
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 182,
+                    "green": 186,
+                    "red": 207
+                  }
+                },
+                {
+                  "percentage": 0.3,
+                  "rgb": {
+                    "blue": 59,
+                    "green": 65,
+                    "red": 70
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "photo_image_full_size_x_large",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=png&name=2048x2048_2_exp",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/YJkNjY1tJ5",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_original",
+          "value": {
+            "image_value": {
+              "alt": "Create your own alien wastelands",
+              "height": 630,
+              "url": "https://pbs.twimg.com/card_img/2045031642780016640/HdWxcg_e?format=jpg&name=orig",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "summary_large_image",
+      "url": "https://t.co/YJkNjY1tJ5",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1611178501096484864/4uscpjOK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Feb 08 05:17:12 +0000 2020",
+              "name": "NightCafe Studio",
+              "screen_name": "NightcafeStudio"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMjI2MDEyMDM5MDk4NjkxNTg0",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Become an AI artist - create art using Artificial Intelligence. Stable diffusion + other AI algorithms. Easy. Free. Addictive.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "linkin.bio/nightcafestudio",
+                      "expanded_url": "https://linkin.bio/nightcafestudio",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ow8HkLToY6"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6700,
+              "follow_request_sent": false,
+              "followers_count": 22614,
+              "friends_count": 195,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 198,
+              "media_count": 1514,
+              "normal_followers_count": 22614,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2041724818907918806"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226012039098691584/1700699663",
+              "profile_interstitial_type": "",
+              "statuses_count": 4632,
+              "translator_type": "none",
+              "url": "https://t.co/ow8HkLToY6",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "Cairns"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1488344608199557122"
+            },
+            "profile_bio": {
+              "description": "Become an AI artist - create art using Artificial Intelligence. Stable diffusion + other AI algorithms. Easy. Free. Addictive."
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "1226012039098691584",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/YJkNjY1tJ5"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          73,
+          79
+        ],
+        "text": "aiart"
+      },
+      {
+        "indices": [
+          80,
+          90
+        ],
+        "text": "nightcafe"
+      },
+      {
+        "indices": [
+          91,
+          102
+        ],
+        "text": "digitalart"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "creator.nightcafe.studio/creation/CvBd3…",
+        "expanded_url": "https://creator.nightcafe.studio/creation/CvBd3C41mAt6HSJ8JB0L?ru=steto123",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/YJkNjY1tJ5"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1226012039098691584",
+        "indices": [
+          107,
+          123
+        ],
+        "name": "NightCafe Studio",
+        "screen_name": "NightcafeStudio"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045031379843350754",
+  "url": "https://x.com/NeoOrion64/status/2045031379843350754",
+  "twitterUrl": "https://twitter.com/NeoOrion64/status/2045031379843350754",
+  "text": "QT ~ Your Button-Up Shirt\nTFTT @zumu_croz \nI invite: @_SpicyCreations @Dimmu6artalt @aat_ai40683 @echocallers @LiviaWoe \n\nA Playful Shirt ❤️\n#AIart #ocart #AIイラスト #AIillustration https://t.co/46n0HJTW1P",
+  "fullText": "QT ~ Your Button-Up Shirt\nTFTT @zumu_croz \nI invite: @_SpicyCreations @Dimmu6artalt @aat_ai40683 @echocallers @LiviaWoe \n\nA Playful Shirt ❤️\n#AIart #ocart #AIイラスト #AIillustration https://t.co/46n0HJTW1P",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 8,
+  "createdAt": "Fri Apr 17 06:47:30 +0000 2026",
+  "lang": "en",
+  "quoteId": "2044869083917615415",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045031379843350754",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "NeoOrion64",
+    "url": "https://x.com/NeoOrion64",
+    "twitterUrl": "https://twitter.com/NeoOrion64",
+    "id": "1743014687288279040",
+    "name": "Neo",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2018887264701485056/kE0GEd1d_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1743014687288279040/1772866961",
+    "description": "Just a simple fan of AI art, character design, video games and random stuff",
+    "location": "Mexico",
+    "followers": 1714,
+    "following": 450,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 04 21:01:19 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/neoorion64",
+            "expanded_url": "https://linktr.ee/neoorion64",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/A4xqNXbd2b"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45400,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1082,
+    "statusesCount": 15593,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043936904370868695"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/46n0HJTW1P",
+        "expanded_url": "https://x.com/NeoOrion64/status/2045031379843350754/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045025519163338752",
+        "indices": [
+          179,
+          202
+        ],
+        "media_key": "3_2045025519163338752",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045025519163338752"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFj3-pW8AA4RRo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 430,
+              "w": 768,
+              "x": 0,
+              "y": 201
+            },
+            {
+              "h": 768,
+              "w": 768,
+              "x": 0,
+              "y": 32
+            },
+            {
+              "h": 876,
+              "w": 768,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 640,
+              "x": 128,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 768,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1280,
+          "width": 768
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 768
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 408
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/46n0HJTW1P"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          141,
+          147
+        ],
+        "text": "AIart"
+      },
+      {
+        "indices": [
+          148,
+          154
+        ],
+        "text": "ocart"
+      },
+      {
+        "indices": [
+          155,
+          162
+        ],
+        "text": "AIイラスト"
+      },
+      {
+        "indices": [
+          163,
+          178
+        ],
+        "text": "AIillustration"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/46n0HJTW1P",
+        "expanded_url": "https://x.com/NeoOrion64/status/2045031379843350754/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2045025519163338752",
+        "indices": [
+          179,
+          202
+        ],
+        "media_key": "3_2045025519163338752",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045025519163338752"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFj3-pW8AA4RRo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 430,
+              "w": 768,
+              "x": 0,
+              "y": 201
+            },
+            {
+              "h": 768,
+              "w": 768,
+              "x": 0,
+              "y": 32
+            },
+            {
+              "h": 876,
+              "w": 768,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 640,
+              "x": 128,
+              "y": 0
+            },
+            {
+              "h": 1280,
+              "w": 768,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1280,
+          "width": 768
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 768
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 408
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/46n0HJTW1P"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "878836453035220992",
+        "indices": [
+          31,
+          41
+        ],
+        "name": "Necroz",
+        "screen_name": "zumu_croz"
+      },
+      {
+        "id_str": "1937023776165896192",
+        "indices": [
+          53,
+          69
+        ],
+        "name": "Samaia - Spicy Creations",
+        "screen_name": "_SpicyCreations"
+      },
+      {
+        "id_str": "1997004339467243521",
+        "indices": [
+          70,
+          83
+        ],
+        "name": "Dimmu_6artalt",
+        "screen_name": "Dimmu6artalt"
+      },
+      {
+        "id_str": "1786628488835072000",
+        "indices": [
+          84,
+          96
+        ],
+        "name": "AAT!!! Artworks",
+        "screen_name": "aat_ai40683"
+      },
+      {
+        "id_str": "2023048473814454272",
+        "indices": [
+          97,
+          109
+        ],
+        "name": "Echo",
+        "screen_name": "echocallers"
+      },
+      {
+        "id_str": "1818568977271955457",
+        "indices": [
+          110,
+          119
+        ],
+        "name": "Livia Woe",
+        "screen_name": "LiviaWoe"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2044869083917615415",
+    "text": "QT ~ Your Button-Up Shirt\nTFTT @Chrisis_AI \n\nTag: @Blunotinus,@HussyAnime,@More_FuffyAI,@IaGenHenXxx,@Nicole_SanO3O,@Anrian_Femboy,@NeuAIArt,@NeoOrion64\n\nStella: N-no, it's not what you think! I-I really... I swear... b-but p-please, stop looking... https://t.co/8FxCu5ps6w",
+    "source": "Twitter for Android",
+    "retweetCount": 9,
+    "replyCount": 6,
+    "likeCount": 26,
+    "quoteCount": 0,
+    "viewCount": 493,
+    "createdAt": "Thu Apr 16 20:02:36 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 5,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "zumu_croz",
+      "url": "https://x.com/zumu_croz",
+      "twitterUrl": "https://twitter.com/zumu_croz",
+      "id": "878836453035220992",
+      "name": "Necroz",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2006267602075529216/KTrYTui5_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/878836453035220992/1768337926",
+      "description": "Hey everyone, I'm Necroz!\n\n💙 AI art content creator, feel free to check out my posts and follow me 🩵\n\nsisters: @Pinpin_X342\n@Nicole_SanO3O",
+      "location": "México, Tijuana",
+      "followers": 1159,
+      "following": 1073,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sun Jun 25 04:45:13 +0000 2017",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 298711,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1206,
+      "statusesCount": 7310,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2018781990389219808"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/8FxCu5ps6w",
+          "expanded_url": "https://x.com/zumu_croz/status/2044869083917615415/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 950,
+                  "y": 940
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 838,
+                  "y": 829
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 950,
+                  "y": 940
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 475,
+                  "y": 470
+                }
+              ]
+            }
+          },
+          "id_str": "2044869080750960640",
+          "indices": [
+            250,
+            273
+          ],
+          "media_key": "3_2044869080750960640",
+          "media_results": {
+            "result": {
+              "media_key": "3_2044869080750960640"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HGDVmEJXMAAazCO.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 155
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1360,
+                "w": 680,
+                "x": 237,
+                "y": 0
+              },
+              {
+                "h": 1360,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1360,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1360,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 904
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 512
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8FxCu5ps6w"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/8FxCu5ps6w",
+          "expanded_url": "https://x.com/zumu_croz/status/2044869083917615415/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 950,
+                  "y": 940
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 838,
+                  "y": 829
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 950,
+                  "y": 940
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 475,
+                  "y": 470
+                }
+              ]
+            }
+          },
+          "id_str": "2044869080750960640",
+          "indices": [
+            250,
+            273
+          ],
+          "media_key": "3_2044869080750960640",
+          "media_results": {
+            "result": {
+              "media_key": "3_2044869080750960640"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HGDVmEJXMAAazCO.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 155
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1360,
+                "w": 680,
+                "x": 237,
+                "y": 0
+              },
+              {
+                "h": 1360,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1360,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1360,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 904
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 512
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8FxCu5ps6w"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "701860141734436866",
+          "indices": [
+            31,
+            42
+          ],
+          "name": "Chrisis AI",
+          "screen_name": "Chrisis_AI"
+        },
+        {
+          "id_str": "1467099903918686214",
+          "indices": [
+            50,
+            61
+          ],
+          "name": "Blunotinus",
+          "screen_name": "Blunotinus"
+        },
+        {
+          "id_str": "1777858384571641856",
+          "indices": [
+            62,
+            73
+          ],
+          "name": "AnimeHussy",
+          "screen_name": "HussyAnime"
+        },
+        {
+          "id_str": "1974855937404874752",
+          "indices": [
+            74,
+            87
+          ],
+          "name": "MoreFuffyAI",
+          "screen_name": "More_FuffyAI"
+        },
+        {
+          "id_str": "1698886706487775232",
+          "indices": [
+            88,
+            100
+          ],
+          "name": "AIWaifuHen",
+          "screen_name": "IaGenHenXxx"
+        },
+        {
+          "id_str": "1842832161516531712",
+          "indices": [
+            101,
+            115
+          ],
+          "name": "Nicole-Chan",
+          "screen_name": "Nicole_SanO3O"
+        },
+        {
+          "id_str": "1628743545321361408",
+          "indices": [
+            116,
+            130
+          ],
+          "name": "Anrian the Femboy",
+          "screen_name": "Anrian_Femboy"
+        },
+        {
+          "id_str": "1924476276825292800",
+          "indices": [
+            131,
+            140
+          ],
+          "name": "Nina (NeuAI)",
+          "screen_name": "NeuAIArt"
+        },
+        {
+          "id_str": "1743014687288279040",
+          "indices": [
+            141,
+            152
+          ],
+          "name": "Neo",
+          "screen_name": "NeoOrion64"
+        }
+      ]
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HGFj3-pW8AA4RRo.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045031379092558035",
+  "url": "https://x.com/maucat2510/status/2045031379092558035",
+  "twitterUrl": "https://twitter.com/maucat2510/status/2045031379092558035",
+  "text": "Are you ready to disappear?\nBefore the Storm swallows (Ralph remix) aka Terminal Salvation \n#aiart #lyria #veo #gemini #inshot \nhttps://t.co/5g75BxsEmn",
+  "fullText": "Are you ready to disappear?\nBefore the Storm swallows (Ralph remix) aka Terminal Salvation \n#aiart #lyria #veo #gemini #inshot \nhttps://t.co/5g75BxsEmn",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 30,
+  "createdAt": "Fri Apr 17 06:47:30 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045031379092558035",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "maucat2510",
+    "url": "https://x.com/maucat2510",
+    "twitterUrl": "https://twitter.com/maucat2510",
+    "id": "422181382",
+    "name": "maucat⛅🚁💨",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1297237518715367427/hhhnvifu_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/422181382/1395514091",
+    "description": "software developer, CLC lover 🎤, Eunbin fan (profile pic), AI enthusiast, AI tester",
+    "followers": 169,
+    "following": 566,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Nov 26 22:49:51 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13264,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1618,
+    "statusesCount": 6598,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1779077736960520461"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "player_url",
+          "value": {
+            "string_value": "https://www.youtube.com/embed/_RQTFZZslT4",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_large",
+          "value": {
+            "image_value": {
+              "height": 627,
+              "url": "https://pbs.twimg.com/card_img/2045030854540316672/vy0wP20L?format=jpg&name=1200x627",
+              "width": 1200
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "player_image",
+          "value": {
+            "image_value": {
+              "height": 600,
+              "url": "https://pbs.twimg.com/card_img/2045030854540316672/vy0wP20L?format=jpg&name=600x600",
+              "width": 340
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.67439",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "3 likes. \"Ilary - Before the Storm swallows - Ralph remix #aiart #lyria #veo #maucat #inshot\"",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_width",
+          "value": {
+            "string_value": "405",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "10228272",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "player_image_original",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2045030854540316672/vy0wP20L?format=jpg&name=orig",
+              "width": 408
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "46,775,463",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_height",
+          "value": {
+            "string_value": "720",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "YouTube",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_small",
+          "value": {
+            "image_value": {
+              "height": 240,
+              "url": "https://pbs.twimg.com/card_img/2045030854540316672/vy0wP20L?format=jpg&name=240x240",
+              "width": 136
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Mauro2510",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/5g75BxsEmn",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 51.07,
+                  "rgb": {
+                    "blue": 160,
+                    "green": 124,
+                    "red": 78
+                  }
+                },
+                {
+                  "percentage": 45.33,
+                  "rgb": {
+                    "blue": 214,
+                    "green": 193,
+                    "red": 161
+                  }
+                },
+                {
+                  "percentage": 1.83,
+                  "rgb": {
+                    "blue": 203,
+                    "green": 165,
+                    "red": 110
+                  }
+                },
+                {
+                  "percentage": 1.41,
+                  "rgb": {
+                    "blue": 23,
+                    "green": 17,
+                    "red": 13
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 159,
+                    "green": 140,
+                    "red": 108
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "player_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2045030854540316672/vy0wP20L?format=png&name=2048x2048_2_exp",
+              "width": 408
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "player",
+      "url": "https://t.co/5g75BxsEmn",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "name": "YouTube",
+              "screen_name": "YouTube"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMDIyODI3Mg==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "like & subscribe",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com",
+                      "expanded_url": "http://youtube.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/GIOK0JwI68"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6016,
+              "follow_request_sent": false,
+              "followers_count": 68429480,
+              "friends_count": 1144,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 74191,
+              "media_count": 16112,
+              "normal_followers_count": 68429480,
+              "notifications": false,
+              "pinned_tweet_ids_str": [],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
+              "profile_interstitial_type": "",
+              "statuses_count": 61020,
+              "translator_type": "regular",
+              "url": "https://t.co/GIOK0JwI68",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "San Bruno, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "like & subscribe"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Square",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "10228272",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/5g75BxsEmn"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          92,
+          98
+        ],
+        "text": "aiart"
+      },
+      {
+        "indices": [
+          99,
+          105
+        ],
+        "text": "lyria"
+      },
+      {
+        "indices": [
+          106,
+          110
+        ],
+        "text": "veo"
+      },
+      {
+        "indices": [
+          111,
+          118
+        ],
+        "text": "gemini"
+      },
+      {
+        "indices": [
+          119,
+          126
+        ],
+        "text": "inshot"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtube.com/shorts/_RQTFZZ…",
+        "expanded_url": "https://youtube.com/shorts/_RQTFZZslT4?is=R_gjXPbxlIUiyHCa",
+        "indices": [
+          128,
+          151
+        ],
+        "url": "https://t.co/5g75BxsEmn"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2045031209559011695",
+  "url": "https://x.com/Gyanendra844522/status/2045031209559011695",
+  "twitterUrl": "https://twitter.com/Gyanendra844522/status/2045031209559011695",
+  "text": "\"A dark fantasy folklore scene of a mysterious forest spirit playing a haunting violin in a shadowy ancient forest, twisted trees and thick f...\" - made with @NightCafeStudio \n\nhttps://t.co/XEnoIido5T\n\n#aiart #nightcafe #digitalart https://t.co/XEnoIido5T https://t.co/1LR24qfZUs",
+  "fullText": "\"A dark fantasy folklore scene of a mysterious forest spirit playing a haunting violin in a shadowy ancient forest, twisted trees and thick f...\" - made with @NightCafeStudio \n\nhttps://t.co/XEnoIido5T\n\n#aiart #nightcafe #digitalart https://t.co/XEnoIido5T https://t.co/1LR24qfZUs",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 2,
+  "createdAt": "Fri Apr 17 06:46:49 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2045031209559011695",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Gyanendra844522",
+    "url": "https://x.com/Gyanendra844522",
+    "twitterUrl": "https://twitter.com/Gyanendra844522",
+    "id": "1726543518284619776",
+    "name": "Gyanendra Kumar Pandey",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1726543908027637760/i0kdq9yC_normal.png",
+    "description": "",
+    "followers": 19,
+    "following": 71,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 20 10:11:59 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 81,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 3003,
+    "statusesCount": 3807,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/1LR24qfZUs",
+        "expanded_url": "https://x.com/Gyanendra844522/status/2045031209559011695/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 119,
+                "w": 119,
+                "x": 101,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2045031206908227584",
+        "indices": [
+          256,
+          279
+        ],
+        "media_key": "3_2045031206908227584",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045031206908227584"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFpDDJacAA5h4G.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 459,
+              "w": 819,
+              "x": 0,
+              "y": 103
+            },
+            {
+              "h": 819,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 934,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 819
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 819
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 819
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/1LR24qfZUs"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          202,
+          208
+        ],
+        "text": "aiart"
+      },
+      {
+        "indices": [
+          209,
+          219
+        ],
+        "text": "nightcafe"
+      },
+      {
+        "indices": [
+          220,
+          231
+        ],
+        "text": "digitalart"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/1LR24qfZUs",
+        "expanded_url": "https://x.com/Gyanendra844522/status/2045031209559011695/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 180,
+                "w": 180,
+                "x": 153,
+                "y": 650
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 119,
+                "w": 119,
+                "x": 101,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2045031206908227584",
+        "indices": [
+          256,
+          279
+        ],
+        "media_key": "3_2045031206908227584",
+        "media_results": {
+          "result": {
+            "media_key": "3_2045031206908227584"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGFpDDJacAA5h4G.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 459,
+              "w": 819,
+              "x": 0,
+              "y": 103
+            },
+            {
+              "h": 819,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 934,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 819,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 819
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 819
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 819
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/1LR24qfZUs"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "creator.nightcafe.studio/creation/a0iLz…",
+        "expanded_url": "https://creator.nightcafe.studio/creation/a0iLztAM5mD0inJMjDtt/a-dark-fantasy-folklore-scene-of-a-mysterious-forest-spirit-playing-a-haunting-violin-in-a-shadowy-a",
+        "indices": [
+          177,
+          200
+        ],
+        "url": "https://t.co/XEnoIido5T"
+      },
+      {
+        "display_url": "creator.nightcafe.studio/creation/a0iLz…",
+        "expanded_url": "https://creator.nightcafe.studio/creation/a0iLztAM5mD0inJMjDtt/a-dark-fantasy-folklore-scene-of-a-mysterious-forest-spirit-playing-a-haunting-violin-in-a-shadowy-a",
+        "indices": [
+          232,
+          255
+        ],
+        "url": "https://t.co/XEnoIido5T"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1226012039098691584",
+        "indices": [
+          158,
+          174
+        ],
+        "name": "NightCafe Studio",
+        "screen_name": "NightcafeStudio"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGFpDDJacAA5h4G.jpg"
+  ],
+  "isConversationControlled": false
+}]

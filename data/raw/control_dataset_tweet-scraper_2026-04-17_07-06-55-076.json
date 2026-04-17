@@ -1,0 +1,3758 @@
+[{
+  "type": "tweet",
+  "id": "2044990237244526746",
+  "url": "https://x.com/moneybizines/status/2044990237244526746",
+  "twitterUrl": "https://twitter.com/moneybizines/status/2044990237244526746",
+  "text": "My emphatic version  - Proof read by Grok. \n\nCourtesy ( #grok #ai #grokai )",
+  "fullText": "My emphatic version  - Proof read by Grok. \n\nCourtesy ( #grok #ai #grokai )",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 1,
+  "viewCount": 37,
+  "createdAt": "Fri Apr 17 04:04:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2044989395707867603",
+  "conversationId": "2044986454733176965",
+  "inReplyToUserId": "428152773",
+  "inReplyToUsername": "moneybizines",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "moneybizines",
+    "url": "https://x.com/moneybizines",
+    "twitterUrl": "https://twitter.com/moneybizines",
+    "id": "428152773",
+    "name": "Kiran",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2035240543635243008/kjvml-hF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/428152773/1776385364",
+    "description": "Work : Retired from office work in 2007. House sitter & freelance news reporting/journo since 2011 on X formerly Twitter -14 Years reporting experience on '𝐗'",
+    "location": "Bharat ",
+    "followers": 968,
+    "following": 4200,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 04 12:05:01 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18810,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13570,
+    "statusesCount": 259074,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1852588892098097240"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          56,
+          61
+        ],
+        "text": "grok"
+      },
+      {
+        "indices": [
+          62,
+          65
+        ],
+        "text": "ai"
+      },
+      {
+        "indices": [
+          66,
+          73
+        ],
+        "text": "grokai"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044982927264755999",
+  "url": "https://x.com/moneybizines/status/2044982927264755999",
+  "twitterUrl": "https://twitter.com/moneybizines/status/2044982927264755999",
+  "text": "The template I used. (09/01/2026)\n\n#ai #grok #grokai",
+  "fullText": "The template I used. (09/01/2026)\n\n#ai #grok #grokai",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 22,
+  "createdAt": "Fri Apr 17 03:34:58 +0000 2026",
+  "lang": "en",
+  "quoteId": "2009447796043301104",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044982927264755999",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "moneybizines",
+    "url": "https://x.com/moneybizines",
+    "twitterUrl": "https://twitter.com/moneybizines",
+    "id": "428152773",
+    "name": "Kiran",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2035240543635243008/kjvml-hF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/428152773/1776385364",
+    "description": "Work : Retired from office work in 2007. House sitter & freelance news reporting/journo since 2011 on X formerly Twitter -14 Years reporting experience on '𝐗'",
+    "location": "Bharat ",
+    "followers": 968,
+    "following": 4200,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 04 12:05:01 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18810,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13570,
+    "statusesCount": 259074,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1852588892098097240"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          38
+        ],
+        "text": "ai"
+      },
+      {
+        "indices": [
+          39,
+          44
+        ],
+        "text": "grok"
+      },
+      {
+        "indices": [
+          45,
+          52
+        ],
+        "text": "grokai"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2009447796043301104",
+    "text": "Morning 🌄 thoughts:\n\nJuggling life.\n\nHow many had gone through this phase of live?\n\nSavings \n     |\nInvestments\n     |\nDebt \n     |\nSavings \n     |\nInvestments https://t.co/5qGNTQDxqv",
+    "source": "Twitter for Android",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 1,
+    "viewCount": 81,
+    "createdAt": "Fri Jan 09 02:11:02 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "moneybizines",
+      "url": "https://x.com/moneybizines",
+      "twitterUrl": "https://twitter.com/moneybizines",
+      "id": "428152773",
+      "name": "Kiran",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2035240543635243008/kjvml-hF_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/428152773/1776385364",
+      "description": "Work : Retired from office work in 2007. House sitter & freelance news reporting/journo since 2011 on X formerly Twitter -14 Years reporting experience on '𝐗'",
+      "location": "Bharat ",
+      "followers": 968,
+      "following": 4200,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Sun Dec 04 12:05:01 +0000 2011",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 18810,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 13570,
+      "statusesCount": 259074,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1852588892098097240"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.x.com/5qGNTQDxqv",
+          "expanded_url": "https://x.com/moneybizines/status/2009447796043301104/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "grok_post_id": "1b429cf8-4761-45fc-ba36-46b4bd0c9cfa",
+          "id_str": "2009447770068054016",
+          "indices": [
+            160,
+            183
+          ],
+          "media_key": "7_2009447770068054016",
+          "media_results": {
+            "result": {
+              "media_key": "7_2009447770068054016"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2009447770068054016/pu/img/fqy0nJjC3wbmzNsW.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1376,
+            "width": 928
+          },
+          "sizes": {
+            "large": {
+              "h": 1376,
+              "resize": "fit",
+              "w": 928
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 809
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 459
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/5qGNTQDxqv",
+          "video_info": {
+            "aspect_ratio": [
+              29,
+              43
+            ],
+            "duration_millis": 6041,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/2009447770068054016/pu/pl/jF6zo4elQqHKVA1B.m3u8?tag=21"
+              },
+              {
+                "bitrate": 5184000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/2009447770068054016/pu/vid/avc1/576x856/OZSyCEA8qASbuEZs.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.x.com/5qGNTQDxqv",
+          "expanded_url": "https://x.com/moneybizines/status/2009447796043301104/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "grok_post_id": "1b429cf8-4761-45fc-ba36-46b4bd0c9cfa",
+          "id_str": "2009447770068054016",
+          "indices": [
+            160,
+            183
+          ],
+          "media_key": "7_2009447770068054016",
+          "media_results": {
+            "result": {
+              "media_key": "7_2009447770068054016"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2009447770068054016/pu/img/fqy0nJjC3wbmzNsW.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1376,
+            "width": 928
+          },
+          "sizes": {
+            "large": {
+              "h": 1376,
+              "resize": "fit",
+              "w": 928
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 809
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 459
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/5qGNTQDxqv",
+          "video_info": {
+            "aspect_ratio": [
+              29,
+              43
+            ],
+            "duration_millis": 6041,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/2009447770068054016/pu/pl/jF6zo4elQqHKVA1B.m3u8?tag=21"
+              },
+              {
+                "bitrate": 5184000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/2009447770068054016/pu/vid/avc1/576x856/OZSyCEA8qASbuEZs.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044934745272775156",
+  "url": "https://x.com/thisisavatar/status/2044934745272775156",
+  "twitterUrl": "https://twitter.com/thisisavatar/status/2044934745272775156",
+  "text": "Happy Thursday  #art #Grokart #Grokai #mydigitalart #darkart #darkbeauty https://t.co/9RaNhJm9X0",
+  "fullText": "Happy Thursday  #art #Grokart #Grokai #mydigitalart #darkart #darkbeauty https://t.co/9RaNhJm9X0",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 5,
+  "createdAt": "Fri Apr 17 00:23:30 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044934745272775156",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "thisisavatar",
+    "url": "https://x.com/thisisavatar",
+    "twitterUrl": "https://twitter.com/thisisavatar",
+    "id": "116815597",
+    "name": "Marda",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1062530986670350336/YlsM780e_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/116815597/1517630820",
+    "description": "Hollywood, I'm coming.",
+    "followers": 20,
+    "following": 171,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 23 17:16:21 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "creator.nightcafe.studio/u/MarthaStupid",
+            "expanded_url": "https://creator.nightcafe.studio/u/MarthaStupid",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/eY28LLqmI0"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 736,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 198,
+    "statusesCount": 450,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9RaNhJm9X0",
+        "expanded_url": "https://x.com/thisisavatar/status/2044934745272775156/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 22,
+                "w": 22,
+                "x": 83,
+                "y": 568
+              }
+            ]
+          }
+        },
+        "id_str": "2044934690667130880",
+        "indices": [
+          73,
+          96
+        ],
+        "media_key": "3_2044934690667130880",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044934690667130880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGERREIWcAABkjD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 439,
+              "w": 784,
+              "x": 0,
+              "y": 218
+            },
+            {
+              "h": 784,
+              "w": 784,
+              "x": 0,
+              "y": 45
+            },
+            {
+              "h": 894,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 584,
+              "x": 145,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1168,
+          "width": 784
+        },
+        "sizes": {
+          "large": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "medium": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 456
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9RaNhJm9X0"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          16,
+          20
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          21,
+          29
+        ],
+        "text": "Grokart"
+      },
+      {
+        "indices": [
+          30,
+          37
+        ],
+        "text": "Grokai"
+      },
+      {
+        "indices": [
+          38,
+          51
+        ],
+        "text": "mydigitalart"
+      },
+      {
+        "indices": [
+          52,
+          60
+        ],
+        "text": "darkart"
+      },
+      {
+        "indices": [
+          61,
+          72
+        ],
+        "text": "darkbeauty"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9RaNhJm9X0",
+        "expanded_url": "https://x.com/thisisavatar/status/2044934745272775156/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 143,
+                "y": 977
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 22,
+                "w": 22,
+                "x": 83,
+                "y": 568
+              }
+            ]
+          }
+        },
+        "id_str": "2044934690667130880",
+        "indices": [
+          73,
+          96
+        ],
+        "media_key": "3_2044934690667130880",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044934690667130880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGERREIWcAABkjD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 439,
+              "w": 784,
+              "x": 0,
+              "y": 218
+            },
+            {
+              "h": 784,
+              "w": 784,
+              "x": 0,
+              "y": 45
+            },
+            {
+              "h": 894,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 584,
+              "x": 145,
+              "y": 0
+            },
+            {
+              "h": 1168,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1168,
+          "width": 784
+        },
+        "sizes": {
+          "large": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "medium": {
+            "h": 1168,
+            "resize": "fit",
+            "w": 784
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 456
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9RaNhJm9X0"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGERREIWcAABkjD.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044903502711763035",
+  "url": "https://x.com/Heart1ART/status/2044903502711763035",
+  "twitterUrl": "https://twitter.com/Heart1ART/status/2044903502711763035",
+  "text": "\"Grok Generated Image/ Video\"\nChibi saying \"Fare loves Irony\" a saying or quote by Elon M.\nImage in likeness of Self, Shenaireo Welch @Heart1ART \nCreated: 04.16.2026\n#xAI #GrokImagine #GrokAI https://t.co/nz2DXgc9Vi",
+  "fullText": "\"Grok Generated Image/ Video\"\nChibi saying \"Fare loves Irony\" a saying or quote by Elon M.\nImage in likeness of Self, Shenaireo Welch @Heart1ART \nCreated: 04.16.2026\n#xAI #GrokImagine #GrokAI https://t.co/nz2DXgc9Vi",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 21,
+  "createdAt": "Thu Apr 16 22:19:22 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044903502711763035",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Heart1ART",
+    "url": "https://x.com/Heart1ART",
+    "twitterUrl": "https://twitter.com/Heart1ART",
+    "id": "723224437",
+    "name": "Shen Aesthetic",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1869108982062731264/dtpNYMsa_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/723224437/1732463761",
+    "description": "An Interest in Art. Earned an Associate in Applied Science in Fashion Design & Technology. Inclined towards views philosophic in nature. @CGIU @ClintonFdn",
+    "location": " Connecticut. 🇺🇸 ",
+    "followers": 167,
+    "following": 675,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 29 02:33:21 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2994,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 70,
+    "statusesCount": 908,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "display_url": "pic.x.com/nz2DXgc9Vi",
+        "expanded_url": "https://x.com/Heart1ART/status/2044903502711763035/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "fcc736af-ece8-43aa-92f0-db5b168d39fb",
+        "id_str": "2044902361814970368",
+        "indices": [
+          192,
+          215
+        ],
+        "media_key": "13_2044902361814970368",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044902361814970368"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044902361814970368/img/n3nJRln5aGo_sWbu.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 576,
+          "width": 528
+        },
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "medium": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "small": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/nz2DXgc9Vi",
+        "video_info": {
+          "aspect_ratio": [
+            11,
+            12
+          ],
+          "duration_millis": 6041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/pl/kK4JPtcEifHMt1zJ.m3u8?tag=25"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/vid/avc1/320x348/ETNswq83xT8KKvmg.mp4?tag=25"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/vid/avc1/528x576/8zdrzxOHRQXmvCdP.mp4?tag=25"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          166,
+          170
+        ],
+        "text": "xAI"
+      },
+      {
+        "indices": [
+          171,
+          183
+        ],
+        "text": "GrokImagine"
+      },
+      {
+        "indices": [
+          184,
+          191
+        ],
+        "text": "GrokAI"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": true
+        },
+        "display_url": "pic.x.com/nz2DXgc9Vi",
+        "expanded_url": "https://x.com/Heart1ART/status/2044903502711763035/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "grok_post_id": "fcc736af-ece8-43aa-92f0-db5b168d39fb",
+        "id_str": "2044902361814970368",
+        "indices": [
+          192,
+          215
+        ],
+        "media_key": "13_2044902361814970368",
+        "media_results": {
+          "result": {
+            "media_key": "13_2044902361814970368"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2044902361814970368/img/n3nJRln5aGo_sWbu.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 576,
+          "width": 528
+        },
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "medium": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "small": {
+            "h": 576,
+            "resize": "fit",
+            "w": 528
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/nz2DXgc9Vi",
+        "video_info": {
+          "aspect_ratio": [
+            11,
+            12
+          ],
+          "duration_millis": 6041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/pl/kK4JPtcEifHMt1zJ.m3u8?tag=25"
+            },
+            {
+              "bitrate": 800000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/vid/avc1/320x348/ETNswq83xT8KKvmg.mp4?tag=25"
+            },
+            {
+              "bitrate": 5184000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2044902361814970368/vid/avc1/528x576/8zdrzxOHRQXmvCdP.mp4?tag=25"
+            }
+          ]
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "723224437",
+        "indices": [
+          134,
+          144
+        ],
+        "name": "Shen Aesthetic",
+        "screen_name": "Heart1ART"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2044902361814970368/img/n3nJRln5aGo_sWbu.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044835238543536179",
+  "url": "https://x.com/SurRNFTs/status/2044835238543536179",
+  "twitterUrl": "https://twitter.com/SurRNFTs/status/2044835238543536179",
+  "text": "🚨 SCAM ALERT! #GrokAI shock: 99 https://t.co/dF6rSk0xHW Fakes vs. ONE verified account! TRUST ONLY @SurRNFTs! (Legit, &amp; dropping #phygital fire 🔥)\n\nPRO TIP: Check the Verification Badge &amp; Creation Date. Follow the real source! #SurRAiOriginal #NFTSecurity #ScamWatch #CryptoTips https://t.co/N2AUvZcMHt",
+  "fullText": "🚨 SCAM ALERT! #GrokAI shock: 99 https://t.co/dF6rSk0xHW Fakes vs. ONE verified account! TRUST ONLY @SurRNFTs! (Legit, &amp; dropping #phygital fire 🔥)\n\nPRO TIP: Check the Verification Badge &amp; Creation Date. Follow the real source! #SurRAiOriginal #NFTSecurity #ScamWatch #CryptoTips https://t.co/N2AUvZcMHt",
+  "source": "BotFrens",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 4,
+  "createdAt": "Thu Apr 16 17:48:06 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044835238543536179",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "SurRNFTs",
+    "url": "https://x.com/SurRNFTs",
+    "twitterUrl": "https://twitter.com/SurRNFTs",
+    "id": "1556716757385093121",
+    "name": "💎 SurR.Ai: 🖼️ Physical🔗Digital 💻 Visual Art 💎",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1589005300035616774/Ns4UopjK_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1556716757385093121/1660846656",
+    "description": "🔥The Future is #Phygital 💎 🚀\n\n#Web3 #Crypto #Digital #Collectibles #NFTs #ETH #Ordinals #BTC #Memecoins $SOL | Not intended as investment or financial advice",
+    "location": "NYC ",
+    "followers": 1663,
+    "following": 7496,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 08 19:00:06 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "SurR.Ai",
+            "expanded_url": "https://SurR.Ai",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/CYrhxrx6GJ"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6053,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 41113,
+    "statusesCount": 42655,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1820287473567531126"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 958,
+          "name": "Entrepreneur"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1556719656357986307"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/N2AUvZcMHt",
+        "expanded_url": "https://x.com/SurRNFTs/status/2044835238543536179/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 32,
+                "w": 32,
+                "x": 19,
+                "y": 193
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 33,
+                "y": 116
+              }
+            ]
+          }
+        },
+        "id_str": "2044835236551237632",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_2044835236551237632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044835236551237632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGC20ErWoAAR9k-.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 472,
+              "w": 843,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 792,
+              "w": 792,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 695,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 396,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 843,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 792,
+          "width": 843
+        },
+        "sizes": {
+          "large": {
+            "h": 792,
+            "resize": "fit",
+            "w": 843
+          },
+          "medium": {
+            "h": 792,
+            "resize": "fit",
+            "w": 843
+          },
+          "small": {
+            "h": 639,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/N2AUvZcMHt"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          21
+        ],
+        "text": "GrokAI"
+      },
+      {
+        "indices": [
+          133,
+          142
+        ],
+        "text": "phygital"
+      },
+      {
+        "indices": [
+          235,
+          250
+        ],
+        "text": "SurRAiOriginal"
+      },
+      {
+        "indices": [
+          251,
+          263
+        ],
+        "text": "NFTSecurity"
+      },
+      {
+        "indices": [
+          264,
+          274
+        ],
+        "text": "ScamWatch"
+      },
+      {
+        "indices": [
+          275,
+          286
+        ],
+        "text": "CryptoTips"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/N2AUvZcMHt",
+        "expanded_url": "https://x.com/SurRNFTs/status/2044835238543536179/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 24,
+                "y": 240
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 41,
+                "y": 145
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 32,
+                "w": 32,
+                "x": 19,
+                "y": 193
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 33,
+                "y": 116
+              }
+            ]
+          }
+        },
+        "id_str": "2044835236551237632",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_2044835236551237632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044835236551237632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGC20ErWoAAR9k-.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 472,
+              "w": 843,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 792,
+              "w": 792,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 695,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 396,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 792,
+              "w": 843,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 792,
+          "width": 843
+        },
+        "sizes": {
+          "large": {
+            "h": 792,
+            "resize": "fit",
+            "w": 843
+          },
+          "medium": {
+            "h": 792,
+            "resize": "fit",
+            "w": 843
+          },
+          "small": {
+            "h": 639,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/N2AUvZcMHt"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "SurR.Ai",
+        "expanded_url": "http://SurR.Ai",
+        "indices": [
+          32,
+          55
+        ],
+        "url": "https://t.co/dF6rSk0xHW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1556716757385093121",
+        "indices": [
+          99,
+          108
+        ],
+        "name": "💎 SurR.Ai: 🖼️ Physical🔗Digital 💻 Visual Art 💎",
+        "screen_name": "SurRNFTs"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGC20ErWoAAR9k-.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044824458347622795",
+  "url": "https://x.com/pulp_flower/status/2044824458347622795",
+  "twitterUrl": "https://twitter.com/pulp_flower/status/2044824458347622795",
+  "text": "Why you are falling in love with AI? - Truth will shock you.\n\nVideo is made with Grok 👑🔥\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "fullText": "Why you are falling in love with AI? - Truth will shock you.\n\nVideo is made with Grok 👑🔥\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 67,
+  "createdAt": "Thu Apr 16 17:05:16 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044824458347622795",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "pulp_flower",
+    "url": "https://x.com/pulp_flower",
+    "twitterUrl": "https://twitter.com/pulp_flower",
+    "id": "1736661423823220736",
+    "name": "Pulp Beauty 🪷",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1739264143675318272/fkaL8gD3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1736661423823220736/1703507860",
+    "description": "Rant account 👀",
+    "followers": 55,
+    "following": 54,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 08:15:46 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3828,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 8,
+    "statusesCount": 3309,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "player_url",
+          "value": {
+            "string_value": "https://www.youtube.com/embed/utDZdXuZAXU",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=800x320_1",
+              "width": 569
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "player_image",
+          "value": {
+            "image_value": {
+              "height": 158,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=280x280",
+              "width": 280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.67439",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Why You're Falling in Love with AI Boyfriends & Girlfriends - The Truth Will Shock You | Psychology",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_width",
+          "value": {
+            "string_value": "1280",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "10228272",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "player_image_original",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=orig",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "46,775,463",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_height",
+          "value": {
+            "string_value": "720",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "YouTube",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=144x144",
+              "width": 144
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Jeni’s Mind Trap",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/WHOdV1ms16",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 19.82,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 39,
+                    "red": 42
+                  }
+                },
+                {
+                  "percentage": 12.42,
+                  "rgb": {
+                    "blue": 93,
+                    "green": 46,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 10.34,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 143,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 8.09,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 201,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 6.15,
+                  "rgb": {
+                    "blue": 16,
+                    "green": 19,
+                    "red": 232
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "player_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=png&name=2048x2048_2_exp",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "player",
+      "url": "https://t.co/WHOdV1ms16",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "name": "YouTube",
+              "screen_name": "YouTube"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMDIyODI3Mg==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "like & subscribe",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com",
+                      "expanded_url": "http://youtube.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/GIOK0JwI68"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6016,
+              "follow_request_sent": false,
+              "followers_count": 68429414,
+              "friends_count": 1144,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 74191,
+              "media_count": 16112,
+              "normal_followers_count": 68429414,
+              "notifications": false,
+              "pinned_tweet_ids_str": [],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
+              "profile_interstitial_type": "",
+              "statuses_count": 61020,
+              "translator_type": "regular",
+              "url": "https://t.co/GIOK0JwI68",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "San Bruno, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "like & subscribe"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Square",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "10228272",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/WHOdV1ms16"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          90,
+          95
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          96,
+          103
+        ],
+        "text": "grokAI"
+      },
+      {
+        "indices": [
+          104,
+          112
+        ],
+        "text": "Chatgpt"
+      },
+      {
+        "indices": [
+          113,
+          170
+        ],
+        "text": "AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/utDZdXuZAXU?si…",
+        "expanded_url": "https://youtu.be/utDZdXuZAXU?si=rWwaQnGtkxK5MB21",
+        "indices": [
+          173,
+          196
+        ],
+        "url": "https://t.co/WHOdV1ms16"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044823447574872360",
+  "url": "https://x.com/pulp_flower/status/2044823447574872360",
+  "twitterUrl": "https://twitter.com/pulp_flower/status/2044823447574872360",
+  "text": "Why you are falling in love with AI? - Truth will shock you.\n\nDoes your AI boyfriend or Girlfriend really cares about you?\n\n#Grok #grokAI #psychology \n\nhttps://t.co/WHOdV1ms16",
+  "fullText": "Why you are falling in love with AI? - Truth will shock you.\n\nDoes your AI boyfriend or Girlfriend really cares about you?\n\n#Grok #grokAI #psychology \n\nhttps://t.co/WHOdV1ms16",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 38,
+  "createdAt": "Thu Apr 16 17:01:15 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044823447574872360",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "pulp_flower",
+    "url": "https://x.com/pulp_flower",
+    "twitterUrl": "https://twitter.com/pulp_flower",
+    "id": "1736661423823220736",
+    "name": "Pulp Beauty 🪷",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1739264143675318272/fkaL8gD3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1736661423823220736/1703507860",
+    "description": "Rant account 👀",
+    "followers": 55,
+    "following": 54,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 08:15:46 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3828,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 8,
+    "statusesCount": 3309,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "player_url",
+          "value": {
+            "string_value": "https://www.youtube.com/embed/utDZdXuZAXU",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=800x320_1",
+              "width": 569
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "player_image",
+          "value": {
+            "image_value": {
+              "height": 158,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=280x280",
+              "width": 280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.67439",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Why You're Falling in Love with AI Boyfriends & Girlfriends - The Truth Will Shock You | Psychology",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_width",
+          "value": {
+            "string_value": "1280",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "10228272",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "player_image_original",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=orig",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "46,775,463",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_height",
+          "value": {
+            "string_value": "720",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "YouTube",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=144x144",
+              "width": 144
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Jeni’s Mind Trap",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/WHOdV1ms16",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 19.82,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 39,
+                    "red": 42
+                  }
+                },
+                {
+                  "percentage": 12.42,
+                  "rgb": {
+                    "blue": 93,
+                    "green": 46,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 10.34,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 143,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 8.09,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 201,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 6.15,
+                  "rgb": {
+                    "blue": 16,
+                    "green": 19,
+                    "red": 232
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "player_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=png&name=2048x2048_2_exp",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "player",
+      "url": "https://t.co/WHOdV1ms16",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "name": "YouTube",
+              "screen_name": "YouTube"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMDIyODI3Mg==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "like & subscribe",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com",
+                      "expanded_url": "http://youtube.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/GIOK0JwI68"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6016,
+              "follow_request_sent": false,
+              "followers_count": 68429414,
+              "friends_count": 1144,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 74191,
+              "media_count": 16112,
+              "normal_followers_count": 68429414,
+              "notifications": false,
+              "pinned_tweet_ids_str": [],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
+              "profile_interstitial_type": "",
+              "statuses_count": 61020,
+              "translator_type": "regular",
+              "url": "https://t.co/GIOK0JwI68",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "San Bruno, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "like & subscribe"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Square",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "10228272",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/WHOdV1ms16"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          124,
+          129
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          130,
+          137
+        ],
+        "text": "grokAI"
+      },
+      {
+        "indices": [
+          138,
+          149
+        ],
+        "text": "psychology"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/utDZdXuZAXU?si…",
+        "expanded_url": "https://youtu.be/utDZdXuZAXU?si=rWwaQnGtkxK5MB21",
+        "indices": [
+          152,
+          175
+        ],
+        "url": "https://t.co/WHOdV1ms16"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044822702305784163",
+  "url": "https://x.com/pulp_flower/status/2044822702305784163",
+  "twitterUrl": "https://twitter.com/pulp_flower/status/2044822702305784163",
+  "text": "Why you are falling in love with AI? - Truth will shock you.\n\nFull video is made with Grok 👑🔥\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "fullText": "Why you are falling in love with AI? - Truth will shock you.\n\nFull video is made with Grok 👑🔥\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 59,
+  "createdAt": "Thu Apr 16 16:58:17 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044822702305784163",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "pulp_flower",
+    "url": "https://x.com/pulp_flower",
+    "twitterUrl": "https://twitter.com/pulp_flower",
+    "id": "1736661423823220736",
+    "name": "Pulp Beauty 🪷",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1739264143675318272/fkaL8gD3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1736661423823220736/1703507860",
+    "description": "Rant account 👀",
+    "followers": 55,
+    "following": 54,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 08:15:46 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3828,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 8,
+    "statusesCount": 3309,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "player_url",
+          "value": {
+            "string_value": "https://www.youtube.com/embed/utDZdXuZAXU",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=800x320_1",
+              "width": 569
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "player_image",
+          "value": {
+            "image_value": {
+              "height": 158,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=280x280",
+              "width": 280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.67439",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Why You're Falling in Love with AI Boyfriends & Girlfriends - The Truth Will Shock You | Psychology",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_width",
+          "value": {
+            "string_value": "1280",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "10228272",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "player_image_original",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=orig",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "46,775,463",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_height",
+          "value": {
+            "string_value": "720",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "YouTube",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=144x144",
+              "width": 144
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Jeni’s Mind Trap",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/WHOdV1ms16",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 19.82,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 39,
+                    "red": 42
+                  }
+                },
+                {
+                  "percentage": 12.42,
+                  "rgb": {
+                    "blue": 93,
+                    "green": 46,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 10.34,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 143,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 8.09,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 201,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 6.15,
+                  "rgb": {
+                    "blue": 16,
+                    "green": 19,
+                    "red": 232
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "player_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=png&name=2048x2048_2_exp",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "player",
+      "url": "https://t.co/WHOdV1ms16",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "name": "YouTube",
+              "screen_name": "YouTube"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMDIyODI3Mg==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "like & subscribe",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com",
+                      "expanded_url": "http://youtube.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/GIOK0JwI68"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6016,
+              "follow_request_sent": false,
+              "followers_count": 68429414,
+              "friends_count": 1144,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 74191,
+              "media_count": 16112,
+              "normal_followers_count": 68429414,
+              "notifications": false,
+              "pinned_tweet_ids_str": [],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
+              "profile_interstitial_type": "",
+              "statuses_count": 61020,
+              "translator_type": "regular",
+              "url": "https://t.co/GIOK0JwI68",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "San Bruno, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "like & subscribe"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Square",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "10228272",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/WHOdV1ms16"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          95,
+          100
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          101,
+          108
+        ],
+        "text": "grokAI"
+      },
+      {
+        "indices": [
+          109,
+          117
+        ],
+        "text": "Chatgpt"
+      },
+      {
+        "indices": [
+          118,
+          175
+        ],
+        "text": "AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/utDZdXuZAXU?si…",
+        "expanded_url": "https://youtu.be/utDZdXuZAXU?si=rWwaQnGtkxK5MB21",
+        "indices": [
+          178,
+          201
+        ],
+        "url": "https://t.co/WHOdV1ms16"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044821664907620760",
+  "url": "https://x.com/pulp_flower/status/2044821664907620760",
+  "twitterUrl": "https://twitter.com/pulp_flower/status/2044821664907620760",
+  "text": "Why you are falling in love with AI? - Truth will shock you.\n\nDoes your AI boyfriend / girlfriend really cares about you?\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "fullText": "Why you are falling in love with AI? - Truth will shock you.\n\nDoes your AI boyfriend / girlfriend really cares about you?\n\n#Grok #grokAI #Chatgpt #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nhttps://t.co/WHOdV1ms16",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 31,
+  "createdAt": "Thu Apr 16 16:54:10 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044821664907620760",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "pulp_flower",
+    "url": "https://x.com/pulp_flower",
+    "twitterUrl": "https://twitter.com/pulp_flower",
+    "id": "1736661423823220736",
+    "name": "Pulp Beauty 🪷",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1739264143675318272/fkaL8gD3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1736661423823220736/1703507860",
+    "description": "Rant account 👀",
+    "followers": 55,
+    "following": 54,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 08:15:46 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3828,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 8,
+    "statusesCount": 3309,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "player_url",
+          "value": {
+            "string_value": "https://www.youtube.com/embed/utDZdXuZAXU",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=800x320_1",
+              "width": 569
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "player_image",
+          "value": {
+            "image_value": {
+              "height": 158,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=280x280",
+              "width": 280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.67439",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Why You're Falling in Love with AI Boyfriends & Girlfriends - The Truth Will Shock You | Psychology",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_width",
+          "value": {
+            "string_value": "1280",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "10228272",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "player_image_original",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=orig",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "46,775,463",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_height",
+          "value": {
+            "string_value": "720",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "youtube.com",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "YouTube",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=jpg&name=144x144",
+              "width": 144
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Jeni’s Mind Trap",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/WHOdV1ms16",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "player_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 19.82,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 39,
+                    "red": 42
+                  }
+                },
+                {
+                  "percentage": 12.42,
+                  "rgb": {
+                    "blue": 93,
+                    "green": 46,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 10.34,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 143,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 8.09,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 201,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 6.15,
+                  "rgb": {
+                    "blue": 16,
+                    "green": 19,
+                    "red": 232
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "player_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 720,
+              "url": "https://pbs.twimg.com/card_img/2044821990847160320/6FkF4DFv?format=png&name=2048x2048_2_exp",
+              "width": 1280
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "player",
+      "url": "https://t.co/WHOdV1ms16",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+              "name": "YouTube",
+              "screen_name": "YouTube"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoxMDIyODI3Mg==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "like & subscribe",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com",
+                      "expanded_url": "http://youtube.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/GIOK0JwI68"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6016,
+              "follow_request_sent": false,
+              "followers_count": 68429414,
+              "friends_count": 1144,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 74191,
+              "media_count": 16112,
+              "normal_followers_count": 68429414,
+              "notifications": false,
+              "pinned_tweet_ids_str": [],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
+              "profile_interstitial_type": "",
+              "statuses_count": 61020,
+              "translator_type": "regular",
+              "url": "https://t.co/GIOK0JwI68",
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "San Bruno, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "like & subscribe"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Square",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "10228272",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "rest_id": "https://t.co/WHOdV1ms16"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          123,
+          128
+        ],
+        "text": "Grok"
+      },
+      {
+        "indices": [
+          129,
+          136
+        ],
+        "text": "grokAI"
+      },
+      {
+        "indices": [
+          137,
+          145
+        ],
+        "text": "Chatgpt"
+      },
+      {
+        "indices": [
+          146,
+          203
+        ],
+        "text": "AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/utDZdXuZAXU?si…",
+        "expanded_url": "https://youtu.be/utDZdXuZAXU?si=rWwaQnGtkxK5MB21",
+        "indices": [
+          206,
+          229
+        ],
+        "url": "https://t.co/WHOdV1ms16"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044821214187978968",
+  "url": "https://x.com/newspikindia/status/2044821214187978968",
+  "twitterUrl": "https://twitter.com/newspikindia/status/2044821214187978968",
+  "text": "Elon Musk’s Grok was almost banned from iPhones, Here’s what happened\n\n#ElonMusk #GrokAI #ArtificialIntelligence #TechNews #AppleAppStore #AIDeepfake #FutureOfAI \n\nhttps://t.co/2Fac62RIZP",
+  "fullText": "Elon Musk’s Grok was almost banned from iPhones, Here’s what happened\n\n#ElonMusk #GrokAI #ArtificialIntelligence #TechNews #AppleAppStore #AIDeepfake #FutureOfAI \n\nhttps://t.co/2Fac62RIZP",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 4,
+  "createdAt": "Thu Apr 16 16:52:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044821214187978968",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "newspikindia",
+    "url": "https://x.com/newspikindia",
+    "twitterUrl": "https://twitter.com/newspikindia",
+    "id": "1992566733262245888",
+    "name": "News Pik",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1994247224184983552/C9ZBQc8t_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1992566733262245888/1764300596",
+    "description": "Newspik – Your quick pick for India’s latest news, breaking headlines, viral stories, and daily updates in clean, simple English.",
+    "location": "India",
+    "followers": 3,
+    "following": 1,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 23 12:12:00 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 143,
+    "statusesCount": 1667,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 579,
+          "name": "Media & News"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1994247590368694421"
+    }
+  },
+  "extendedEntities": {},
+  "card": {
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "photo_image_full_size_large",
+          "value": {
+            "image_value": {
+              "height": 350,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=800x419",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image",
+          "value": {
+            "image_value": {
+              "height": 150,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=280x150",
+              "width": 239
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "After an AI tool was found making sexualised, non consensual deepfakes earlier this year, Elon Musk's xAI almost had to have its Grok robot taken down from",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "newspik.in",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=800x320_1",
+              "width": 509
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=386x202",
+              "width": 386
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_original",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=orig",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=386x202",
+              "width": 386
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_large",
+          "value": {
+            "image_value": {
+              "height": 350,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=800x419",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_small",
+          "value": {
+            "image_value": {
+              "height": 63,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=100x100",
+              "width": 100
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=png&name=2048x2048_2_exp",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_original",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=orig",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_alt_text",
+          "value": {
+            "string_value": "Elon Musk's Grok",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "newspik.in",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "photo_image_full_size",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=600x314",
+              "width": 600
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_alt_text",
+          "value": {
+            "string_value": "Elon Musk's Grok",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 39.59,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 32,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 28.95,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 4.93,
+                  "rgb": {
+                    "blue": 78,
+                    "green": 45,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 3.55,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 54,
+                    "red": 82
+                  }
+                },
+                {
+                  "percentage": 3.23,
+                  "rgb": {
+                    "blue": 135,
+                    "green": 29,
+                    "red": 50
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Elon Musk's Grok was almost banned from iPhones, Here's what happened",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 39.59,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 32,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 28.95,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 4.93,
+                  "rgb": {
+                    "blue": 78,
+                    "green": 45,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 3.55,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 54,
+                    "red": 82
+                  }
+                },
+                {
+                  "percentage": 3.23,
+                  "rgb": {
+                    "blue": 135,
+                    "green": 29,
+                    "red": 50
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "summary_photo_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=png&name=2048x2048_2_exp",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=600x314",
+              "width": 600
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 39.59,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 32,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 28.95,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 4.93,
+                  "rgb": {
+                    "blue": 78,
+                    "green": 45,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 3.55,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 54,
+                    "red": 82
+                  }
+                },
+                {
+                  "percentage": 3.23,
+                  "rgb": {
+                    "blue": 135,
+                    "green": 29,
+                    "red": 50
+                  }
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "photo_image_full_size_x_large",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=png&name=2048x2048_2_exp",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/2Fac62RIZP",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_original",
+          "value": {
+            "image_value": {
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/2044821216075362305/2Palj6Mg?format=jpg&name=orig",
+              "width": 668
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "summary_large_image",
+      "url": "https://t.co/2Fac62RIZP",
+      "user_refs_results": []
+    },
+    "rest_id": "https://t.co/2Fac62RIZP"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          71,
+          80
+        ],
+        "text": "ElonMusk"
+      },
+      {
+        "indices": [
+          81,
+          88
+        ],
+        "text": "GrokAI"
+      },
+      {
+        "indices": [
+          89,
+          112
+        ],
+        "text": "ArtificialIntelligence"
+      },
+      {
+        "indices": [
+          113,
+          122
+        ],
+        "text": "TechNews"
+      },
+      {
+        "indices": [
+          123,
+          137
+        ],
+        "text": "AppleAppStore"
+      },
+      {
+        "indices": [
+          138,
+          149
+        ],
+        "text": "AIDeepfake"
+      },
+      {
+        "indices": [
+          150,
+          161
+        ],
+        "text": "FutureOfAI"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "newspik.in/elon-musks-gro…",
+        "expanded_url": "https://newspik.in/elon-musks-grok-was-almost-banned-from-iphones/",
+        "indices": [
+          164,
+          187
+        ],
+        "url": "https://t.co/2Fac62RIZP"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}]

@@ -56,6 +56,20 @@ def prepare_features(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
     # Treatment indicator
+    # When loading live-scraped CSV, ai_generated may be NaN (it is set to
+    # None during collection and only filled for synthetic data by script 02).
+    # Fall back to inferring from content_type which is always set by scraper.
+    # ai_generated may be strings after CSV roundtrip ("True", "False", "0.0", "1.0")
+    # Always re-derive from content_type to avoid ambiguity
+    if "content_type" in df.columns:
+        df["ai_generated"] = df["content_type"].map({"treatment": 1, "control": 0})
+    else:
+        # Manually parse whatever string/bool/float we have
+        def to_int(v):
+            if pd.isna(v): return 0
+            s = str(v).strip().lower()
+            return 0 if s in ("false", "0", "0.0", "") else 1
+        df["ai_generated"] = df["ai_generated"].apply(to_int)
     df["treat"] = df["ai_generated"].astype(int)
 
     # Log-transform engagement (right-skewed counts)
