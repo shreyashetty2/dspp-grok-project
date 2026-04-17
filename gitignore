@@ -3,13 +3,13 @@
 *.env
 .env.local
 
-# Scraped data — too large and ethically sensitive to commit
-data/raw/
+<!-- # Scraped data — too large and ethically sensitive to commit -->
+<!-- data/raw/
 data/processed/
-data/synthetic/
+data/synthetic/ -->
 
-# Pipeline outputs
-outputs/
+<!-- # Pipeline outputs
+outputs/ -->
 
 # Python cache
 __pycache__/
