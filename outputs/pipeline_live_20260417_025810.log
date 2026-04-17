@@ -1,0 +1,25 @@
+
+============================================================
+  01_data_collection.py | mode=treatment | 2026-04-17 02:58:10
+============================================================
+
+=== Scraping TREATMENT (AI hashtags via Scweet) ===
+
+  --- Scraping: #GrokAI (treatment) ---
+
+[ERROR] Scweet is not installed.
+  Fix: pip3 install Scweet
+
+╔══════════════════════════════════════════════════════════╗
+║  AI-NCII on X: Full Analysis Pipeline                   ║
+║  Data Science & Public Policy  Spring 2026              ║
+║  Mode: LIVE                                               ║
+║  Started: 2026-04-17 02:58:10                              ║
+╚══════════════════════════════════════════════════════════╝
+
+
+============================================================
+  STEP: Scrape treatment posts (AI/Grok hashtags) via snscrape (free)
+  CMD:  "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3" 01_data_collection.py --mode treatment
+  TIME: 02:58:10
+============================================================

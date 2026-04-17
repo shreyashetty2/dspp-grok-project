@@ -1,33 +1,18 @@
 import pandas as pd
-from apify_client import ApifyClient
-import time
+import json
 
-# Initialize the ApifyClient with your API token from console.apify.com
-APIFY_TOKEN = ""
-client = ApifyClient(APIFY_TOKEN)
-
-# Seed hashtags (update these based on your qualitative research)
-ai_seed_tags = ["#groknsfw", "#aiart", "#grok"]
-control_seed_tags = ["#nsfw", "#leaked", "#traditional_nsfw"]
-
-def scrape_twitter_tags(tags, is_ai_flag):
-    print(f"Starting scrape for tags: {tags}")
-    
-    # CRITICAL BUDGET CAP: maxItems set to 500 per group (1000 total)
-    # This ensures your Apify cost stays under ~$1.50
-    run_input = {
-        "searchTerms": tags,
-        "maxItems": 500, 
-        "tweetLanguage": "en"
-    }
-
-    # Call the Apify pay-per-result actor
-    run = client.actor("apidojo/tweet-scraper").call(run_input=run_input)
-    dataset_items = client.dataset(run["defaultDatasetId"]).iterate_items()
+def process_apify_json(filepath, is_ai_flag):
+    print(f"Processing {filepath}...")
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            dataset_items = json.load(f)
+    except FileNotFoundError:
+        print(f"ERROR: Could not find '{filepath}'. Make sure it is in the same folder as this script!")
+        return pd.DataFrame()
 
     data = []
     for item in dataset_items:
-        # Extract metadata without downloading illicit image URLs
+        # Extract metadata just like the API would have done
         data.append({
             "tweet_id": item.get("id"),
             "author_id": item.get("author", {}).get("userName"),
@@ -44,19 +29,20 @@ def scrape_twitter_tags(tags, is_ai_flag):
     return pd.DataFrame(data)
 
 if __name__ == "__main__":
-    print("Initializing Phase 1: Data Scrape...")
+    print("Initializing Phase 1: Local Data Formatting...")
     
-    # Scrape treatment group (AI-generated)
-    df_ai = scrape_twitter_tags(ai_seed_tags, is_ai_flag=1)
+    # Process the JSON files you downloaded from the Apify Web Console
+    df_ai = process_apify_json('ai_results.json', 1)
+    df_control = process_apify_json('control_results.json', 0)
     
-    # Scrape control group (Human-generated)
-    df_control = scrape_twitter_tags(control_seed_tags, is_ai_flag=0)
-    
-    # Combine and save
-    df_master = pd.concat([df_ai, df_control], ignore_index=True)
-    
-    # Drop exact duplicates just in case hashtags overlapped
-    df_master = df_master.drop_duplicates(subset=['tweet_id'])
-    df_master.to_csv("x_ncii_master_dataset.csv", index=False)
-    
-    print(f"Success! Data collection complete. Total unique records saved: {len(df_master)}")
+    if not df_ai.empty and not df_control.empty:
+        # Combine the two datasets
+        df_master = pd.concat([df_ai, df_control], ignore_index=True)
+        
+        # Drop duplicates
+        df_master = df_master.drop_duplicates(subset=['tweet_id'])
+        
+        # Save the master CSV for Scripts 02 and 03
+        df_master.to_csv("x_ncii_master_dataset.csv", index=False)
+        print(f"Success! Master dataset generated. Total unique records saved: {len(df_master)}")
+        print("You can now safely run 02_network_analysis.py!")
