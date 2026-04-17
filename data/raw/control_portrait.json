@@ -1,0 +1,4238 @@
+[{
+  "type": "tweet",
+  "id": "2044394521056931869",
+  "url": "https://x.com/rn_0x0_m/status/2044394521056931869",
+  "twitterUrl": "https://twitter.com/rn_0x0_m/status/2044394521056931869",
+  "text": ".\n.\nPhoto by @kiyohara_fuwari \n.\n.\n#被写体 #ポートレート #portrait \n#ポートレート好きな人と繋がりたい https://t.co/G9atdF9DK2",
+  "fullText": ".\n.\nPhoto by @kiyohara_fuwari \n.\n.\n#被写体 #ポートレート #portrait \n#ポートレート好きな人と繋がりたい https://t.co/G9atdF9DK2",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 125,
+  "createdAt": "Wed Apr 15 12:36:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044394521056931869",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "rn_0x0_m",
+    "url": "https://x.com/rn_0x0_m",
+    "twitterUrl": "https://twitter.com/rn_0x0_m",
+    "id": "803139680971591681",
+    "name": "千歳りな🤍",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2039166326837833728/QZE9QrLJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/803139680971591681/1775010124",
+    "description": "被写体￤ポートレート￤コスプレ🔰 ￤ 160cm￤ブルベ￤暗髪￤丸顔￤WAVE ￤ memoria撮影会 @memoria_ps￤カメラ垢☞@rn_0x0_c ↓お読みになってご依頼ください",
+    "location": "CHIBA",
+    "followers": 720,
+    "following": 412,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 28 07:33:16 +0000 2016",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "lit.link/rn0x0m",
+            "expanded_url": "https://lit.link/rn0x0m",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/ADpj2A6pwM"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25332,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1336,
+    "statusesCount": 5048,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2042545531176783925"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/G9atdF9DK2",
+        "expanded_url": "https://x.com/rn_0x0_m/status/2044394521056931869/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044394516858507264",
+        "indices": [
+          77,
+          100
+        ],
+        "media_key": "3_2044394516858507264",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044394516858507264"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF8l-z4bkAA9X28.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 585,
+              "w": 1045,
+              "x": 0,
+              "y": 844
+            },
+            {
+              "h": 1045,
+              "w": 1045,
+              "x": 0,
+              "y": 522
+            },
+            {
+              "h": 1191,
+              "w": 1045,
+              "x": 0,
+              "y": 376
+            },
+            {
+              "h": 1567,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1567,
+              "w": 1045,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1567,
+          "width": 1045
+        },
+        "sizes": {
+          "large": {
+            "h": 1567,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/G9atdF9DK2"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          39
+        ],
+        "text": "被写体"
+      },
+      {
+        "indices": [
+          40,
+          47
+        ],
+        "text": "ポートレート"
+      },
+      {
+        "indices": [
+          48,
+          57
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          59,
+          76
+        ],
+        "text": "ポートレート好きな人と繋がりたい"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/G9atdF9DK2",
+        "expanded_url": "https://x.com/rn_0x0_m/status/2044394521056931869/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044394516858507264",
+        "indices": [
+          77,
+          100
+        ],
+        "media_key": "3_2044394516858507264",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044394516858507264"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF8l-z4bkAA9X28.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 585,
+              "w": 1045,
+              "x": 0,
+              "y": 844
+            },
+            {
+              "h": 1045,
+              "w": 1045,
+              "x": 0,
+              "y": 522
+            },
+            {
+              "h": 1191,
+              "w": 1045,
+              "x": 0,
+              "y": 376
+            },
+            {
+              "h": 1567,
+              "w": 784,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1567,
+              "w": 1045,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1567,
+          "width": 1045
+        },
+        "sizes": {
+          "large": {
+            "h": 1567,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/G9atdF9DK2"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1084275202152849408",
+        "indices": [
+          13,
+          29
+        ],
+        "name": "清原ふわり",
+        "screen_name": "kiyohara_fuwari"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF8l-z4bkAA9X28.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044356647313907919",
+  "url": "https://x.com/codama_photo/status/2044356647313907919",
+  "twitterUrl": "https://twitter.com/codama_photo/status/2044356647313907919",
+  "text": "『　Fluffy &amp; Mellow　』\n\nmodel：KOTONEさん @kotonefromjapan \n#ポートレート #portrait https://t.co/MvEkhZJzD6",
+  "fullText": "『　Fluffy &amp; Mellow　』\n\nmodel：KOTONEさん @kotonefromjapan \n#ポートレート #portrait https://t.co/MvEkhZJzD6",
+  "source": "Twitter for iPhone",
+  "retweetCount": 5,
+  "replyCount": 0,
+  "likeCount": 20,
+  "quoteCount": 0,
+  "viewCount": 268,
+  "createdAt": "Wed Apr 15 10:06:21 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2044356647313907919",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "codama_photo",
+    "url": "https://x.com/codama_photo",
+    "twitterUrl": "https://twitter.com/codama_photo",
+    "id": "1815370965217689600",
+    "name": "こだま📷",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1971849904051179522/ly1TPgQY_normal.jpg",
+    "coverPicture": "",
+    "description": "関東でポートレートを撮影してます。※投稿写真の著作権は放棄しておりません。第三者が許可なく投稿、編集、加工を加えることは禁止します。",
+    "followers": 525,
+    "following": 374,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Jul 22 12:59:21 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/codama.photo?i…",
+            "expanded_url": "https://www.instagram.com/codama.photo?igsh=OG1nODFkbm5zd3Mw&utm_source=qr",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/Z9mt2kEakY"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17908,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 902,
+    "statusesCount": 3314,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/MvEkhZJzD6",
+        "expanded_url": "https://x.com/codama_photo/status/2044356647313907919/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "𝐊𝐎𝐓𝐎𝐍𝐄",
+                "screen_name": "kotonefromjapan",
+                "type": "user",
+                "user_id": "1177171504791871489"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044356640863092736",
+        "indices": [
+          76,
+          99
+        ],
+        "media_key": "3_2044356640863092736",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044356640863092736"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF8DiIzbAAAWSYL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 764,
+              "w": 1365,
+              "x": 0,
+              "y": 283
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1556,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 256,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1365
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/MvEkhZJzD6"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          58,
+          65
+        ],
+        "text": "ポートレート"
+      },
+      {
+        "indices": [
+          66,
+          75
+        ],
+        "text": "portrait"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/MvEkhZJzD6",
+        "expanded_url": "https://x.com/codama_photo/status/2044356647313907919/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "𝐊𝐎𝐓𝐎𝐍𝐄",
+                "screen_name": "kotonefromjapan",
+                "type": "user",
+                "user_id": "1177171504791871489"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044356640863092736",
+        "indices": [
+          76,
+          99
+        ],
+        "media_key": "3_2044356640863092736",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044356640863092736"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF8DiIzbAAAWSYL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 764,
+              "w": 1365,
+              "x": 0,
+              "y": 283
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1556,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 256,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1365
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/MvEkhZJzD6"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1177171504791871489",
+        "indices": [
+          40,
+          56
+        ],
+        "name": "𝐊𝐎𝐓𝐎𝐍𝐄",
+        "screen_name": "kotonefromjapan"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF8DiIzbAAAWSYL.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042807611783889120",
+  "url": "https://x.com/timeflw_/status/2042807611783889120",
+  "twitterUrl": "https://twitter.com/timeflw_/status/2042807611783889120",
+  "text": "3 hours\n#timeflw #painting #portrait https://t.co/XFxvDuKw00",
+  "fullText": "3 hours\n#timeflw #painting #portrait https://t.co/XFxvDuKw00",
+  "source": "Twitter for Android",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 72,
+  "createdAt": "Sat Apr 11 03:31:02 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2042807611783889120",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "timeflw_",
+    "url": "https://x.com/timeflw_",
+    "twitterUrl": "https://twitter.com/timeflw_",
+    "id": "1844849694276829184",
+    "name": "timeflw",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1956608652057419776/hTXWRyNW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1844849694276829184/1728681809",
+    "description": "Frenzy (21) 🇪🇪\n\ni am more active on Instagram",
+    "followers": 24,
+    "following": 441,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 11 21:17:08 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/timeflw",
+            "expanded_url": "https://www.instagram.com/timeflw",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/z8Tc2ccJJt"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1085,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 96,
+    "statusesCount": 230,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2026526864702058583"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/XFxvDuKw00",
+        "expanded_url": "https://x.com/timeflw_/status/2042807611783889120/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 678,
+                "w": 678,
+                "x": 476,
+                "y": 472
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 397,
+                "w": 397,
+                "x": 279,
+                "y": 276
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 678,
+                "w": 678,
+                "x": 476,
+                "y": 472
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 225,
+                "w": 225,
+                "x": 157,
+                "y": 156
+              }
+            ]
+          }
+        },
+        "id_str": "2042807603844022272",
+        "indices": [
+          37,
+          60
+        ],
+        "media_key": "3_2042807603844022272",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042807603844022272"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFmCsUOXAAAsZfE.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 896,
+              "w": 1600,
+              "x": 0,
+              "y": 422
+            },
+            {
+              "h": 1600,
+              "w": 1600,
+              "x": 0,
+              "y": 70
+            },
+            {
+              "h": 1824,
+              "w": 1600,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 256,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1600,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1600
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1600
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 938
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 531
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XFxvDuKw00"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          8,
+          16
+        ],
+        "text": "timeflw"
+      },
+      {
+        "indices": [
+          17,
+          26
+        ],
+        "text": "painting"
+      },
+      {
+        "indices": [
+          27,
+          36
+        ],
+        "text": "portrait"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/XFxvDuKw00",
+        "expanded_url": "https://x.com/timeflw_/status/2042807611783889120/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 678,
+                "w": 678,
+                "x": 476,
+                "y": 472
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 397,
+                "w": 397,
+                "x": 279,
+                "y": 276
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 678,
+                "w": 678,
+                "x": 476,
+                "y": 472
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 225,
+                "w": 225,
+                "x": 157,
+                "y": 156
+              }
+            ]
+          }
+        },
+        "id_str": "2042807603844022272",
+        "indices": [
+          37,
+          60
+        ],
+        "media_key": "3_2042807603844022272",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042807603844022272"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFmCsUOXAAAsZfE.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 896,
+              "w": 1600,
+              "x": 0,
+              "y": 422
+            },
+            {
+              "h": 1600,
+              "w": 1600,
+              "x": 0,
+              "y": 70
+            },
+            {
+              "h": 1824,
+              "w": 1600,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 256,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1600,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1600
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1600
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 938
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 531
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XFxvDuKw00"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFmCsUOXAAAsZfE.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044656162268909691",
+  "url": "https://x.com/JohannArts/status/2044656162268909691",
+  "twitterUrl": "https://twitter.com/JohannArts/status/2044656162268909691",
+  "text": "just a rework of an old drawing.. Ranni The Witch\n\n#eldenring #illustration #portrait #fanart #noAI #photoshop https://t.co/XpWNCqQWbL",
+  "fullText": "just a rework of an old drawing.. Ranni The Witch\n\n#eldenring #illustration #portrait #fanart #noAI #photoshop https://t.co/XpWNCqQWbL",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 28,
+  "createdAt": "Thu Apr 16 05:56:31 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044656162268909691",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "JohannArts",
+    "url": "https://x.com/JohannArts",
+    "twitterUrl": "https://twitter.com/JohannArts",
+    "id": "1597487989260980224",
+    "name": "Johann Paz",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2044369177570598913/j-TL_Ym0_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1597487989260980224/1776250761",
+    "description": "I'm a digital artist from Philippines who loves to draw a lot!",
+    "location": "PH!",
+    "followers": 1,
+    "following": 13,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 29 07:10:10 +0000 2022",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/johann.arts/",
+            "expanded_url": "https://www.instagram.com/johann.arts/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/PkJD8V6PyI"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 19,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2044985872454664602"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/XpWNCqQWbL",
+        "expanded_url": "https://x.com/JohannArts/status/2044656162268909691/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 328,
+                "w": 328,
+                "x": 476,
+                "y": 864
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 192,
+                "w": 192,
+                "x": 278,
+                "y": 505
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 656,
+                "w": 656,
+                "x": 952,
+                "y": 1728
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 158,
+                "y": 287
+              }
+            ]
+          }
+        },
+        "id_str": "2044656100201680896",
+        "indices": [
+          111,
+          134
+        ],
+        "media_key": "3_2044656100201680896",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044656100201680896"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGAT49xbUAASRXi.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1622,
+              "w": 2896,
+              "x": 0,
+              "y": 520
+            },
+            {
+              "h": 2896,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3301,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2048,
+              "x": 512,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4096,
+          "width": 2896
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1448
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 848
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 481
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XpWNCqQWbL"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          51,
+          61
+        ],
+        "text": "eldenring"
+      },
+      {
+        "indices": [
+          62,
+          75
+        ],
+        "text": "illustration"
+      },
+      {
+        "indices": [
+          76,
+          85
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          86,
+          93
+        ],
+        "text": "fanart"
+      },
+      {
+        "indices": [
+          94,
+          99
+        ],
+        "text": "noAI"
+      },
+      {
+        "indices": [
+          100,
+          110
+        ],
+        "text": "photoshop"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/XpWNCqQWbL",
+        "expanded_url": "https://x.com/JohannArts/status/2044656162268909691/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 328,
+                "w": 328,
+                "x": 476,
+                "y": 864
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 192,
+                "w": 192,
+                "x": 278,
+                "y": 505
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 656,
+                "w": 656,
+                "x": 952,
+                "y": 1728
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 158,
+                "y": 287
+              }
+            ]
+          }
+        },
+        "id_str": "2044656100201680896",
+        "indices": [
+          111,
+          134
+        ],
+        "media_key": "3_2044656100201680896",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044656100201680896"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGAT49xbUAASRXi.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1622,
+              "w": 2896,
+              "x": 0,
+              "y": 520
+            },
+            {
+              "h": 2896,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3301,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2048,
+              "x": 512,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2896,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4096,
+          "width": 2896
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1448
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 848
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 481
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XpWNCqQWbL"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGAT49xbUAASRXi.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044121102637478077",
+  "url": "https://x.com/MayorDi_SFW/status/2044121102637478077",
+  "twitterUrl": "https://twitter.com/MayorDi_SFW/status/2044121102637478077",
+  "text": "Portraits from 2022-2023, procreate \n#art #portrait #digitalart #blackandwhiteart\n#mdart https://t.co/aOrLwMdlC5",
+  "fullText": "Portraits from 2022-2023, procreate \n#art #portrait #digitalart #blackandwhiteart\n#mdart https://t.co/aOrLwMdlC5",
+  "source": "Buffer",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 5,
+  "createdAt": "Tue Apr 14 18:30:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044121102637478077",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "MayorDi_SFW",
+    "url": "https://x.com/MayorDi_SFW",
+    "twitterUrl": "https://twitter.com/MayorDi_SFW",
+    "id": "2026377449429413890",
+    "name": "MayorDiArtSFW",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2026378009037414400/JG6Yp5LP_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2026377449429413890/1771962187",
+    "description": "Hobby Artist.\nI don't do commissions or requests.",
+    "followers": 4,
+    "following": 64,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 24 19:25:03 +0000 2026",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 554,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 53,
+    "statusesCount": 90,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/aOrLwMdlC5",
+        "expanded_url": "https://x.com/MayorDi_SFW/status/2044121102637478077/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 1256,
+                "w": 1256,
+                "x": 298,
+                "y": 484
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 735,
+                "w": 735,
+                "x": 174,
+                "y": 283
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 1256,
+                "w": 1256,
+                "x": 298,
+                "y": 484
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 417,
+                "w": 417,
+                "x": 98,
+                "y": 160
+              }
+            ]
+          }
+        },
+        "id_str": "2044121099001094144",
+        "indices": [
+          89,
+          112
+        ],
+        "media_key": "3_2044121099001094144",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044121099001094144"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF4tTy_XYAArRPr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 399
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1796,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aOrLwMdlC5"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          37,
+          41
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          42,
+          51
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          52,
+          63
+        ],
+        "text": "digitalart"
+      },
+      {
+        "indices": [
+          64,
+          81
+        ],
+        "text": "blackandwhiteart"
+      },
+      {
+        "indices": [
+          82,
+          88
+        ],
+        "text": "mdart"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/aOrLwMdlC5",
+        "expanded_url": "https://x.com/MayorDi_SFW/status/2044121102637478077/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 1256,
+                "w": 1256,
+                "x": 298,
+                "y": 484
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 735,
+                "w": 735,
+                "x": 174,
+                "y": 283
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 1256,
+                "w": 1256,
+                "x": 298,
+                "y": 484
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 417,
+                "w": 417,
+                "x": 98,
+                "y": 160
+              }
+            ]
+          }
+        },
+        "id_str": "2044121099001094144",
+        "indices": [
+          89,
+          112
+        ],
+        "media_key": "3_2044121099001094144",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044121099001094144"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF4tTy_XYAArRPr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 399
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1796,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aOrLwMdlC5"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF4tTy_XYAArRPr.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044704162227904631",
+  "url": "https://x.com/luckylovepro/status/2044704162227904631",
+  "twitterUrl": "https://twitter.com/luckylovepro/status/2044704162227904631",
+  "text": "#ポートレート #portrait #鯉のぼり #温泉地 #河川敷\n\nHappy day https://t.co/5ZsiBZAPc7",
+  "fullText": "#ポートレート #portrait #鯉のぼり #温泉地 #河川敷\n\nHappy day https://t.co/5ZsiBZAPc7",
+  "source": "Twitter for iPad",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 48,
+  "createdAt": "Thu Apr 16 09:07:15 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044704162227904631",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "luckylovepro",
+    "url": "https://x.com/luckylovepro",
+    "twitterUrl": "https://twitter.com/luckylovepro",
+    "id": "743291204972863488",
+    "name": "ラッキー@被写体様募集中",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1123552165300015104/lX3O8lwJ_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/743291204972863488/1746864096",
+    "description": "2017/2/3\n皆さん仲良くしてください。 🙇‍♂️ \n　\nカメラマンやってます。\n写真関連やお撮りさせて頂いた、お写真などを掲載していきたいと思います。主にポートレイト撮影を行っていますので、モデルさん募集してます🙋‍♂️ \n\nよろしくお願いします。\n\nInsta.:https://t.co/PFDKycUMeR",
+    "location": "福岡　小倉",
+    "followers": 827,
+    "following": 968,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 16 03:56:47 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "goo.gl/xQaUKx",
+            "expanded_url": "https://goo.gl/xQaUKx",
+            "indices": [
+              136,
+              159
+            ],
+            "url": "https://t.co/PFDKycUMeR"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 169081,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10099,
+    "statusesCount": 35880,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1913159607398310010"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/5ZsiBZAPc7",
+        "expanded_url": "https://x.com/luckylovepro/status/2044704162227904631/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 76,
+                "w": 76,
+                "x": 246,
+                "y": 691
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 245,
+                "y": 690
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 76,
+                "w": 76,
+                "x": 246,
+                "y": 691
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 43,
+                "w": 43,
+                "x": 139,
+                "y": 391
+              }
+            ]
+          }
+        },
+        "id_str": "2044704155860967424",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2044704155860967424",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044704155860967424"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGA_mLDboAArH0p.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 505,
+              "w": 901,
+              "x": 0,
+              "y": 696
+            },
+            {
+              "h": 901,
+              "w": 901,
+              "x": 0,
+              "y": 300
+            },
+            {
+              "h": 1027,
+              "w": 901,
+              "x": 0,
+              "y": 174
+            },
+            {
+              "h": 1201,
+              "w": 601,
+              "x": 300,
+              "y": 0
+            },
+            {
+              "h": 1201,
+              "w": 901,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1201,
+          "width": 901
+        },
+        "sizes": {
+          "large": {
+            "h": 1201,
+            "resize": "fit",
+            "w": 901
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/5ZsiBZAPc7"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "text": "ポートレート"
+      },
+      {
+        "indices": [
+          8,
+          17
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          18,
+          23
+        ],
+        "text": "鯉のぼり"
+      },
+      {
+        "indices": [
+          24,
+          28
+        ],
+        "text": "温泉地"
+      },
+      {
+        "indices": [
+          29,
+          33
+        ],
+        "text": "河川敷"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/5ZsiBZAPc7",
+        "expanded_url": "https://x.com/luckylovepro/status/2044704162227904631/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 76,
+                "w": 76,
+                "x": 246,
+                "y": 691
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 75,
+                "w": 75,
+                "x": 245,
+                "y": 690
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 76,
+                "w": 76,
+                "x": 246,
+                "y": 691
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 43,
+                "w": 43,
+                "x": 139,
+                "y": 391
+              }
+            ]
+          }
+        },
+        "id_str": "2044704155860967424",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2044704155860967424",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044704155860967424"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGA_mLDboAArH0p.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 505,
+              "w": 901,
+              "x": 0,
+              "y": 696
+            },
+            {
+              "h": 901,
+              "w": 901,
+              "x": 0,
+              "y": 300
+            },
+            {
+              "h": 1027,
+              "w": 901,
+              "x": 0,
+              "y": 174
+            },
+            {
+              "h": 1201,
+              "w": 601,
+              "x": 300,
+              "y": 0
+            },
+            {
+              "h": 1201,
+              "w": 901,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1201,
+          "width": 901
+        },
+        "sizes": {
+          "large": {
+            "h": 1201,
+            "resize": "fit",
+            "w": 901
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/5ZsiBZAPc7"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGA_mLDboAArH0p.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042895563381969244",
+  "url": "https://x.com/rn_0x0_m/status/2042895563381969244",
+  "twitterUrl": "https://twitter.com/rn_0x0_m/status/2042895563381969244",
+  "text": ".\n.\nPhoto by @mikyacraft\n.\n.\n#被写体 #ポートレート #portrait \n#ポートレート好きな人と繋がりたい https://t.co/hmeTC1Nald",
+  "fullText": ".\n.\nPhoto by @mikyacraft\n.\n.\n#被写体 #ポートレート #portrait \n#ポートレート好きな人と繋がりたい https://t.co/hmeTC1Nald",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 145,
+  "createdAt": "Sat Apr 11 09:20:32 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2042895563381969244",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "rn_0x0_m",
+    "url": "https://x.com/rn_0x0_m",
+    "twitterUrl": "https://twitter.com/rn_0x0_m",
+    "id": "803139680971591681",
+    "name": "千歳りな🤍",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2039166326837833728/QZE9QrLJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/803139680971591681/1775010124",
+    "description": "被写体￤ポートレート￤コスプレ🔰 ￤ 160cm￤ブルベ￤暗髪￤丸顔￤WAVE ￤ memoria撮影会 @memoria_ps￤カメラ垢☞@rn_0x0_c ↓お読みになってご依頼ください",
+    "location": "CHIBA",
+    "followers": 720,
+    "following": 412,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 28 07:33:16 +0000 2016",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "lit.link/rn0x0m",
+            "expanded_url": "https://lit.link/rn0x0m",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/ADpj2A6pwM"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25332,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1336,
+    "statusesCount": 5048,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2042545531176783925"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/hmeTC1Nald",
+        "expanded_url": "https://x.com/rn_0x0_m/status/2042895563381969244/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042895558831149060",
+        "indices": [
+          71,
+          94
+        ],
+        "media_key": "3_2042895558831149060",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042895558831149060"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFnSr-FakAQxFvn.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 585,
+              "w": 1045,
+              "x": 0,
+              "y": 452
+            },
+            {
+              "h": 1045,
+              "w": 1045,
+              "x": 0,
+              "y": 222
+            },
+            {
+              "h": 1191,
+              "w": 1045,
+              "x": 0,
+              "y": 149
+            },
+            {
+              "h": 1567,
+              "w": 784,
+              "x": 117,
+              "y": 0
+            },
+            {
+              "h": 1567,
+              "w": 1045,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1567,
+          "width": 1045
+        },
+        "sizes": {
+          "large": {
+            "h": 1567,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/hmeTC1Nald"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          29,
+          33
+        ],
+        "text": "被写体"
+      },
+      {
+        "indices": [
+          34,
+          41
+        ],
+        "text": "ポートレート"
+      },
+      {
+        "indices": [
+          42,
+          51
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          53,
+          70
+        ],
+        "text": "ポートレート好きな人と繋がりたい"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/hmeTC1Nald",
+        "expanded_url": "https://x.com/rn_0x0_m/status/2042895563381969244/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042895558831149060",
+        "indices": [
+          71,
+          94
+        ],
+        "media_key": "3_2042895558831149060",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042895558831149060"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFnSr-FakAQxFvn.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 585,
+              "w": 1045,
+              "x": 0,
+              "y": 452
+            },
+            {
+              "h": 1045,
+              "w": 1045,
+              "x": 0,
+              "y": 222
+            },
+            {
+              "h": 1191,
+              "w": 1045,
+              "x": 0,
+              "y": 149
+            },
+            {
+              "h": 1567,
+              "w": 784,
+              "x": 117,
+              "y": 0
+            },
+            {
+              "h": 1567,
+              "w": 1045,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1567,
+          "width": 1045
+        },
+        "sizes": {
+          "large": {
+            "h": 1567,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/hmeTC1Nald"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1501158382799327232",
+        "indices": [
+          13,
+          24
+        ],
+        "name": "ミカアンドロイド🌟💓被写体募集中📸",
+        "screen_name": "mikyacraft"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFnSr-FakAQxFvn.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042966612085797133",
+  "url": "https://x.com/Ren2uma/status/2042966612085797133",
+  "twitterUrl": "https://twitter.com/Ren2uma/status/2042966612085797133",
+  "text": "Wonyoung \n\n#digitalart #portrait #ive #wonyoung #장원영 https://t.co/YUDTPu3z6S",
+  "fullText": "Wonyoung \n\n#digitalart #portrait #ive #wonyoung #장원영 https://t.co/YUDTPu3z6S",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 161,
+  "createdAt": "Sat Apr 11 14:02:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2042966612085797133",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Ren2uma",
+    "url": "https://x.com/Ren2uma",
+    "twitterUrl": "https://twitter.com/Ren2uma",
+    "id": "2007571660376080384",
+    "name": "ren2",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2042965769387151367/oY0D3zcU_normal.jpg",
+    "coverPicture": "",
+    "description": "Little painting potato",
+    "followers": 0,
+    "following": 4,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 03 21:56:16 +0000 2026",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/renyuma2535?ig…",
+            "expanded_url": "https://www.instagram.com/renyuma2535?igsh=dGJvZzByNWtxd2Nk&utm_source=qr",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/MpEiBJGJsD"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 2,
+    "statusesCount": 2,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1023,
+          "name": "Illustrator"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "2042967563429196056"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YUDTPu3z6S",
+        "expanded_url": "https://x.com/Ren2uma/status/2042966612085797133/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 644,
+                "w": 644,
+                "x": 822,
+                "y": 588
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 377,
+                "w": 377,
+                "x": 481,
+                "y": 344
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 644,
+                "w": 644,
+                "x": 822,
+                "y": 588
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 213,
+                "w": 213,
+                "x": 273,
+                "y": 195
+              }
+            ]
+          }
+        },
+        "id_str": "2042966605936889861",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2042966605936889861",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042966605936889861"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFoTTdLakAUPLTF.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 921,
+              "w": 1644,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1644,
+              "w": 1644,
+              "x": 0,
+              "y": 150
+            },
+            {
+              "h": 1874,
+              "w": 1644,
+              "x": 0,
+              "y": 35
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 562,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1644,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1644
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1644
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 963
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 546
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YUDTPu3z6S"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YUDTPu3z6S",
+        "expanded_url": "https://x.com/Ren2uma/status/2042966612085797133/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 254,
+                "y": 988
+              },
+              {
+                "h": 801,
+                "w": 801,
+                "x": 492,
+                "y": 610
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 169,
+                "y": 660
+              },
+              {
+                "h": 535,
+                "w": 535,
+                "x": 329,
+                "y": 407
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 254,
+                "y": 988
+              },
+              {
+                "h": 801,
+                "w": 801,
+                "x": 492,
+                "y": 610
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 96,
+                "y": 374
+              },
+              {
+                "h": 303,
+                "w": 303,
+                "x": 186,
+                "y": 231
+              }
+            ]
+          }
+        },
+        "id_str": "2042966605936873472",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2042966605936873472",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042966605936873472"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFoTTdLaUAAis5v.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 806,
+              "w": 1440,
+              "x": 0,
+              "y": 627
+            },
+            {
+              "h": 1440,
+              "w": 1440,
+              "x": 0,
+              "y": 310
+            },
+            {
+              "h": 1642,
+              "w": 1440,
+              "x": 0,
+              "y": 153
+            },
+            {
+              "h": 1795,
+              "w": 898,
+              "x": 313,
+              "y": 0
+            },
+            {
+              "h": 1795,
+              "w": 1440,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1795,
+          "width": 1440
+        },
+        "sizes": {
+          "large": {
+            "h": 1795,
+            "resize": "fit",
+            "w": 1440
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 963
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 546
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YUDTPu3z6S"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          22
+        ],
+        "text": "digitalart"
+      },
+      {
+        "indices": [
+          23,
+          32
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          33,
+          37
+        ],
+        "text": "ive"
+      },
+      {
+        "indices": [
+          38,
+          47
+        ],
+        "text": "wonyoung"
+      },
+      {
+        "indices": [
+          48,
+          52
+        ],
+        "text": "장원영"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YUDTPu3z6S",
+        "expanded_url": "https://x.com/Ren2uma/status/2042966612085797133/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 644,
+                "w": 644,
+                "x": 822,
+                "y": 588
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 377,
+                "w": 377,
+                "x": 481,
+                "y": 344
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 644,
+                "w": 644,
+                "x": 822,
+                "y": 588
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 213,
+                "w": 213,
+                "x": 273,
+                "y": 195
+              }
+            ]
+          }
+        },
+        "id_str": "2042966605936889861",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2042966605936889861",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042966605936889861"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFoTTdLakAUPLTF.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 921,
+              "w": 1644,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1644,
+              "w": 1644,
+              "x": 0,
+              "y": 150
+            },
+            {
+              "h": 1874,
+              "w": 1644,
+              "x": 0,
+              "y": 35
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 562,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1644,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1644
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1644
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 963
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 546
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YUDTPu3z6S"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YUDTPu3z6S",
+        "expanded_url": "https://x.com/Ren2uma/status/2042966612085797133/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 254,
+                "y": 988
+              },
+              {
+                "h": 801,
+                "w": 801,
+                "x": 492,
+                "y": 610
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 169,
+                "y": 660
+              },
+              {
+                "h": 535,
+                "w": 535,
+                "x": 329,
+                "y": 407
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 254,
+                "y": 988
+              },
+              {
+                "h": 801,
+                "w": 801,
+                "x": 492,
+                "y": 610
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 96,
+                "y": 374
+              },
+              {
+                "h": 303,
+                "w": 303,
+                "x": 186,
+                "y": 231
+              }
+            ]
+          }
+        },
+        "id_str": "2042966605936873472",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2042966605936873472",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042966605936873472"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFoTTdLaUAAis5v.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 806,
+              "w": 1440,
+              "x": 0,
+              "y": 627
+            },
+            {
+              "h": 1440,
+              "w": 1440,
+              "x": 0,
+              "y": 310
+            },
+            {
+              "h": 1642,
+              "w": 1440,
+              "x": 0,
+              "y": 153
+            },
+            {
+              "h": 1795,
+              "w": 898,
+              "x": 313,
+              "y": 0
+            },
+            {
+              "h": 1795,
+              "w": 1440,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1795,
+          "width": 1440
+        },
+        "sizes": {
+          "large": {
+            "h": 1795,
+            "resize": "fit",
+            "w": 1440
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 963
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 546
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YUDTPu3z6S"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFoTTdLakAUPLTF.jpg",
+    "https://pbs.twimg.com/media/HFoTTdLaUAAis5v.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042566346081435999",
+  "url": "https://x.com/taipapa8/status/2042566346081435999",
+  "twitterUrl": "https://twitter.com/taipapa8/status/2042566346081435999",
+  "text": "「DRAMATIC MOMENTS」part2\n\nmodel: shioriさん\n\n#portrait #ポートレート #イルミネーション https://t.co/Py0nEOk0mm",
+  "fullText": "「DRAMATIC MOMENTS」part2\n\nmodel: shioriさん\n\n#portrait #ポートレート #イルミネーション https://t.co/Py0nEOk0mm",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 11,
+  "quoteCount": 0,
+  "viewCount": 77,
+  "createdAt": "Fri Apr 10 11:32:20 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2042566346081435999",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "taipapa8",
+    "url": "https://x.com/taipapa8",
+    "twitterUrl": "https://twitter.com/taipapa8",
+    "id": "1097962204194717696",
+    "name": "Taisan",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1758260587509989376/z2uzGmh4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1097962204194717696/1772831689",
+    "description": "写真家、作家。著書『アナログレコードのはじめかた　原音が誰かの心にとどくまで』『BIKE GIRL GRAPHIC』等https://t.co/WRI4ALMeXM\n投稿はモデル本人及び当該撮影会主催者以外二次利用禁止。\nTaisan's BLOG\nhttps://t.co/0wOIGqhQmw",
+    "location": "日本 東京",
+    "followers": 694,
+    "following": 601,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 19 20:52:43 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "instagram.com/taisan3333",
+            "expanded_url": "http://instagram.com/taisan3333",
+            "indices": [
+              59,
+              82
+            ],
+            "url": "https://t.co/WRI4ALMeXM"
+          },
+          {
+            "display_url": "taisan.hatenablog.jp",
+            "expanded_url": "http://taisan.hatenablog.jp",
+            "indices": [
+              125,
+              148
+            ],
+            "url": "https://t.co/0wOIGqhQmw"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "taisan.hatenablog.jp",
+            "expanded_url": "https://taisan.hatenablog.jp/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/fCm2b7XcQO"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 80855,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1393,
+    "statusesCount": 1758,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1994746835966333012"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Py0nEOk0mm",
+        "expanded_url": "https://x.com/taipapa8/status/2042566346081435999/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 403,
+                "w": 403,
+                "x": 1041,
+                "y": 855
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 610,
+                "y": 501
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 601,
+                "w": 601,
+                "x": 1550,
+                "y": 1273
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 134,
+                "w": 134,
+                "x": 345,
+                "y": 284
+              }
+            ]
+          }
+        },
+        "id_str": "2042566300539772928",
+        "indices": [
+          70,
+          93
+        ],
+        "media_key": "3_2042566300539772928",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042566300539772928"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFinOnXbYAAF8Wm.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1707,
+              "w": 3048,
+              "x": 0,
+              "y": 137
+            },
+            {
+              "h": 2032,
+              "w": 2032,
+              "x": 584,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 1782,
+              "x": 709,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 1016,
+              "x": 1092,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 3048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2032,
+          "width": 3048
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Py0nEOk0mm"
+      },
+      {
+        "display_url": "pic.x.com/Py0nEOk0mm",
+        "expanded_url": "https://x.com/taipapa8/status/2042566346081435999/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042566300539719683",
+        "indices": [
+          70,
+          93
+        ],
+        "media_key": "3_2042566300539719683",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042566300539719683"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFinOnXakAM0cgO.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1296,
+              "w": 2315,
+              "x": 0,
+              "y": 104
+            },
+            {
+              "h": 1543,
+              "w": 1543,
+              "x": 675,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 1354,
+              "x": 769,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 772,
+              "x": 1060,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 2315,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1543,
+          "width": 2315
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Py0nEOk0mm"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          42,
+          51
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          52,
+          59
+        ],
+        "text": "ポートレート"
+      },
+      {
+        "indices": [
+          60,
+          69
+        ],
+        "text": "イルミネーション"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/Py0nEOk0mm",
+        "expanded_url": "https://x.com/taipapa8/status/2042566346081435999/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 403,
+                "w": 403,
+                "x": 1041,
+                "y": 855
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 610,
+                "y": 501
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 601,
+                "w": 601,
+                "x": 1550,
+                "y": 1273
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 134,
+                "w": 134,
+                "x": 345,
+                "y": 284
+              }
+            ]
+          }
+        },
+        "id_str": "2042566300539772928",
+        "indices": [
+          70,
+          93
+        ],
+        "media_key": "3_2042566300539772928",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042566300539772928"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFinOnXbYAAF8Wm.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1707,
+              "w": 3048,
+              "x": 0,
+              "y": 137
+            },
+            {
+              "h": 2032,
+              "w": 2032,
+              "x": 584,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 1782,
+              "x": 709,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 1016,
+              "x": 1092,
+              "y": 0
+            },
+            {
+              "h": 2032,
+              "w": 3048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2032,
+          "width": 3048
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Py0nEOk0mm"
+      },
+      {
+        "display_url": "pic.x.com/Py0nEOk0mm",
+        "expanded_url": "https://x.com/taipapa8/status/2042566346081435999/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042566300539719683",
+        "indices": [
+          70,
+          93
+        ],
+        "media_key": "3_2042566300539719683",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042566300539719683"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFinOnXakAM0cgO.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1296,
+              "w": 2315,
+              "x": 0,
+              "y": 104
+            },
+            {
+              "h": 1543,
+              "w": 1543,
+              "x": 675,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 1354,
+              "x": 769,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 772,
+              "x": 1060,
+              "y": 0
+            },
+            {
+              "h": 1543,
+              "w": 2315,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1543,
+          "width": 2315
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Py0nEOk0mm"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFinOnXbYAAF8Wm.jpg",
+    "https://pbs.twimg.com/media/HFinOnXakAM0cgO.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043036620442452116",
+  "url": "https://x.com/rkl_artworks/status/2043036620442452116",
+  "twitterUrl": "https://twitter.com/rkl_artworks/status/2043036620442452116",
+  "text": "(with reference) #art #portrait #digitalart #drawing https://t.co/BfJMUOZ3T7",
+  "fullText": "(with reference) #art #portrait #digitalart #drawing https://t.co/BfJMUOZ3T7",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 14,
+  "createdAt": "Sat Apr 11 18:41:02 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043036620442452116",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "rkl_artworks",
+    "url": "https://x.com/rkl_artworks",
+    "twitterUrl": "https://twitter.com/rkl_artworks",
+    "id": "1471196337999958025",
+    "name": "RKL_ARTworks",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1971596395061653505/jT4a8vtN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1471196337999958025/1731666095",
+    "description": "🇵🇹 artist✨\nsocial media: rkl.artworks or rkl_artworks",
+    "followers": 24,
+    "following": 738,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 15 19:12:02 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1193,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 162,
+    "statusesCount": 171,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/BfJMUOZ3T7",
+        "expanded_url": "https://x.com/rkl_artworks/status/2043036620442452116/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          }
+        },
+        "id_str": "2043036287762923520",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2043036287762923520",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043036287762923520"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFpSreNXgAA05o2.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 301,
+              "w": 537,
+              "x": 0,
+              "y": 144
+            },
+            {
+              "h": 537,
+              "w": 537,
+              "x": 0,
+              "y": 24
+            },
+            {
+              "h": 561,
+              "w": 492,
+              "x": 45,
+              "y": 0
+            },
+            {
+              "h": 561,
+              "w": 281,
+              "x": 210,
+              "y": 0
+            },
+            {
+              "h": 561,
+              "w": 537,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 561,
+          "width": 537
+        },
+        "sizes": {
+          "large": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "medium": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "small": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BfJMUOZ3T7"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/BfJMUOZ3T7",
+        "expanded_url": "https://x.com/rkl_artworks/status/2043036620442452116/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 477,
+                "w": 477,
+                "x": 409,
+                "y": 659
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 280,
+                "w": 280,
+                "x": 240,
+                "y": 386
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 895,
+                "w": 895,
+                "x": 767,
+                "y": 1236
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 158,
+                "w": 158,
+                "x": 136,
+                "y": 219
+              }
+            ]
+          }
+        },
+        "id_str": "2043036287767056384",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2043036287767056384",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043036287767056384"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFpSreOWkAAKv6o.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 2061,
+              "w": 3681,
+              "x": 0,
+              "y": 216
+            },
+            {
+              "h": 3681,
+              "w": 3681,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 3365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 1918,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 3681,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3836,
+          "width": 3681
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1965
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1152
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 653
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BfJMUOZ3T7"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          21
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          22,
+          31
+        ],
+        "text": "portrait"
+      },
+      {
+        "indices": [
+          32,
+          43
+        ],
+        "text": "digitalart"
+      },
+      {
+        "indices": [
+          44,
+          52
+        ],
+        "text": "drawing"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/BfJMUOZ3T7",
+        "expanded_url": "https://x.com/rkl_artworks/status/2043036620442452116/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 125,
+                "w": 125,
+                "x": 264,
+                "y": 220
+              }
+            ]
+          }
+        },
+        "id_str": "2043036287762923520",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2043036287762923520",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043036287762923520"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFpSreNXgAA05o2.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 301,
+              "w": 537,
+              "x": 0,
+              "y": 144
+            },
+            {
+              "h": 537,
+              "w": 537,
+              "x": 0,
+              "y": 24
+            },
+            {
+              "h": 561,
+              "w": 492,
+              "x": 45,
+              "y": 0
+            },
+            {
+              "h": 561,
+              "w": 281,
+              "x": 210,
+              "y": 0
+            },
+            {
+              "h": 561,
+              "w": 537,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 561,
+          "width": 537
+        },
+        "sizes": {
+          "large": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "medium": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "small": {
+            "h": 561,
+            "resize": "fit",
+            "w": 537
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BfJMUOZ3T7"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/BfJMUOZ3T7",
+        "expanded_url": "https://x.com/rkl_artworks/status/2043036620442452116/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 477,
+                "w": 477,
+                "x": 409,
+                "y": 659
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 280,
+                "w": 280,
+                "x": 240,
+                "y": 386
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 895,
+                "w": 895,
+                "x": 767,
+                "y": 1236
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 158,
+                "w": 158,
+                "x": 136,
+                "y": 219
+              }
+            ]
+          }
+        },
+        "id_str": "2043036287767056384",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_2043036287767056384",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043036287767056384"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFpSreOWkAAKv6o.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 2061,
+              "w": 3681,
+              "x": 0,
+              "y": 216
+            },
+            {
+              "h": 3681,
+              "w": 3681,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 3365,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 1918,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 3836,
+              "w": 3681,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3836,
+          "width": 3681
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1965
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1152
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 653
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BfJMUOZ3T7"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFpSreNXgAA05o2.jpg",
+    "https://pbs.twimg.com/media/HFpSreOWkAAKv6o.jpg"
+  ],
+  "isConversationControlled": false
+}]

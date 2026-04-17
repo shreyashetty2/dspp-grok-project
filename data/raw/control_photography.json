@@ -1,0 +1,3581 @@
+[{
+  "type": "tweet",
+  "id": "2043311118441914683",
+  "url": "https://x.com/stjohnsphoto/status/2043311118441914683",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2043311118441914683",
+  "text": "Astrid Kirchherr #photography \nSelf Portrait, 1960 https://t.co/shKvStuo5s",
+  "fullText": "Astrid Kirchherr #photography \nSelf Portrait, 1960 https://t.co/shKvStuo5s",
+  "source": "Twitter for iPhone",
+  "retweetCount": 38,
+  "replyCount": 0,
+  "likeCount": 154,
+  "quoteCount": 0,
+  "viewCount": 2546,
+  "createdAt": "Sun Apr 12 12:51:48 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 9,
+  "isReply": false,
+  "conversationId": "2043311118441914683",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/shKvStuo5s",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2043311118441914683/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 62,
+                "w": 62,
+                "x": 225,
+                "y": 374
+              }
+            ]
+          }
+        },
+        "id_str": "2043311112754483200",
+        "indices": [
+          51,
+          74
+        ],
+        "media_key": "3_2043311112754483200",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043311112754483200"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtMoZFW0AA082-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 482,
+              "w": 860,
+              "x": 0,
+              "y": 699
+            },
+            {
+              "h": 860,
+              "w": 860,
+              "x": 0,
+              "y": 321
+            },
+            {
+              "h": 980,
+              "w": 860,
+              "x": 0,
+              "y": 201
+            },
+            {
+              "h": 1181,
+              "w": 591,
+              "x": 147,
+              "y": 0
+            },
+            {
+              "h": 1181,
+              "w": 860,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1181,
+          "width": 860
+        },
+        "sizes": {
+          "large": {
+            "h": 1181,
+            "resize": "fit",
+            "w": 860
+          },
+          "medium": {
+            "h": 1181,
+            "resize": "fit",
+            "w": 860
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 495
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/shKvStuo5s"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          29
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/shKvStuo5s",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2043311118441914683/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 392,
+                "y": 651
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 62,
+                "w": 62,
+                "x": 225,
+                "y": 374
+              }
+            ]
+          }
+        },
+        "id_str": "2043311112754483200",
+        "indices": [
+          51,
+          74
+        ],
+        "media_key": "3_2043311112754483200",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043311112754483200"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtMoZFW0AA082-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 482,
+              "w": 860,
+              "x": 0,
+              "y": 699
+            },
+            {
+              "h": 860,
+              "w": 860,
+              "x": 0,
+              "y": 321
+            },
+            {
+              "h": 980,
+              "w": 860,
+              "x": 0,
+              "y": 201
+            },
+            {
+              "h": 1181,
+              "w": 591,
+              "x": 147,
+              "y": 0
+            },
+            {
+              "h": 1181,
+              "w": 860,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1181,
+          "width": 860
+        },
+        "sizes": {
+          "large": {
+            "h": 1181,
+            "resize": "fit",
+            "w": 860
+          },
+          "medium": {
+            "h": 1181,
+            "resize": "fit",
+            "w": 860
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 495
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/shKvStuo5s"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFtMoZFW0AA082-.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2040739394395763092",
+  "url": "https://x.com/gontanokoneroku/status/2040739394395763092",
+  "twitterUrl": "https://twitter.com/gontanokoneroku/status/2040739394395763092",
+  "text": "Camellia 😃\n\n#Photography #Flowers #Camellia https://t.co/I9nt4XELdc",
+  "fullText": "Camellia 😃\n\n#Photography #Flowers #Camellia https://t.co/I9nt4XELdc",
+  "source": "Twitter Web App",
+  "retweetCount": 119,
+  "replyCount": 14,
+  "likeCount": 410,
+  "quoteCount": 1,
+  "viewCount": 2451,
+  "createdAt": "Sun Apr 05 10:32:41 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2040739394395763092",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "gontanokoneroku",
+    "url": "https://x.com/gontanokoneroku",
+    "twitterUrl": "https://twitter.com/gontanokoneroku",
+    "id": "794839445002276864",
+    "name": "Kenji 🌸 delivering flowers every day 🌸 🐦",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1629809975680962560/vYqKDYcW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/794839445002276864/1774165777",
+    "description": "Nature lover born in Tokyo. Passionate about flowers and gardening 🌸🌹🌻All photos are my own📷 to share small happiness with you🐣🐮🐸 World peace🙏No DM🙇",
+    "location": "Kanagawa,Japan 🇯🇵",
+    "followers": 87816,
+    "following": 88941,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 05 09:51:05 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/gontanokonerok…",
+            "expanded_url": "https://www.instagram.com/gontanokoneroku/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/qHIgGkU9FG"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 267839,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 53697,
+    "statusesCount": 128733,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1906338119441399956"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 434,
+          "name": "Gardener"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1552978319515103232"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/I9nt4XELdc",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2040739394395763092/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2040739389366784000",
+        "indices": [
+          44,
+          67
+        ],
+        "media_key": "3_2040739389366784000",
+        "media_results": {
+          "result": {
+            "media_key": "3_2040739389366784000"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFIpqY5a0AAndm1.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 448,
+              "w": 800,
+              "x": 0,
+              "y": 106
+            },
+            {
+              "h": 800,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 912,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 600,
+              "x": 90,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1200,
+          "width": 800
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/I9nt4XELdc"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          24
+        ],
+        "text": "Photography"
+      },
+      {
+        "indices": [
+          25,
+          33
+        ],
+        "text": "Flowers"
+      },
+      {
+        "indices": [
+          34,
+          43
+        ],
+        "text": "Camellia"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/I9nt4XELdc",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2040739394395763092/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2040739389366784000",
+        "indices": [
+          44,
+          67
+        ],
+        "media_key": "3_2040739389366784000",
+        "media_results": {
+          "result": {
+            "media_key": "3_2040739389366784000"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFIpqY5a0AAndm1.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 448,
+              "w": 800,
+              "x": 0,
+              "y": 106
+            },
+            {
+              "h": 800,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 912,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 600,
+              "x": 90,
+              "y": 0
+            },
+            {
+              "h": 1200,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1200,
+          "width": 800
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/I9nt4XELdc"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFIpqY5a0AAndm1.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2041578360954916940",
+  "url": "https://x.com/stjohnsphoto/status/2041578360954916940",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2041578360954916940",
+  "text": "Ernst Haas #photography \nNew York, 1955 https://t.co/NpW16VJqdE",
+  "fullText": "Ernst Haas #photography \nNew York, 1955 https://t.co/NpW16VJqdE",
+  "source": "Twitter for iPhone",
+  "retweetCount": 92,
+  "replyCount": 0,
+  "likeCount": 574,
+  "quoteCount": 0,
+  "viewCount": 8526,
+  "createdAt": "Tue Apr 07 18:06:26 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 37,
+  "isReply": false,
+  "conversationId": "2041578360954916940",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/NpW16VJqdE",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2041578360954916940/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041578355913261056",
+        "indices": [
+          40,
+          63
+        ],
+        "media_key": "3_2041578355913261056",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041578355913261056"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFUksq1WAAAISfD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 383,
+              "w": 684,
+              "x": 0,
+              "y": 717
+            },
+            {
+              "h": 684,
+              "w": 684,
+              "x": 0,
+              "y": 416
+            },
+            {
+              "h": 780,
+              "w": 684,
+              "x": 0,
+              "y": 320
+            },
+            {
+              "h": 1100,
+              "w": 550,
+              "x": 82,
+              "y": 0
+            },
+            {
+              "h": 1100,
+              "w": 684,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1100,
+          "width": 684
+        },
+        "sizes": {
+          "large": {
+            "h": 1100,
+            "resize": "fit",
+            "w": 684
+          },
+          "medium": {
+            "h": 1100,
+            "resize": "fit",
+            "w": 684
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 423
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/NpW16VJqdE"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          23
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/NpW16VJqdE",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2041578360954916940/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041578355913261056",
+        "indices": [
+          40,
+          63
+        ],
+        "media_key": "3_2041578355913261056",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041578355913261056"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFUksq1WAAAISfD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 383,
+              "w": 684,
+              "x": 0,
+              "y": 717
+            },
+            {
+              "h": 684,
+              "w": 684,
+              "x": 0,
+              "y": 416
+            },
+            {
+              "h": 780,
+              "w": 684,
+              "x": 0,
+              "y": 320
+            },
+            {
+              "h": 1100,
+              "w": 550,
+              "x": 82,
+              "y": 0
+            },
+            {
+              "h": 1100,
+              "w": 684,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1100,
+          "width": 684
+        },
+        "sizes": {
+          "large": {
+            "h": 1100,
+            "resize": "fit",
+            "w": 684
+          },
+          "medium": {
+            "h": 1100,
+            "resize": "fit",
+            "w": 684
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 423
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/NpW16VJqdE"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFUksq1WAAAISfD.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2041425847387881808",
+  "url": "https://x.com/ArchDaily/status/2041425847387881808",
+  "twitterUrl": "https://twitter.com/ArchDaily/status/2041425847387881808",
+  "text": "Waiheke House by Cheshire Architects\nNew Zealand 🇳🇿\n\n#photography: Sam Hartnett\nhttps://t.co/znhcmxtyFk https://t.co/r8taZx2ZSf",
+  "fullText": "Waiheke House by Cheshire Architects\nNew Zealand 🇳🇿\n\n#photography: Sam Hartnett\nhttps://t.co/znhcmxtyFk https://t.co/r8taZx2ZSf",
+  "source": "Dash Social",
+  "retweetCount": 28,
+  "replyCount": 1,
+  "likeCount": 260,
+  "quoteCount": 0,
+  "viewCount": 12508,
+  "createdAt": "Tue Apr 07 08:00:24 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 68,
+  "isReply": false,
+  "conversationId": "2041425847387881808",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "ArchDaily",
+    "url": "https://x.com/ArchDaily",
+    "twitterUrl": "https://twitter.com/ArchDaily",
+    "id": "14362241",
+    "name": "ArchDaily",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1481606341131223042/F9pmM-lZ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/14362241/1490874479",
+    "description": "The global reference for architecture",
+    "location": "New York",
+    "followers": 1730010,
+    "following": 2482,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 11 16:27:51 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "archdaily.com",
+            "expanded_url": "http://www.archdaily.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/ZesEFxQW0b"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 781,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 27448,
+    "statusesCount": 119796,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041425838261047296",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425838261047296",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425838261047296"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ--TakAAF4wV.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 437,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 499,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 687,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      },
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041425841742290944",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425841742290944",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425841742290944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ_LRaIAAxsqH.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 160
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 287,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 349,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 537,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      },
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 234,
+                "y": 782
+              },
+              {
+                "h": 184,
+                "w": 184,
+                "x": 281,
+                "y": 691
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 58,
+                "w": 58,
+                "x": 187,
+                "y": 625
+              },
+              {
+                "h": 147,
+                "w": 147,
+                "x": 224,
+                "y": 552
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 234,
+                "y": 782
+              },
+              {
+                "h": 184,
+                "w": 184,
+                "x": 281,
+                "y": 691
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 33,
+                "w": 33,
+                "x": 106,
+                "y": 354
+              },
+              {
+                "h": 83,
+                "w": 83,
+                "x": 127,
+                "y": 313
+              }
+            ]
+          }
+        },
+        "id_str": "2041425845114597376",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425845114597376",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425845114597376"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ_X1bcAACHNo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 160
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 62,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 124,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 312,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          53,
+          65
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041425838261047296",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425838261047296",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425838261047296"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ--TakAAF4wV.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 437,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 499,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 687,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      },
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2041425841742290944",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425841742290944",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425841742290944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ_LRaIAAxsqH.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 160
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 287,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 349,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 537,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      },
+      {
+        "display_url": "pic.x.com/r8taZx2ZSf",
+        "expanded_url": "https://x.com/ArchDaily/status/2041425847387881808/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 234,
+                "y": 782
+              },
+              {
+                "h": 184,
+                "w": 184,
+                "x": 281,
+                "y": 691
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 58,
+                "w": 58,
+                "x": 187,
+                "y": 625
+              },
+              {
+                "h": 147,
+                "w": 147,
+                "x": 224,
+                "y": 552
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 73,
+                "w": 73,
+                "x": 234,
+                "y": 782
+              },
+              {
+                "h": 184,
+                "w": 184,
+                "x": 281,
+                "y": 691
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 33,
+                "w": 33,
+                "x": 106,
+                "y": 354
+              },
+              {
+                "h": 83,
+                "w": 83,
+                "x": 127,
+                "y": 313
+              }
+            ]
+          }
+        },
+        "id_str": "2041425845114597376",
+        "indices": [
+          104,
+          127
+        ],
+        "media_key": "3_2041425845114597376",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041425845114597376"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFSZ_X1bcAACHNo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 160
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 62,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 124,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 312,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/r8taZx2ZSf"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "archdaily.visitlink.me/1g8OGo",
+        "expanded_url": "https://archdaily.visitlink.me/1g8OGo",
+        "indices": [
+          80,
+          103
+        ],
+        "url": "https://t.co/znhcmxtyFk"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFSZ--TakAAF4wV.jpg",
+    "https://pbs.twimg.com/media/HFSZ_LRaIAAxsqH.jpg",
+    "https://pbs.twimg.com/media/HFSZ_X1bcAACHNo.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043286059174576300",
+  "url": "https://x.com/gontanokoneroku/status/2043286059174576300",
+  "twitterUrl": "https://twitter.com/gontanokoneroku/status/2043286059174576300",
+  "text": "Double cherry blossoms 🤗\n\n#Photography #DoubleCherryBlossoms https://t.co/QVbW7tUavI",
+  "fullText": "Double cherry blossoms 🤗\n\n#Photography #DoubleCherryBlossoms https://t.co/QVbW7tUavI",
+  "source": "Twitter Web App",
+  "retweetCount": 103,
+  "replyCount": 9,
+  "likeCount": 358,
+  "quoteCount": 2,
+  "viewCount": 2014,
+  "createdAt": "Sun Apr 12 11:12:13 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2043286059174576300",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "gontanokoneroku",
+    "url": "https://x.com/gontanokoneroku",
+    "twitterUrl": "https://twitter.com/gontanokoneroku",
+    "id": "794839445002276864",
+    "name": "Kenji 🌸 delivering flowers every day 🌸 🐦",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1629809975680962560/vYqKDYcW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/794839445002276864/1774165777",
+    "description": "Nature lover born in Tokyo. Passionate about flowers and gardening 🌸🌹🌻All photos are my own📷 to share small happiness with you🐣🐮🐸 World peace🙏No DM🙇",
+    "location": "Kanagawa,Japan 🇯🇵",
+    "followers": 87816,
+    "following": 88941,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 05 09:51:05 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/gontanokonerok…",
+            "expanded_url": "https://www.instagram.com/gontanokoneroku/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/qHIgGkU9FG"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 267839,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 53697,
+    "statusesCount": 128733,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1906338119441399956"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 434,
+          "name": "Gardener"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1552978319515103232"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QVbW7tUavI",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2043286059174576300/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043285683369086976",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "3_2043285683369086976",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043285683369086976"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFs1gNPbEAAt0Y8.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1220,
+              "w": 2179,
+              "x": 0,
+              "y": 1596
+            },
+            {
+              "h": 2179,
+              "w": 2179,
+              "x": 0,
+              "y": 1090
+            },
+            {
+              "h": 2484,
+              "w": 2179,
+              "x": 0,
+              "y": 785
+            },
+            {
+              "h": 3269,
+              "w": 1635,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3269,
+              "w": 2179,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3269,
+          "width": 2179
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/QVbW7tUavI"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          26,
+          38
+        ],
+        "text": "Photography"
+      },
+      {
+        "indices": [
+          39,
+          60
+        ],
+        "text": "DoubleCherryBlossoms"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QVbW7tUavI",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2043286059174576300/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043285683369086976",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "3_2043285683369086976",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043285683369086976"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFs1gNPbEAAt0Y8.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1220,
+              "w": 2179,
+              "x": 0,
+              "y": 1596
+            },
+            {
+              "h": 2179,
+              "w": 2179,
+              "x": 0,
+              "y": 1090
+            },
+            {
+              "h": 2484,
+              "w": 2179,
+              "x": 0,
+              "y": 785
+            },
+            {
+              "h": 3269,
+              "w": 1635,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3269,
+              "w": 2179,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3269,
+          "width": 2179
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/QVbW7tUavI"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFs1gNPbEAAt0Y8.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042532051283300528",
+  "url": "https://x.com/stjohnsphoto/status/2042532051283300528",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2042532051283300528",
+  "text": "Ansel Adams #photography \nMount Williamson, Sierra Nevada from Manzanar, California, 1944 https://t.co/unqovkTd8K",
+  "fullText": "Ansel Adams #photography \nMount Williamson, Sierra Nevada from Manzanar, California, 1944 https://t.co/unqovkTd8K",
+  "source": "Twitter for iPhone",
+  "retweetCount": 57,
+  "replyCount": 0,
+  "likeCount": 217,
+  "quoteCount": 1,
+  "viewCount": 4137,
+  "createdAt": "Fri Apr 10 09:16:04 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "conversationId": "2042532051283300528",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/unqovkTd8K",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2042532051283300528/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042532046459838464",
+        "indices": [
+          90,
+          113
+        ],
+        "media_key": "3_2042532046459838464",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042532046459838464"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFiIEw-XIAAVcXP.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 321,
+              "w": 573,
+              "x": 0,
+              "y": 140
+            },
+            {
+              "h": 470,
+              "w": 470,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 412,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 235,
+              "x": 40,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 573,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 470,
+          "width": 573
+        },
+        "sizes": {
+          "large": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "medium": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "small": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/unqovkTd8K"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          24
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/unqovkTd8K",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2042532051283300528/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042532046459838464",
+        "indices": [
+          90,
+          113
+        ],
+        "media_key": "3_2042532046459838464",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042532046459838464"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFiIEw-XIAAVcXP.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 321,
+              "w": 573,
+              "x": 0,
+              "y": 140
+            },
+            {
+              "h": 470,
+              "w": 470,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 412,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 235,
+              "x": 40,
+              "y": 0
+            },
+            {
+              "h": 470,
+              "w": 573,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 470,
+          "width": 573
+        },
+        "sizes": {
+          "large": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "medium": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "small": {
+            "h": 470,
+            "resize": "fit",
+            "w": 573
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/unqovkTd8K"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFiIEw-XIAAVcXP.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2040893092903940219",
+  "url": "https://x.com/stjohnsphoto/status/2040893092903940219",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2040893092903940219",
+  "text": "Martin Parr #photography \nElland, West Yorkshire, England, 1978 https://t.co/X1NnHEF9l6",
+  "fullText": "Martin Parr #photography \nElland, West Yorkshire, England, 1978 https://t.co/X1NnHEF9l6",
+  "source": "Twitter for iPhone",
+  "retweetCount": 43,
+  "replyCount": 0,
+  "likeCount": 197,
+  "quoteCount": 0,
+  "viewCount": 3213,
+  "createdAt": "Sun Apr 05 20:43:25 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 12,
+  "isReply": false,
+  "conversationId": "2040893092903940219",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/X1NnHEF9l6",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2040893092903940219/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2040893086461829120",
+        "indices": [
+          64,
+          87
+        ],
+        "media_key": "3_2040893086461829120",
+        "media_results": {
+          "result": {
+            "media_key": "3_2040893086461829120"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFK1cvMboAAKmSF.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 109
+            },
+            {
+              "h": 682,
+              "w": 682,
+              "x": 171,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 598,
+              "x": 213,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 341,
+              "x": 342,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 682,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/X1NnHEF9l6"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          24
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/X1NnHEF9l6",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2040893092903940219/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2040893086461829120",
+        "indices": [
+          64,
+          87
+        ],
+        "media_key": "3_2040893086461829120",
+        "media_results": {
+          "result": {
+            "media_key": "3_2040893086461829120"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFK1cvMboAAKmSF.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 109
+            },
+            {
+              "h": 682,
+              "w": 682,
+              "x": 171,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 598,
+              "x": 213,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 341,
+              "x": 342,
+              "y": 0
+            },
+            {
+              "h": 682,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 682,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/X1NnHEF9l6"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFK1cvMboAAKmSF.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043657198337929375",
+  "url": "https://x.com/gontanokoneroku/status/2043657198337929375",
+  "twitterUrl": "https://twitter.com/gontanokoneroku/status/2043657198337929375",
+  "text": "Double cherry blossoms 😃 \n\n#Photography #DoubleCherryBlossoms https://t.co/wHQZhjxQAe",
+  "fullText": "Double cherry blossoms 😃 \n\n#Photography #DoubleCherryBlossoms https://t.co/wHQZhjxQAe",
+  "source": "Twitter Web App",
+  "retweetCount": 91,
+  "replyCount": 9,
+  "likeCount": 346,
+  "quoteCount": 0,
+  "viewCount": 1842,
+  "createdAt": "Mon Apr 13 11:47:00 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "conversationId": "2043657198337929375",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "gontanokoneroku",
+    "url": "https://x.com/gontanokoneroku",
+    "twitterUrl": "https://twitter.com/gontanokoneroku",
+    "id": "794839445002276864",
+    "name": "Kenji 🌸 delivering flowers every day 🌸 🐦",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1629809975680962560/vYqKDYcW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/794839445002276864/1774165777",
+    "description": "Nature lover born in Tokyo. Passionate about flowers and gardening 🌸🌹🌻All photos are my own📷 to share small happiness with you🐣🐮🐸 World peace🙏No DM🙇",
+    "location": "Kanagawa,Japan 🇯🇵",
+    "followers": 87816,
+    "following": 88941,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 05 09:51:05 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/gontanokonerok…",
+            "expanded_url": "https://www.instagram.com/gontanokoneroku/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/qHIgGkU9FG"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 267839,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 53697,
+    "statusesCount": 128733,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1906338119441399956"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 434,
+          "name": "Gardener"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1552978319515103232"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/wHQZhjxQAe",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2043657198337929375/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043656995753041921",
+        "indices": [
+          62,
+          85
+        ],
+        "media_key": "3_2043656995753041921",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043656995753041921"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFyHNbqaIAEEDw6.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1196,
+              "w": 2135,
+              "x": 0,
+              "y": 442
+            },
+            {
+              "h": 2135,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2434,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3203,
+              "w": 1602,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3203,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3203,
+          "width": 2135
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/wHQZhjxQAe"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          27,
+          39
+        ],
+        "text": "Photography"
+      },
+      {
+        "indices": [
+          40,
+          61
+        ],
+        "text": "DoubleCherryBlossoms"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/wHQZhjxQAe",
+        "expanded_url": "https://x.com/gontanokoneroku/status/2043657198337929375/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043656995753041921",
+        "indices": [
+          62,
+          85
+        ],
+        "media_key": "3_2043656995753041921",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043656995753041921"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFyHNbqaIAEEDw6.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1196,
+              "w": 2135,
+              "x": 0,
+              "y": 442
+            },
+            {
+              "h": 2135,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2434,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3203,
+              "w": 1602,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3203,
+              "w": 2135,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3203,
+          "width": 2135
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/wHQZhjxQAe"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFyHNbqaIAEEDw6.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2041578623010816160",
+  "url": "https://x.com/stjohnsphoto/status/2041578623010816160",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2041578623010816160",
+  "text": "Ernst Haas #photography \nNew York City, 1952 https://t.co/oBQWLJ7kJZ",
+  "fullText": "Ernst Haas #photography \nNew York City, 1952 https://t.co/oBQWLJ7kJZ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 27,
+  "replyCount": 1,
+  "likeCount": 128,
+  "quoteCount": 0,
+  "viewCount": 1986,
+  "createdAt": "Tue Apr 07 18:07:29 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "conversationId": "2041578623010816160",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/oBQWLJ7kJZ",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2041578623010816160/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 332,
+                "y": 71
+              },
+              {
+                "h": 30,
+                "w": 30,
+                "x": 114,
+                "y": 192
+              },
+              {
+                "h": 76,
+                "w": 76,
+                "x": 302,
+                "y": 83
+              }
+            ]
+          }
+        },
+        "id_str": "2041578617113632768",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2041578617113632768",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041578617113632768"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFUk734XYAAmNPL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 407,
+              "w": 727,
+              "x": 0,
+              "y": 634
+            },
+            {
+              "h": 727,
+              "w": 727,
+              "x": 0,
+              "y": 353
+            },
+            {
+              "h": 829,
+              "w": 727,
+              "x": 0,
+              "y": 251
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 27,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 727,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 727
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 727
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 727
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 458
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/oBQWLJ7kJZ"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          23
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/oBQWLJ7kJZ",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2041578623010816160/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 527,
+                "y": 113
+              },
+              {
+                "h": 49,
+                "w": 49,
+                "x": 182,
+                "y": 306
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 480,
+                "y": 132
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 332,
+                "y": 71
+              },
+              {
+                "h": 30,
+                "w": 30,
+                "x": 114,
+                "y": 192
+              },
+              {
+                "h": 76,
+                "w": 76,
+                "x": 302,
+                "y": 83
+              }
+            ]
+          }
+        },
+        "id_str": "2041578617113632768",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2041578617113632768",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041578617113632768"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFUk734XYAAmNPL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 407,
+              "w": 727,
+              "x": 0,
+              "y": 634
+            },
+            {
+              "h": 727,
+              "w": 727,
+              "x": 0,
+              "y": 353
+            },
+            {
+              "h": 829,
+              "w": 727,
+              "x": 0,
+              "y": 251
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 27,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 727,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 727
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 727
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 727
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 458
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/oBQWLJ7kJZ"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFUk734XYAAmNPL.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044144828900938072",
+  "url": "https://x.com/stjohnsphoto/status/2044144828900938072",
+  "twitterUrl": "https://twitter.com/stjohnsphoto/status/2044144828900938072",
+  "text": "George Charles Beresford #photography  Virginia Woolf, July 1902 https://t.co/m5YpWQhGYQ",
+  "fullText": "George Charles Beresford #photography  Virginia Woolf, July 1902 https://t.co/m5YpWQhGYQ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 15,
+  "replyCount": 1,
+  "likeCount": 75,
+  "quoteCount": 0,
+  "viewCount": 1446,
+  "createdAt": "Tue Apr 14 20:04:40 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2044144828900938072",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stjohnsphoto",
+    "url": "https://x.com/stjohnsphoto",
+    "twitterUrl": "https://twitter.com/stjohnsphoto",
+    "id": "363823043",
+    "name": "stjohnsphoto",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/894812717592215552/-Ic10Tsw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/363823043/1591131828",
+    "description": "photographs to inspire!",
+    "location": " UK",
+    "followers": 25042,
+    "following": 7153,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 19:06:44 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10456,
+    "statusesCount": 39071,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1983511763535417552"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/m5YpWQhGYQ",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2044144828900938072/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044144824568160256",
+        "indices": [
+          65,
+          88
+        ],
+        "media_key": "3_2044144824568160256",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044144824568160256"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF5C4znWoAAqjnp.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 320,
+              "w": 571,
+              "x": 0,
+              "y": 140
+            },
+            {
+              "h": 571,
+              "w": 571,
+              "x": 0,
+              "y": 15
+            },
+            {
+              "h": 651,
+              "w": 571,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 400,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 571,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 800,
+          "width": 571
+        },
+        "sizes": {
+          "large": {
+            "h": 800,
+            "resize": "fit",
+            "w": 571
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 571
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 485
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/m5YpWQhGYQ"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          25,
+          37
+        ],
+        "text": "photography"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/m5YpWQhGYQ",
+        "expanded_url": "https://x.com/stjohnsphoto/status/2044144828900938072/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044144824568160256",
+        "indices": [
+          65,
+          88
+        ],
+        "media_key": "3_2044144824568160256",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044144824568160256"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF5C4znWoAAqjnp.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 320,
+              "w": 571,
+              "x": 0,
+              "y": 140
+            },
+            {
+              "h": 571,
+              "w": 571,
+              "x": 0,
+              "y": 15
+            },
+            {
+              "h": 651,
+              "w": 571,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 400,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 571,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 800,
+          "width": 571
+        },
+        "sizes": {
+          "large": {
+            "h": 800,
+            "resize": "fit",
+            "w": 571
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 571
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 485
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/m5YpWQhGYQ"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF5C4znWoAAqjnp.jpg"
+  ],
+  "isConversationControlled": false
+}]

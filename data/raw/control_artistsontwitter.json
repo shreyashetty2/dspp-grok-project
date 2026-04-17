@@ -1,0 +1,4640 @@
+[{
+  "type": "tweet",
+  "id": "2041815932922634493",
+  "url": "https://x.com/EvaWorldEngine/status/2041815932922634493",
+  "twitterUrl": "https://twitter.com/EvaWorldEngine/status/2041815932922634493",
+  "text": "QRT with art you made with your hands, no AI\n#artistsontwitter #artmoots https://t.co/Dy0DiyI0uM",
+  "fullText": "QRT with art you made with your hands, no AI\n#artistsontwitter #artmoots https://t.co/Dy0DiyI0uM",
+  "source": "Twitter for iPhone",
+  "retweetCount": 7,
+  "replyCount": 5,
+  "likeCount": 77,
+  "quoteCount": 12,
+  "viewCount": 3035,
+  "createdAt": "Wed Apr 08 09:50:28 +0000 2026",
+  "lang": "en",
+  "quoteId": "2025548277454614714",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2041815932922634493",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "EvaWorldEngine",
+    "url": "https://x.com/EvaWorldEngine",
+    "twitterUrl": "https://twitter.com/EvaWorldEngine",
+    "id": "1886708003774083072",
+    "name": "🐉EvalinaWE🪸",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1891970156693233665/dH3V-Xkw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1886708003774083072/1750834355",
+    "description": "Evalina World Engine ✨ https://t.co/SLFRUVzBg7 🪸We speak 日本語, 中文, English, 한국어. 👀 Check out our highlights. 💎Please no repost without credit",
+    "location": "AI学習禁止｜それより、ここで書けるの？",
+    "followers": 4070,
+    "following": 1827,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 04 09:27:13 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/EvaWorldEngine",
+            "expanded_url": "https://linktr.ee/EvaWorldEngine",
+            "indices": [
+              23,
+              46
+            ],
+            "url": "https://t.co/SLFRUVzBg7"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51608,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1677,
+    "statusesCount": 20279,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2022767805926359349"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1023,
+          "name": "Illustrator"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1887033941292376286"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Dy0DiyI0uM",
+        "expanded_url": "https://x.com/EvaWorldEngine/status/2041815932922634493/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 200,
+                "w": 200,
+                "x": 364,
+                "y": 932
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 117,
+                "w": 117,
+                "x": 213,
+                "y": 545
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 200,
+                "w": 200,
+                "x": 364,
+                "y": 932
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 120,
+                "y": 309
+              }
+            ]
+          }
+        },
+        "id_str": "2041815927130370048",
+        "indices": [
+          73,
+          96
+        ],
+        "media_key": "3_2041815927130370048",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041815927130370048"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFX8xIlXMAA-J_v.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 530,
+              "w": 946,
+              "x": 0,
+              "y": 92
+            },
+            {
+              "h": 946,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1078,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1892,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 946
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 946
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Dy0DiyI0uM"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          45,
+          62
+        ],
+        "text": "artistsontwitter"
+      },
+      {
+        "indices": [
+          63,
+          72
+        ],
+        "text": "artmoots"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/Dy0DiyI0uM",
+        "expanded_url": "https://x.com/EvaWorldEngine/status/2041815932922634493/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 200,
+                "w": 200,
+                "x": 364,
+                "y": 932
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 117,
+                "w": 117,
+                "x": 213,
+                "y": 545
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 200,
+                "w": 200,
+                "x": 364,
+                "y": 932
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 120,
+                "y": 309
+              }
+            ]
+          }
+        },
+        "id_str": "2041815927130370048",
+        "indices": [
+          73,
+          96
+        ],
+        "media_key": "3_2041815927130370048",
+        "media_results": {
+          "result": {
+            "media_key": "3_2041815927130370048"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFX8xIlXMAA-J_v.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 530,
+              "w": 946,
+              "x": 0,
+              "y": 92
+            },
+            {
+              "h": 946,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1078,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1892,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 946,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 946
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 946
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Dy0DiyI0uM"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2025548277454614714",
+    "text": "QRT with art you made with your hands, no AI\n#artistsontwitter #artmoots https://t.co/U6p0AqIJ6k",
+    "source": "Twitter for Android",
+    "retweetCount": 50,
+    "replyCount": 11,
+    "likeCount": 183,
+    "quoteCount": 19,
+    "viewCount": 11153,
+    "createdAt": "Sun Feb 22 12:28:36 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 11,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "alexmcc_97",
+      "url": "https://x.com/alexmcc_97",
+      "twitterUrl": "https://twitter.com/alexmcc_97",
+      "id": "1026815207111315457",
+      "name": "alexandrina🎀",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2018448811325054976/7L4fG1mz_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1026815207111315457/1773527872",
+      "description": "29/ Otaku + Traditional artist/ I love Stark from Frieren✨ 'Hikaru'✨ Marin Kitagawa✨ Dr. Stone men✨ +many other fandoms✨ @alexmcc_alt is my only alter account",
+      "location": "SHE ; THEY 🇵🇹",
+      "followers": 5881,
+      "following": 1012,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Tue Aug 07 12:59:57 +0000 2018",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/alexandrinacus…",
+              "expanded_url": "https://linktr.ee/alexandrinacustodio",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6OSoOaVBow"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 280550,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2924,
+      "statusesCount": 91832,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2044419444361810321"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/U6p0AqIJ6k",
+          "expanded_url": "https://x.com/alexmcc_97/status/2025548277454614714/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2025548272358592513",
+          "indices": [
+            73,
+            96
+          ],
+          "media_key": "3_2025548272358592513",
+          "media_results": {
+            "result": {
+              "media_key": "3_2025548272358592513"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HBwxbAFXEAEE3La.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1949,
+                "w": 3480,
+                "x": 0,
+                "y": 157
+              },
+              {
+                "h": 2604,
+                "w": 2604,
+                "x": 876,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 2284,
+                "x": 1196,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 1302,
+                "x": 1872,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 3480,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2604,
+            "width": 3480
+          },
+          "sizes": {
+            "large": {
+              "h": 1532,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 898,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 509,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U6p0AqIJ6k"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            62
+          ],
+          "text": "artistsontwitter"
+        },
+        {
+          "indices": [
+            63,
+            72
+          ],
+          "text": "artmoots"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.x.com/U6p0AqIJ6k",
+          "expanded_url": "https://x.com/alexmcc_97/status/2025548277454614714/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2025548272358592513",
+          "indices": [
+            73,
+            96
+          ],
+          "media_key": "3_2025548272358592513",
+          "media_results": {
+            "result": {
+              "media_key": "3_2025548272358592513"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HBwxbAFXEAEE3La.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1949,
+                "w": 3480,
+                "x": 0,
+                "y": 157
+              },
+              {
+                "h": 2604,
+                "w": 2604,
+                "x": 876,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 2284,
+                "x": 1196,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 1302,
+                "x": 1872,
+                "y": 0
+              },
+              {
+                "h": 2604,
+                "w": 3480,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2604,
+            "width": 3480
+          },
+          "sizes": {
+            "large": {
+              "h": 1532,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 898,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 509,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U6p0AqIJ6k"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HFX8xIlXMAA-J_v.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044737418931093960",
+  "url": "https://x.com/SarahphinaSP/status/2044737418931093960",
+  "twitterUrl": "https://twitter.com/SarahphinaSP/status/2044737418931093960",
+  "text": "ARTISTS BEWARE — ‼️🫡 #art #artistsontwitter\n\nDo NOT purchase commissions from @/Kirillcheeeek ! This user is an AI generator and their other arts are AI traced. Be safe, my friends! https://t.co/9Lsx3PrXdk",
+  "fullText": "ARTISTS BEWARE — ‼️🫡 #art #artistsontwitter\n\nDo NOT purchase commissions from @/Kirillcheeeek ! This user is an AI generator and their other arts are AI traced. Be safe, my friends! https://t.co/9Lsx3PrXdk",
+  "source": "Twitter Web App",
+  "retweetCount": 498,
+  "replyCount": 4,
+  "likeCount": 1329,
+  "quoteCount": 2,
+  "viewCount": 20274,
+  "createdAt": "Thu Apr 16 11:19:24 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 134,
+  "isReply": false,
+  "conversationId": "2044737418931093960",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "SarahphinaSP",
+    "url": "https://x.com/SarahphinaSP",
+    "twitterUrl": "https://twitter.com/SarahphinaSP",
+    "id": "1860529443338391552",
+    "name": "Sarahphina⭐️",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2032309584837128192/POfFWt_P_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1860529443338391552/1773374761",
+    "description": "19 | any/all | COMMISSIONS CLOSED 💌  | ENG/ESP | Artist🌟 | sarahphinasp.contact@gmail.com | PFP by: daisie.maisie | Banner By: @hikary___ | 🇨🇺🇩🇪",
+    "followers": 1824,
+    "following": 2325,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 24 03:42:49 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/SarahphinaSP",
+            "expanded_url": "http://linktr.ee/SarahphinaSP",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/CCl5C26GbT"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 39133,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1191,
+    "statusesCount": 9955,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2027029092860625234"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Lsx3PrXdk",
+        "expanded_url": "https://x.com/SarahphinaSP/status/2044737418931093960/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 64,
+                "w": 64,
+                "x": 1124,
+                "y": 1017
+              },
+              {
+                "h": 81,
+                "w": 81,
+                "x": 400,
+                "y": 776
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 62,
+                "w": 62,
+                "x": 1101,
+                "y": 997
+              },
+              {
+                "h": 79,
+                "w": 79,
+                "x": 392,
+                "y": 760
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 64,
+                "w": 64,
+                "x": 1124,
+                "y": 1017
+              },
+              {
+                "h": 81,
+                "w": 81,
+                "x": 400,
+                "y": 776
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 624,
+                "y": 565
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 222,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2044736971277209600",
+        "indices": [
+          182,
+          205
+        ],
+        "media_key": "3_2044736971277209600",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044736971277209600"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBdcSAWEAAiA45.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 685,
+              "w": 1224,
+              "x": 0,
+              "y": 422
+            },
+            {
+              "h": 1120,
+              "w": 1120,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 982,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 560,
+              "x": 56,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 1224,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1120,
+          "width": 1224
+        },
+        "sizes": {
+          "large": {
+            "h": 1120,
+            "resize": "fit",
+            "w": 1224
+          },
+          "medium": {
+            "h": 1098,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 622,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9Lsx3PrXdk"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Lsx3PrXdk",
+        "expanded_url": "https://x.com/SarahphinaSP/status/2044737418931093960/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044736971281477632",
+        "indices": [
+          182,
+          205
+        ],
+        "media_key": "3_2044736971281477632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044736971281477632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBdcSBXMAAdcBh.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 633,
+              "w": 1130,
+              "x": 0,
+              "y": 107
+            },
+            {
+              "h": 1035,
+              "w": 1035,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 908,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 518,
+              "x": 108,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 1130,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1035,
+          "width": 1130
+        },
+        "sizes": {
+          "large": {
+            "h": 1035,
+            "resize": "fit",
+            "w": 1130
+          },
+          "medium": {
+            "h": 1035,
+            "resize": "fit",
+            "w": 1130
+          },
+          "small": {
+            "h": 623,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9Lsx3PrXdk"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          21,
+          25
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          26,
+          43
+        ],
+        "text": "artistsontwitter"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Lsx3PrXdk",
+        "expanded_url": "https://x.com/SarahphinaSP/status/2044737418931093960/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 64,
+                "w": 64,
+                "x": 1124,
+                "y": 1017
+              },
+              {
+                "h": 81,
+                "w": 81,
+                "x": 400,
+                "y": 776
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 62,
+                "w": 62,
+                "x": 1101,
+                "y": 997
+              },
+              {
+                "h": 79,
+                "w": 79,
+                "x": 392,
+                "y": 760
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 64,
+                "w": 64,
+                "x": 1124,
+                "y": 1017
+              },
+              {
+                "h": 81,
+                "w": 81,
+                "x": 400,
+                "y": 776
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 624,
+                "y": 565
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 222,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2044736971277209600",
+        "indices": [
+          182,
+          205
+        ],
+        "media_key": "3_2044736971277209600",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044736971277209600"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBdcSAWEAAiA45.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 685,
+              "w": 1224,
+              "x": 0,
+              "y": 422
+            },
+            {
+              "h": 1120,
+              "w": 1120,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 982,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 560,
+              "x": 56,
+              "y": 0
+            },
+            {
+              "h": 1120,
+              "w": 1224,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1120,
+          "width": 1224
+        },
+        "sizes": {
+          "large": {
+            "h": 1120,
+            "resize": "fit",
+            "w": 1224
+          },
+          "medium": {
+            "h": 1098,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 622,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9Lsx3PrXdk"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/9Lsx3PrXdk",
+        "expanded_url": "https://x.com/SarahphinaSP/status/2044737418931093960/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044736971281477632",
+        "indices": [
+          182,
+          205
+        ],
+        "media_key": "3_2044736971281477632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044736971281477632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBdcSBXMAAdcBh.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 633,
+              "w": 1130,
+              "x": 0,
+              "y": 107
+            },
+            {
+              "h": 1035,
+              "w": 1035,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 908,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 518,
+              "x": 108,
+              "y": 0
+            },
+            {
+              "h": 1035,
+              "w": 1130,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1035,
+          "width": 1130
+        },
+        "sizes": {
+          "large": {
+            "h": 1035,
+            "resize": "fit",
+            "w": 1130
+          },
+          "medium": {
+            "h": 1035,
+            "resize": "fit",
+            "w": 1130
+          },
+          "small": {
+            "h": 623,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9Lsx3PrXdk"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGBdcSAWEAAiA45.jpg",
+    "https://pbs.twimg.com/media/HGBdcSBXMAAdcBh.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2039738663815319991",
+  "url": "https://x.com/auri_nox/status/2039738663815319991",
+  "twitterUrl": "https://twitter.com/auri_nox/status/2039738663815319991",
+  "text": "♥ bust adoptables! ♥\n\nsp1 (bust): 60$ \nsp2 (bust+fullbody): 240$ \nclaim in comments or dm me! :3 \n\n✨ Payment via Boosty or Easystart! ✨\n♥Your RTs help me a lot, thank you very much! qwq ♥\n\n#artistsontwitter #dndcharacter #dnd #characterdesign #adopt https://t.co/WVPGSHyW59",
+  "fullText": "♥ bust adoptables! ♥\n\nsp1 (bust): 60$ \nsp2 (bust+fullbody): 240$ \nclaim in comments or dm me! :3 \n\n✨ Payment via Boosty or Easystart! ✨\n♥Your RTs help me a lot, thank you very much! qwq ♥\n\n#artistsontwitter #dndcharacter #dnd #characterdesign #adopt https://t.co/WVPGSHyW59",
+  "source": "Twitter Web App",
+  "retweetCount": 40,
+  "replyCount": 6,
+  "likeCount": 500,
+  "quoteCount": 1,
+  "viewCount": 7167,
+  "createdAt": "Thu Apr 02 16:16:08 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 81,
+  "isReply": false,
+  "conversationId": "2039738663815319991",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "auri_nox",
+    "url": "https://x.com/auri_nox",
+    "twitterUrl": "https://twitter.com/auri_nox",
+    "id": "1224714192814530561",
+    "name": "✨Nox Auri ✨ commissions OPEN!",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1554115364551856128/PMszR_Uk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1224714192814530561/1667474027",
+    "description": "🌿 artist | 25 | she/her | eng | commissions open! 🌿\n\nhttps://t.co/egiCNcKEAe\n\nDiscord: noxauri",
+    "followers": 6807,
+    "following": 476,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 04 15:20:06 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bsky.app/profile/noxaur…",
+            "expanded_url": "https://bsky.app/profile/noxauri.bsky.social",
+            "indices": [
+              53,
+              76
+            ],
+            "url": "https://t.co/egiCNcKEAe"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/NoxAuri",
+            "expanded_url": "https://linktr.ee/NoxAuri",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/uGnnlvfk1z"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3573,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 547,
+    "statusesCount": 2193,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1963614813797441669"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/WVPGSHyW59",
+        "expanded_url": "https://x.com/auri_nox/status/2039738663815319991/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 315,
+                "w": 315,
+                "x": 195,
+                "y": 1169
+              },
+              {
+                "h": 313,
+                "w": 313,
+                "x": 917,
+                "y": 1059
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 185,
+                "w": 185,
+                "x": 114,
+                "y": 685
+              },
+              {
+                "h": 183,
+                "w": 183,
+                "x": 537,
+                "y": 620
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 388,
+                "w": 388,
+                "x": 240,
+                "y": 1437
+              },
+              {
+                "h": 385,
+                "w": 385,
+                "x": 1127,
+                "y": 1302
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 104,
+                "w": 104,
+                "x": 64,
+                "y": 388
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 304,
+                "y": 351
+              }
+            ]
+          }
+        },
+        "id_str": "2039738178358202368",
+        "indices": [
+          250,
+          273
+        ],
+        "media_key": "3_2039738178358202368",
+        "media_results": {
+          "result": {
+            "media_key": "3_2039738178358202368"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HE6bEPPX0AAdfeC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1409,
+              "w": 2516,
+              "x": 0,
+              "y": 740
+            },
+            {
+              "h": 2191,
+              "w": 2191,
+              "x": 325,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 1922,
+              "x": 594,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 1096,
+              "x": 1420,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 2516,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2191,
+          "width": 2516
+        },
+        "sizes": {
+          "large": {
+            "h": 1783,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1045,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 592,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/WVPGSHyW59"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          189,
+          206
+        ],
+        "text": "artistsontwitter"
+      },
+      {
+        "indices": [
+          207,
+          220
+        ],
+        "text": "dndcharacter"
+      },
+      {
+        "indices": [
+          221,
+          225
+        ],
+        "text": "dnd"
+      },
+      {
+        "indices": [
+          226,
+          242
+        ],
+        "text": "characterdesign"
+      },
+      {
+        "indices": [
+          243,
+          249
+        ],
+        "text": "adopt"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/WVPGSHyW59",
+        "expanded_url": "https://x.com/auri_nox/status/2039738663815319991/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 315,
+                "w": 315,
+                "x": 195,
+                "y": 1169
+              },
+              {
+                "h": 313,
+                "w": 313,
+                "x": 917,
+                "y": 1059
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 185,
+                "w": 185,
+                "x": 114,
+                "y": 685
+              },
+              {
+                "h": 183,
+                "w": 183,
+                "x": 537,
+                "y": 620
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 388,
+                "w": 388,
+                "x": 240,
+                "y": 1437
+              },
+              {
+                "h": 385,
+                "w": 385,
+                "x": 1127,
+                "y": 1302
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 104,
+                "w": 104,
+                "x": 64,
+                "y": 388
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 304,
+                "y": 351
+              }
+            ]
+          }
+        },
+        "id_str": "2039738178358202368",
+        "indices": [
+          250,
+          273
+        ],
+        "media_key": "3_2039738178358202368",
+        "media_results": {
+          "result": {
+            "media_key": "3_2039738178358202368"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HE6bEPPX0AAdfeC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1409,
+              "w": 2516,
+              "x": 0,
+              "y": 740
+            },
+            {
+              "h": 2191,
+              "w": 2191,
+              "x": 325,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 1922,
+              "x": 594,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 1096,
+              "x": 1420,
+              "y": 0
+            },
+            {
+              "h": 2191,
+              "w": 2516,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2191,
+          "width": 2516
+        },
+        "sizes": {
+          "large": {
+            "h": 1783,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1045,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 592,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/WVPGSHyW59"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HE6bEPPX0AAdfeC.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044082753050948010",
+  "url": "https://x.com/shyrennoirr/status/2044082753050948010",
+  "twitterUrl": "https://twitter.com/shyrennoirr/status/2044082753050948010",
+  "text": "HEAD BANNER COMMS DONEEEEE!!\nhonestly love how lively it looks…\n\nif u want something like this, it’s only $60 :&gt;\ndm me before slots fill up!!\n\n#VGenComm #artistsontwitter https://t.co/6e55tc70bw",
+  "fullText": "HEAD BANNER COMMS DONEEEEE!!\nhonestly love how lively it looks…\n\nif u want something like this, it’s only $60 :&gt;\ndm me before slots fill up!!\n\n#VGenComm #artistsontwitter https://t.co/6e55tc70bw",
+  "source": "Twitter Web App",
+  "retweetCount": 2,
+  "replyCount": 1,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 161,
+  "createdAt": "Tue Apr 14 15:58:00 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044082753050948010",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "shyrennoirr",
+    "url": "https://x.com/shyrennoirr",
+    "twitterUrl": "https://twitter.com/shyrennoirr",
+    "id": "1963544188219486208",
+    "name": "Ren ☆ VArtist!",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2008105882291507200/brDAplCk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1963544188219486208/1760683656",
+    "description": "yoooww! shyren here!! ✦ just a storm in human shape ☆ ENFP ⋆ #VGenArtist ✦ https://t.co/UHXaG9DS4Z ✦ https://t.co/ws5r2CfFIW",
+    "location": "pretty things here 👉",
+    "followers": 1704,
+    "following": 1265,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 04 10:06:47 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "vgen.co/shyrennoir",
+            "expanded_url": "https://vgen.co/shyrennoir",
+            "indices": [
+              75,
+              98
+            ],
+            "url": "https://t.co/UHXaG9DS4Z"
+          },
+          {
+            "display_url": "ko-fi.com/shyrennoir",
+            "expanded_url": "https://ko-fi.com/shyrennoir",
+            "indices": [
+              101,
+              124
+            ],
+            "url": "https://t.co/ws5r2CfFIW"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "vgen.co/shyrennoir",
+            "expanded_url": "https://vgen.co/shyrennoir",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/UHXaG9DS4Z"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12413,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 193,
+    "statusesCount": 3236,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/6e55tc70bw",
+        "expanded_url": "https://x.com/shyrennoirr/status/2044082753050948010/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043976983089164294",
+        "indices": [
+          174,
+          197
+        ],
+        "media_key": "3_2043976983089164294",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043976983089164294"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF2qPJYasAYW1Q-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 427,
+              "w": 763,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 427,
+              "x": 138,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 375,
+              "x": 164,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 214,
+              "x": 244,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 427,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 427,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 227,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6e55tc70bw"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          146,
+          155
+        ],
+        "text": "VGenComm"
+      },
+      {
+        "indices": [
+          156,
+          173
+        ],
+        "text": "artistsontwitter"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/6e55tc70bw",
+        "expanded_url": "https://x.com/shyrennoirr/status/2044082753050948010/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043976983089164294",
+        "indices": [
+          174,
+          197
+        ],
+        "media_key": "3_2043976983089164294",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043976983089164294"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF2qPJYasAYW1Q-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 427,
+              "w": 763,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 427,
+              "x": 138,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 375,
+              "x": 164,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 214,
+              "x": 244,
+              "y": 0
+            },
+            {
+              "h": 427,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 427,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 427,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 227,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6e55tc70bw"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF2qPJYasAYW1Q-.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043630276106961253",
+  "url": "https://x.com/sprt_stanslvski/status/2043630276106961253",
+  "twitterUrl": "https://twitter.com/sprt_stanslvski/status/2043630276106961253",
+  "text": "Retail Therapy. Milan\nBy : Andre Kohn\nRussian/American\nOil, 24\" x 10\" #ArtistOnTwitter #artistsontwitter #artwork #art #artist #ArtofArcane #artshare #artshare  #Artpakpoom #arttwt #arte #artworkทึเม #kunst  #artvsartist2026 #Artsummary2026 #artmoots https://t.co/sUExmnGiyt",
+  "fullText": "Retail Therapy. Milan\nBy : Andre Kohn\nRussian/American\nOil, 24\" x 10\" #ArtistOnTwitter #artistsontwitter #artwork #art #artist #ArtofArcane #artshare #artshare  #Artpakpoom #arttwt #arte #artworkทึเม #kunst  #artvsartist2026 #Artsummary2026 #artmoots https://t.co/sUExmnGiyt",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 30,
+  "createdAt": "Mon Apr 13 10:00:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1423901450942484481",
+  "conversationId": "1423901450942484481",
+  "inReplyToUserId": "212879517",
+  "inReplyToUsername": "sprt_stanslvski",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "sprt_stanslvski",
+    "url": "https://x.com/sprt_stanslvski",
+    "twitterUrl": "https://twitter.com/sprt_stanslvski",
+    "id": "212879517",
+    "name": "✙STANISLAVSKIY🇺🇦",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1479823229611089922/LcuEPLI-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/212879517/1581633646",
+    "description": "languages🇺🇦🇦🇹🇨🇵🇪🇸🇨🇿\ntweeting movie-oriented,book-oriented, art-oriented, city landscape-oriented, food-oriented, sports-oriented, humor- disoriented .",
+    "location": "citizen of EU",
+    "followers": 121,
+    "following": 243,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 07 09:44:37 +0000 2010",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4678,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6009,
+    "statusesCount": 13069,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/sUExmnGiyt",
+        "expanded_url": "https://x.com/sprt_stanslvski/status/2043630276106961253/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "1852600253691703296",
+        "indices": [
+          251,
+          274
+        ],
+        "media_key": "3_1852600253691703296",
+        "media_results": {
+          "result": {
+            "media_key": "3_1852600253691703296"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GbXCHYAXsAAJyi0.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 295,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 526,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 600,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 865,
+              "w": 433,
+              "x": 21,
+              "y": 0
+            },
+            {
+              "h": 865,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 865,
+          "width": 526
+        },
+        "sizes": {
+          "large": {
+            "h": 865,
+            "resize": "fit",
+            "w": 526
+          },
+          "medium": {
+            "h": 865,
+            "resize": "fit",
+            "w": 526
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 414
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sUExmnGiyt"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          70,
+          86
+        ],
+        "text": "ArtistOnTwitter"
+      },
+      {
+        "indices": [
+          87,
+          104
+        ],
+        "text": "artistsontwitter"
+      },
+      {
+        "indices": [
+          105,
+          113
+        ],
+        "text": "artwork"
+      },
+      {
+        "indices": [
+          114,
+          118
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          119,
+          126
+        ],
+        "text": "artist"
+      },
+      {
+        "indices": [
+          127,
+          139
+        ],
+        "text": "ArtofArcane"
+      },
+      {
+        "indices": [
+          140,
+          149
+        ],
+        "text": "artshare"
+      },
+      {
+        "indices": [
+          150,
+          159
+        ],
+        "text": "artshare"
+      },
+      {
+        "indices": [
+          161,
+          172
+        ],
+        "text": "Artpakpoom"
+      },
+      {
+        "indices": [
+          173,
+          180
+        ],
+        "text": "arttwt"
+      },
+      {
+        "indices": [
+          181,
+          186
+        ],
+        "text": "arte"
+      },
+      {
+        "indices": [
+          187,
+          199
+        ],
+        "text": "artworkทึเม"
+      },
+      {
+        "indices": [
+          200,
+          206
+        ],
+        "text": "kunst"
+      },
+      {
+        "indices": [
+          208,
+          224
+        ],
+        "text": "artvsartist2026"
+      },
+      {
+        "indices": [
+          225,
+          240
+        ],
+        "text": "Artsummary2026"
+      },
+      {
+        "indices": [
+          241,
+          250
+        ],
+        "text": "artmoots"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/sUExmnGiyt",
+        "expanded_url": "https://x.com/sprt_stanslvski/status/2043630276106961253/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "1852600253691703296",
+        "indices": [
+          251,
+          274
+        ],
+        "media_key": "3_1852600253691703296",
+        "media_results": {
+          "result": {
+            "media_key": "3_1852600253691703296"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GbXCHYAXsAAJyi0.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 295,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 526,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 600,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 865,
+              "w": 433,
+              "x": 21,
+              "y": 0
+            },
+            {
+              "h": 865,
+              "w": 526,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 865,
+          "width": 526
+        },
+        "sizes": {
+          "large": {
+            "h": 865,
+            "resize": "fit",
+            "w": 526
+          },
+          "medium": {
+            "h": 865,
+            "resize": "fit",
+            "w": 526
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 414
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sUExmnGiyt"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GbXCHYAXsAAJyi0.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043969938713670069",
+  "url": "https://x.com/AdalahP4500/status/2043969938713670069",
+  "twitterUrl": "https://twitter.com/AdalahP4500/status/2043969938713670069",
+  "text": "My oc!! #art #oc #artistsontwitter #artmoots https://t.co/lrqmWnhT8E",
+  "fullText": "My oc!! #art #oc #artistsontwitter #artmoots https://t.co/lrqmWnhT8E",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 38,
+  "createdAt": "Tue Apr 14 08:29:43 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043969938713670069",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "AdalahP4500",
+    "url": "https://x.com/AdalahP4500",
+    "twitterUrl": "https://twitter.com/AdalahP4500",
+    "id": "2012196953627746304",
+    "name": "lunive",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2042138941353287680/TRyKfYud_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2012196953627746304/1775745148",
+    "description": "Yaho\n#artist",
+    "followers": 5,
+    "following": 12,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 16 16:15:33 +0000 2026",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 7,
+    "statusesCount": 16,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/lrqmWnhT8E",
+        "expanded_url": "https://x.com/AdalahP4500/status/2043969938713670069/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 1572,
+                "y": 408
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 586,
+                "y": 414
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 921,
+                "y": 239
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 343,
+                "y": 242
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 1572,
+                "y": 408
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 586,
+                "y": 414
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 31,
+                "w": 31,
+                "x": 521,
+                "y": 135
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 194,
+                "y": 137
+              }
+            ]
+          }
+        },
+        "id_str": "2043969915221356545",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2043969915221356545",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043969915221356545"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF2jzvhasAEebXz.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1796,
+              "x": 126,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 512,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/lrqmWnhT8E"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          8,
+          12
+        ],
+        "text": "art"
+      },
+      {
+        "indices": [
+          13,
+          16
+        ],
+        "text": "oc"
+      },
+      {
+        "indices": [
+          17,
+          34
+        ],
+        "text": "artistsontwitter"
+      },
+      {
+        "indices": [
+          35,
+          44
+        ],
+        "text": "artmoots"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/lrqmWnhT8E",
+        "expanded_url": "https://x.com/AdalahP4500/status/2043969938713670069/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 1572,
+                "y": 408
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 586,
+                "y": 414
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 921,
+                "y": 239
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 343,
+                "y": 242
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 1572,
+                "y": 408
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 586,
+                "y": 414
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 31,
+                "w": 31,
+                "x": 521,
+                "y": 135
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 194,
+                "y": 137
+              }
+            ]
+          }
+        },
+        "id_str": "2043969915221356545",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_2043969915221356545",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043969915221356545"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF2jzvhasAEebXz.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1796,
+              "x": 126,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 512,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/lrqmWnhT8E"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF2jzvhasAEebXz.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043149299261858206",
+  "url": "https://x.com/Beephomets_Art/status/2043149299261858206",
+  "twitterUrl": "https://twitter.com/Beephomets_Art/status/2043149299261858206",
+  "text": "New intro\n\n︶꒦꒷♡꒷꒦︶\nHey there, hi, I'm ready to die!\n#MeetTheArtist #ArtistsOnTwitter https://t.co/cIplwoAaFX",
+  "fullText": "New intro\n\n︶꒦꒷♡꒷꒦︶\nHey there, hi, I'm ready to die!\n#MeetTheArtist #ArtistsOnTwitter https://t.co/cIplwoAaFX",
+  "source": "Twitter Web App",
+  "retweetCount": 2,
+  "replyCount": 2,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 175,
+  "createdAt": "Sun Apr 12 02:08:47 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043149299261858206",
+  "possiblySensitive": false,
+  "isPinned": true,
+  "author": {
+    "type": "user",
+    "userName": "Beephomets_Art",
+    "url": "https://x.com/Beephomets_Art",
+    "twitterUrl": "https://twitter.com/Beephomets_Art",
+    "id": "1501732935241809920",
+    "name": "Bee Saw Skeletour & Iron Lung",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1997149682368221184/uWkyn1bK_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1501732935241809920/1767671578",
+    "description": "Bee - 31 - They/them\n\nWanna-be goth lady & cringe-fail artist\n\nMain: @BEEPHOMETS\nPFP: @Moosifurr_",
+    "location": "Logo by @VTuberQueenie",
+    "followers": 371,
+    "following": 703,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 10 01:33:47 +0000 2022",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "beephomets.straw.page",
+            "expanded_url": "https://beephomets.straw.page",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/JM8ujzO3yE"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3955,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1195,
+    "statusesCount": 2920,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043149299261858206"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1017,
+          "name": "Artist"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1601159335551422467"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/cIplwoAaFX",
+        "expanded_url": "https://x.com/Beephomets_Art/status/2043149299261858206/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 921,
+                "y": 401
+              },
+              {
+                "h": 123,
+                "w": 123,
+                "x": 1371,
+                "y": 639
+              },
+              {
+                "h": 123,
+                "w": 123,
+                "x": 1419,
+                "y": 637
+              },
+              {
+                "h": 143,
+                "w": 143,
+                "x": 1623,
+                "y": 1025
+              },
+              {
+                "h": 211,
+                "w": 211,
+                "x": 1633,
+                "y": 365
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 540,
+                "y": 235
+              },
+              {
+                "h": 72,
+                "w": 72,
+                "x": 803,
+                "y": 374
+              },
+              {
+                "h": 72,
+                "w": 72,
+                "x": 831,
+                "y": 373
+              },
+              {
+                "h": 84,
+                "w": 84,
+                "x": 951,
+                "y": 600
+              },
+              {
+                "h": 124,
+                "w": 124,
+                "x": 957,
+                "y": 214
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 219,
+                "w": 219,
+                "x": 1662,
+                "y": 724
+              },
+              {
+                "h": 223,
+                "w": 223,
+                "x": 2473,
+                "y": 1153
+              },
+              {
+                "h": 223,
+                "w": 223,
+                "x": 2559,
+                "y": 1150
+              },
+              {
+                "h": 259,
+                "w": 259,
+                "x": 2927,
+                "y": 1849
+              },
+              {
+                "h": 382,
+                "w": 382,
+                "x": 2945,
+                "y": 659
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 306,
+                "y": 133
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 455,
+                "y": 212
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 471,
+                "y": 211
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 539,
+                "y": 340
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 542,
+                "y": 121
+              }
+            ]
+          }
+        },
+        "id_str": "2043148436409585664",
+        "indices": [
+          85,
+          108
+        ],
+        "media_key": "3_2043148436409585664",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043148436409585664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFq4rYeWkAAAvlk.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 2068,
+              "w": 3692,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 2620,
+              "x": 443,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 2298,
+              "x": 604,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 1310,
+              "x": 1098,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 3692,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2620,
+          "width": 3692
+        },
+        "sizes": {
+          "large": {
+            "h": 1453,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 852,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 483,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/cIplwoAaFX"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          52,
+          66
+        ],
+        "text": "MeetTheArtist"
+      },
+      {
+        "indices": [
+          67,
+          84
+        ],
+        "text": "ArtistsOnTwitter"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/cIplwoAaFX",
+        "expanded_url": "https://x.com/Beephomets_Art/status/2043149299261858206/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 921,
+                "y": 401
+              },
+              {
+                "h": 123,
+                "w": 123,
+                "x": 1371,
+                "y": 639
+              },
+              {
+                "h": 123,
+                "w": 123,
+                "x": 1419,
+                "y": 637
+              },
+              {
+                "h": 143,
+                "w": 143,
+                "x": 1623,
+                "y": 1025
+              },
+              {
+                "h": 211,
+                "w": 211,
+                "x": 1633,
+                "y": 365
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 540,
+                "y": 235
+              },
+              {
+                "h": 72,
+                "w": 72,
+                "x": 803,
+                "y": 374
+              },
+              {
+                "h": 72,
+                "w": 72,
+                "x": 831,
+                "y": 373
+              },
+              {
+                "h": 84,
+                "w": 84,
+                "x": 951,
+                "y": 600
+              },
+              {
+                "h": 124,
+                "w": 124,
+                "x": 957,
+                "y": 214
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 219,
+                "w": 219,
+                "x": 1662,
+                "y": 724
+              },
+              {
+                "h": 223,
+                "w": 223,
+                "x": 2473,
+                "y": 1153
+              },
+              {
+                "h": 223,
+                "w": 223,
+                "x": 2559,
+                "y": 1150
+              },
+              {
+                "h": 259,
+                "w": 259,
+                "x": 2927,
+                "y": 1849
+              },
+              {
+                "h": 382,
+                "w": 382,
+                "x": 2945,
+                "y": 659
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 306,
+                "y": 133
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 455,
+                "y": 212
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 471,
+                "y": 211
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 539,
+                "y": 340
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 542,
+                "y": 121
+              }
+            ]
+          }
+        },
+        "id_str": "2043148436409585664",
+        "indices": [
+          85,
+          108
+        ],
+        "media_key": "3_2043148436409585664",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043148436409585664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFq4rYeWkAAAvlk.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 2068,
+              "w": 3692,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 2620,
+              "x": 443,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 2298,
+              "x": 604,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 1310,
+              "x": 1098,
+              "y": 0
+            },
+            {
+              "h": 2620,
+              "w": 3692,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2620,
+          "width": 3692
+        },
+        "sizes": {
+          "large": {
+            "h": 1453,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 852,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 483,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/cIplwoAaFX"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFq4rYeWkAAAvlk.jpg"
+  ],
+  "isConversationControlled": true
+},
+{
+  "type": "tweet",
+  "id": "2044806145898877135",
+  "url": "https://x.com/somnomaly/status/2044806145898877135",
+  "twitterUrl": "https://twitter.com/somnomaly/status/2044806145898877135",
+  "text": "🦇 Unique character design for sale! 🦇 Purchase to remove the mosaic censor: https://t.co/n9WoHZSDra \n\nOnce purchased, you own the character and can do whatever you want with them.  #adoptablecharacter #digitalart #artistsontwitter https://t.co/YyFYo2VSXW",
+  "fullText": "🦇 Unique character design for sale! 🦇 Purchase to remove the mosaic censor: https://t.co/n9WoHZSDra \n\nOnce purchased, you own the character and can do whatever you want with them.  #adoptablecharacter #digitalart #artistsontwitter https://t.co/YyFYo2VSXW",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 11,
+  "createdAt": "Thu Apr 16 15:52:30 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044806145898877135",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "somnomaly",
+    "url": "https://x.com/somnomaly",
+    "twitterUrl": "https://twitter.com/somnomaly",
+    "id": "1828066151785500673",
+    "name": "somnomaly",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2026030514742636544/0-ORBz0e_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1828066151785500673/1774384697",
+    "description": "art human, cheap commissions open:",
+    "followers": 51,
+    "following": 180,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 26 13:45:17 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/somnomaly",
+            "expanded_url": "https://linktr.ee/somnomaly",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/SocNZ16sB9"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1296,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 49,
+    "statusesCount": 91,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2042357308273893551"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YyFYo2VSXW",
+        "expanded_url": "https://x.com/somnomaly/status/2044806145898877135/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044806110981586944",
+        "indices": [
+          231,
+          254
+        ],
+        "media_key": "3_2044806110981586944",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044806110981586944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCcUvebAAAd0gD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 560,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 940,
+              "x": 60,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 825,
+              "x": 175,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 470,
+              "x": 489,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 940,
+          "width": 1000
+        },
+        "sizes": {
+          "large": {
+            "h": 940,
+            "resize": "fit",
+            "w": 1000
+          },
+          "medium": {
+            "h": 940,
+            "resize": "fit",
+            "w": 1000
+          },
+          "small": {
+            "h": 639,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YyFYo2VSXW"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YyFYo2VSXW",
+        "expanded_url": "https://x.com/somnomaly/status/2044806145898877135/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 269,
+                "w": 269,
+                "x": 1719,
+                "y": 128
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 158,
+                "w": 158,
+                "x": 1007,
+                "y": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 293,
+                "w": 293,
+                "x": 1867,
+                "y": 139
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 89,
+                "w": 89,
+                "x": 570,
+                "y": 42
+              }
+            ]
+          }
+        },
+        "id_str": "2044806119126929408",
+        "indices": [
+          231,
+          254
+        ],
+        "media_key": "3_2044806119126929408",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044806119126929408"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCcVN0bEAA852H.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1245,
+              "w": 2224,
+              "x": 0,
+              "y": 645
+            },
+            {
+              "h": 1890,
+              "w": 1890,
+              "x": 111,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 1658,
+              "x": 227,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 945,
+              "x": 584,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 2224,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1890,
+          "width": 2224
+        },
+        "sizes": {
+          "large": {
+            "h": 1740,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1020,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 578,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YyFYo2VSXW"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          181,
+          200
+        ],
+        "text": "adoptablecharacter"
+      },
+      {
+        "indices": [
+          201,
+          212
+        ],
+        "text": "digitalart"
+      },
+      {
+        "indices": [
+          213,
+          230
+        ],
+        "text": "artistsontwitter"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YyFYo2VSXW",
+        "expanded_url": "https://x.com/somnomaly/status/2044806145898877135/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044806110981586944",
+        "indices": [
+          231,
+          254
+        ],
+        "media_key": "3_2044806110981586944",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044806110981586944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCcUvebAAAd0gD.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 560,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 940,
+              "x": 60,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 825,
+              "x": 175,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 470,
+              "x": 489,
+              "y": 0
+            },
+            {
+              "h": 940,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 940,
+          "width": 1000
+        },
+        "sizes": {
+          "large": {
+            "h": 940,
+            "resize": "fit",
+            "w": 1000
+          },
+          "medium": {
+            "h": 940,
+            "resize": "fit",
+            "w": 1000
+          },
+          "small": {
+            "h": 639,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YyFYo2VSXW"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/YyFYo2VSXW",
+        "expanded_url": "https://x.com/somnomaly/status/2044806145898877135/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 269,
+                "w": 269,
+                "x": 1719,
+                "y": 128
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 158,
+                "w": 158,
+                "x": 1007,
+                "y": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 293,
+                "w": 293,
+                "x": 1867,
+                "y": 139
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 89,
+                "w": 89,
+                "x": 570,
+                "y": 42
+              }
+            ]
+          }
+        },
+        "id_str": "2044806119126929408",
+        "indices": [
+          231,
+          254
+        ],
+        "media_key": "3_2044806119126929408",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044806119126929408"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCcVN0bEAA852H.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1245,
+              "w": 2224,
+              "x": 0,
+              "y": 645
+            },
+            {
+              "h": 1890,
+              "w": 1890,
+              "x": 111,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 1658,
+              "x": 227,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 945,
+              "x": 584,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 2224,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1890,
+          "width": 2224
+        },
+        "sizes": {
+          "large": {
+            "h": 1740,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1020,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 578,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YyFYo2VSXW"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "etsy.com/listing/448931…",
+        "expanded_url": "http://etsy.com/listing/4489314624",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/n9WoHZSDra"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGCcUvebAAAd0gD.jpg",
+    "https://pbs.twimg.com/media/HGCcVN0bEAA852H.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044760519073022178",
+  "url": "https://x.com/WandersonSonyX3/status/2044760519073022178",
+  "twitterUrl": "https://twitter.com/WandersonSonyX3/status/2044760519073022178",
+  "text": "Today is my birthday… 22 years old \nPlease support me by retweeting and sharing\n\n#Birthday #artistsontwitter #smallartist  #supporthumanartists  #artbirthdayparty #ArtCartoon #cartoonart #ArtWork #Doodle #Art #draw  #ibspaint #ArtMoots #drawing #digitalart #Artblock  #digitalart https://t.co/cF6eHbQKF1",
+  "fullText": "Today is my birthday… 22 years old \nPlease support me by retweeting and sharing\n\n#Birthday #artistsontwitter #smallartist  #supporthumanartists  #artbirthdayparty #ArtCartoon #cartoonart #ArtWork #Doodle #Art #draw  #ibspaint #ArtMoots #drawing #digitalart #Artblock  #digitalart https://t.co/cF6eHbQKF1",
+  "source": "Twitter for Android",
+  "retweetCount": 485,
+  "replyCount": 195,
+  "likeCount": 1287,
+  "quoteCount": 17,
+  "viewCount": 19993,
+  "createdAt": "Thu Apr 16 12:51:12 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 156,
+  "isReply": false,
+  "conversationId": "2044760519073022178",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "WandersonSonyX3",
+    "url": "https://x.com/WandersonSonyX3",
+    "twitterUrl": "https://twitter.com/WandersonSonyX3",
+    "id": "1137526055206625286",
+    "name": "Wanderson Sony Arts",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2036816439097868288/rwx5Nvnw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1137526055206625286/1774449857",
+    "description": "Brazilian 🇧🇷 | L.V 22 | Autism | Small Artist | Make Doodles | NOT A.I Commission Open (0/20) | Art Trade (5/5)",
+    "location": "Humberto de Campos, MA ,Brasil",
+    "followers": 845,
+    "following": 3350,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jun 09 01:05:20 +0000 2019",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Wanderson_Sony…",
+            "expanded_url": "https://linktr.ee/Wanderson_Sony_Artes",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/2Z8AbFy6vw"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 54887,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1709,
+    "statusesCount": 45917,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2036904231626486259"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/cF6eHbQKF1",
+        "expanded_url": "https://x.com/WandersonSonyX3/status/2044760519073022178/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 258,
+                "y": 1282
+              },
+              {
+                "h": 276,
+                "w": 276,
+                "x": 922,
+                "y": 1180
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 138,
+                "w": 138,
+                "x": 151,
+                "y": 751
+              },
+              {
+                "h": 161,
+                "w": 161,
+                "x": 540,
+                "y": 691
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 258,
+                "y": 1282
+              },
+              {
+                "h": 276,
+                "w": 276,
+                "x": 922,
+                "y": 1180
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 85,
+                "y": 425
+              },
+              {
+                "h": 91,
+                "w": 91,
+                "x": 306,
+                "y": 391
+              }
+            ]
+          }
+        },
+        "id_str": "2044760515835256833",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_2044760515835256833",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044760515835256833"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBy2wUa4AESCTX.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 838,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1497,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1707,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 460,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1497
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1497
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 877
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 497
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/cF6eHbQKF1"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          81,
+          90
+        ],
+        "text": "Birthday"
+      },
+      {
+        "indices": [
+          91,
+          108
+        ],
+        "text": "artistsontwitter"
+      },
+      {
+        "indices": [
+          109,
+          121
+        ],
+        "text": "smallartist"
+      },
+      {
+        "indices": [
+          123,
+          143
+        ],
+        "text": "supporthumanartists"
+      },
+      {
+        "indices": [
+          145,
+          162
+        ],
+        "text": "artbirthdayparty"
+      },
+      {
+        "indices": [
+          163,
+          174
+        ],
+        "text": "ArtCartoon"
+      },
+      {
+        "indices": [
+          175,
+          186
+        ],
+        "text": "cartoonart"
+      },
+      {
+        "indices": [
+          187,
+          195
+        ],
+        "text": "ArtWork"
+      },
+      {
+        "indices": [
+          196,
+          203
+        ],
+        "text": "Doodle"
+      },
+      {
+        "indices": [
+          204,
+          208
+        ],
+        "text": "Art"
+      },
+      {
+        "indices": [
+          209,
+          214
+        ],
+        "text": "draw"
+      },
+      {
+        "indices": [
+          216,
+          225
+        ],
+        "text": "ibspaint"
+      },
+      {
+        "indices": [
+          226,
+          235
+        ],
+        "text": "ArtMoots"
+      },
+      {
+        "indices": [
+          236,
+          244
+        ],
+        "text": "drawing"
+      },
+      {
+        "indices": [
+          245,
+          256
+        ],
+        "text": "digitalart"
+      },
+      {
+        "indices": [
+          257,
+          266
+        ],
+        "text": "Artblock"
+      },
+      {
+        "indices": [
+          268,
+          279
+        ],
+        "text": "digitalart"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/cF6eHbQKF1",
+        "expanded_url": "https://x.com/WandersonSonyX3/status/2044760519073022178/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 258,
+                "y": 1282
+              },
+              {
+                "h": 276,
+                "w": 276,
+                "x": 922,
+                "y": 1180
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 138,
+                "w": 138,
+                "x": 151,
+                "y": 751
+              },
+              {
+                "h": 161,
+                "w": 161,
+                "x": 540,
+                "y": 691
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 236,
+                "w": 236,
+                "x": 258,
+                "y": 1282
+              },
+              {
+                "h": 276,
+                "w": 276,
+                "x": 922,
+                "y": 1180
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 85,
+                "y": 425
+              },
+              {
+                "h": 91,
+                "w": 91,
+                "x": 306,
+                "y": 391
+              }
+            ]
+          }
+        },
+        "id_str": "2044760515835256833",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_2044760515835256833",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044760515835256833"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBy2wUa4AESCTX.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 838,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1497,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1707,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 460,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1497,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1497
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1497
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 877
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 497
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/cF6eHbQKF1"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGBy2wUa4AESCTX.jpg"
+  ],
+  "isConversationControlled": true
+},
+{
+  "type": "tweet",
+  "id": "2043313434952122695",
+  "url": "https://x.com/ashay_pallav/status/2043313434952122695",
+  "twitterUrl": "https://twitter.com/ashay_pallav/status/2043313434952122695",
+  "text": "Had fun making this!!! ended up getting featured in the March quest\n\n#ArtistsOnTwitter #DigitalArt\n\n#AnimeArt #Illustration\n\n#ArtCommunity https://t.co/RLw9svOw4q",
+  "fullText": "Had fun making this!!! ended up getting featured in the March quest\n\n#ArtistsOnTwitter #DigitalArt\n\n#AnimeArt #Illustration\n\n#ArtCommunity https://t.co/RLw9svOw4q",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 65,
+  "createdAt": "Sun Apr 12 13:01:00 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043313434952122695",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "ashay_pallav",
+    "url": "https://x.com/ashay_pallav",
+    "twitterUrl": "https://twitter.com/ashay_pallav",
+    "id": "791956241568247808",
+    "name": "Ashay",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2035707202451955713/kbQ4u31C_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/791956241568247808/1774185867",
+    "description": "𝑰𝒇 𝒊𝒕'𝒔 𝒏𝒐 𝒇𝒖𝒏, 𝒕𝒉𝒆𝒏 𝒊𝒕'𝒔 𝒏𝒐𝒕 𝒘𝒐𝒓𝒕𝒉 𝒊𝒕!!",
+    "followers": 31,
+    "following": 150,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 28 10:54:16 +0000 2016",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51561,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 77,
+    "statusesCount": 1104,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1611210947514994689"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/RLw9svOw4q",
+        "expanded_url": "https://x.com/ashay_pallav/status/2043313434952122695/photo/1",
+        "ext_alt_text": "Anime girl playing basketball in a stadium, dynamic action shot, warm lighting",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043313430619402240",
+        "indices": [
+          139,
+          162
+        ],
+        "media_key": "3_2043313430619402240",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043313430619402240"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtOvTzasAApUAd.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 126,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 435,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/RLw9svOw4q"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          69,
+          86
+        ],
+        "text": "ArtistsOnTwitter"
+      },
+      {
+        "indices": [
+          87,
+          98
+        ],
+        "text": "DigitalArt"
+      },
+      {
+        "indices": [
+          100,
+          109
+        ],
+        "text": "AnimeArt"
+      },
+      {
+        "indices": [
+          110,
+          123
+        ],
+        "text": "Illustration"
+      },
+      {
+        "indices": [
+          125,
+          138
+        ],
+        "text": "ArtCommunity"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/RLw9svOw4q",
+        "expanded_url": "https://x.com/ashay_pallav/status/2043313434952122695/photo/1",
+        "ext_alt_text": "Anime girl playing basketball in a stadium, dynamic action shot, warm lighting",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043313430619402240",
+        "indices": [
+          139,
+          162
+        ],
+        "media_key": "3_2043313430619402240",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043313430619402240"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtOvTzasAApUAd.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 126,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 435,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/RLw9svOw4q"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFtOvTzasAApUAd.jpg"
+  ],
+  "isConversationControlled": false
+}]

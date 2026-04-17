@@ -1,0 +1,6703 @@
+[{
+  "type": "tweet",
+  "id": "2044538556283294163",
+  "url": "https://x.com/chinomono96/status/2044538556283294163",
+  "twitterUrl": "https://twitter.com/chinomono96/status/2044538556283294163",
+  "text": "Okayama Street (The Naming of Cats)\n\n#streetphotography\n#helios442 https://t.co/DsT4DpBBgB",
+  "fullText": "Okayama Street (The Naming of Cats)\n\n#streetphotography\n#helios442 https://t.co/DsT4DpBBgB",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 11,
+  "quoteCount": 0,
+  "viewCount": 66,
+  "createdAt": "Wed Apr 15 22:09:12 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044538556283294163",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "chinomono96",
+    "url": "https://x.com/chinomono96",
+    "twitterUrl": "https://twitter.com/chinomono96",
+    "id": "1049554106",
+    "name": "HAMAMOTO hideki　halzion_himejyon",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/378800000154221492/d08b465f65ebb592464d92fd7aa926b8_normal.jpeg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1049554106/1570346813",
+    "description": "素人野良路上写真家(´･Д･)」濱本 秀樹（春紫苑_姫女菀 ）岡山在住",
+    "location": "Somewhere around there",
+    "followers": 593,
+    "following": 1522,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 31 05:15:29 +0000 2012",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53073,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 7505,
+    "statusesCount": 16187,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/DsT4DpBBgB",
+        "expanded_url": "https://x.com/chinomono96/status/2044538556283294163/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 134,
+                "w": 134,
+                "x": 202,
+                "y": 152
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 118,
+                "y": 89
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 268,
+                "w": 268,
+                "x": 404,
+                "y": 304
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 67,
+                "y": 50
+              }
+            ]
+          }
+        },
+        "id_str": "2044538547533975552",
+        "indices": [
+          67,
+          90
+        ],
+        "media_key": "3_2044538547533975552",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044538547533975552"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF-o-f9bEAA2e6-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1720,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3072,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3502,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4096,
+          "width": 3072
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/DsT4DpBBgB"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          37,
+          55
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          56,
+          66
+        ],
+        "text": "helios442"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/DsT4DpBBgB",
+        "expanded_url": "https://x.com/chinomono96/status/2044538556283294163/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 134,
+                "w": 134,
+                "x": 202,
+                "y": 152
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 118,
+                "y": 89
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 268,
+                "w": 268,
+                "x": 404,
+                "y": 304
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 67,
+                "y": 50
+              }
+            ]
+          }
+        },
+        "id_str": "2044538547533975552",
+        "indices": [
+          67,
+          90
+        ],
+        "media_key": "3_2044538547533975552",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044538547533975552"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF-o-f9bEAA2e6-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1720,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3072,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3502,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 4096,
+              "w": 3072,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4096,
+          "width": 3072
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/DsT4DpBBgB"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF-o-f9bEAA2e6-.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044705237924250109",
+  "url": "https://x.com/andika74/status/2044705237924250109",
+  "twitterUrl": "https://twitter.com/andika74/status/2044705237924250109",
+  "text": "Nothing easy here.\n\n#StreetPhotography\n#UrbanFrames\n#streetphotographersfnd\n#canonindonesia\n#BandungStreetPhotography https://t.co/aXTsHmfLbh",
+  "fullText": "Nothing easy here.\n\n#StreetPhotography\n#UrbanFrames\n#streetphotographersfnd\n#canonindonesia\n#BandungStreetPhotography https://t.co/aXTsHmfLbh",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 79,
+  "createdAt": "Thu Apr 16 09:11:32 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044705237924250109",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "andika74",
+    "url": "https://x.com/andika74",
+    "twitterUrl": "https://twitter.com/andika74",
+    "id": "85213509",
+    "name": "Bas photography",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1240930048388943873/5_37rjGW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/85213509/1732708422",
+    "description": "Jeprat jepret di jalan",
+    "location": "Bandung, Indonesia",
+    "followers": 1007,
+    "following": 1331,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 26 01:52:42 +0000 2009",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/budiandika74",
+            "expanded_url": "https://www.instagram.com/budiandika74",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/pOZR1zJ24H"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3313,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 739,
+    "statusesCount": 2676,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1811774811401781710"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 24,
+                "y": 1494
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 1010,
+                "y": 476
+              },
+              {
+                "h": 284,
+                "w": 284,
+                "x": 814,
+                "y": 1666
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 48,
+                "w": 48,
+                "x": 14,
+                "y": 875
+              },
+              {
+                "h": 131,
+                "w": 131,
+                "x": 591,
+                "y": 278
+              },
+              {
+                "h": 166,
+                "w": 166,
+                "x": 476,
+                "y": 975
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 24,
+                "y": 1494
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 1010,
+                "y": 476
+              },
+              {
+                "h": 284,
+                "w": 284,
+                "x": 814,
+                "y": 1666
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 7,
+                "y": 496
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 335,
+                "y": 158
+              },
+              {
+                "h": 94,
+                "w": 94,
+                "x": 270,
+                "y": 553
+              }
+            ]
+          }
+        },
+        "id_str": "2044705233750949889",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705233750949889",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705233750949889"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk6gbgAEv9Bc.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1637,
+              "x": 0,
+              "y": 411
+            },
+            {
+              "h": 1637,
+              "w": 1637,
+              "x": 0,
+              "y": 51
+            },
+            {
+              "h": 1866,
+              "w": 1637,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 357,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1637,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1637
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1637
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 959
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 1312,
+                "y": 128
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 39,
+                "w": 39,
+                "x": 768,
+                "y": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 1312,
+                "y": 128
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 22,
+                "w": 22,
+                "x": 435,
+                "y": 42
+              }
+            ]
+          }
+        },
+        "id_str": "2044705234224828416",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705234224828416",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705234224828416"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk8RaUAABWFY.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 821
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 410
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 181
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 51,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044705233541193730",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705233541193730",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705233541193730"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk5ua4AI96vB.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 545,
+              "w": 973,
+              "x": 0,
+              "y": 184
+            },
+            {
+              "h": 973,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1109,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1218,
+              "w": 609,
+              "x": 212,
+              "y": 0
+            },
+            {
+              "h": 1218,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1218,
+          "width": 973
+        },
+        "sizes": {
+          "large": {
+            "h": 1218,
+            "resize": "fit",
+            "w": 973
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 959
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 543
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044705234900209664",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705234900209664",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705234900209664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk-yb0AAcV7m.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 514
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 153
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 39
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 255,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      }
+    ]
+  },
+  "card": {},
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            107.604046,
+            -6.922359
+          ],
+          [
+            107.604046,
+            -6.9064755
+          ],
+          [
+            107.6300813,
+            -6.9064755
+          ],
+          [
+            107.6300813,
+            -6.922359
+          ],
+          [
+            107.604046,
+            -6.922359
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "country": "Indonesia",
+    "country_code": "ID",
+    "full_name": "Sumurbandung, Indonesia",
+    "id": "574b9d7d1295c7b4",
+    "name": "Sumurbandung",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/574b9d7d1295c7b4.json"
+  },
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          38
+        ],
+        "text": "StreetPhotography"
+      },
+      {
+        "indices": [
+          39,
+          51
+        ],
+        "text": "UrbanFrames"
+      },
+      {
+        "indices": [
+          52,
+          75
+        ],
+        "text": "streetphotographersfnd"
+      },
+      {
+        "indices": [
+          76,
+          91
+        ],
+        "text": "canonindonesia"
+      },
+      {
+        "indices": [
+          92,
+          117
+        ],
+        "text": "BandungStreetPhotography"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 24,
+                "y": 1494
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 1010,
+                "y": 476
+              },
+              {
+                "h": 284,
+                "w": 284,
+                "x": 814,
+                "y": 1666
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 48,
+                "w": 48,
+                "x": 14,
+                "y": 875
+              },
+              {
+                "h": 131,
+                "w": 131,
+                "x": 591,
+                "y": 278
+              },
+              {
+                "h": 166,
+                "w": 166,
+                "x": 476,
+                "y": 975
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 24,
+                "y": 1494
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 1010,
+                "y": 476
+              },
+              {
+                "h": 284,
+                "w": 284,
+                "x": 814,
+                "y": 1666
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 7,
+                "y": 496
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 335,
+                "y": 158
+              },
+              {
+                "h": 94,
+                "w": 94,
+                "x": 270,
+                "y": 553
+              }
+            ]
+          }
+        },
+        "id_str": "2044705233750949889",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705233750949889",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705233750949889"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk6gbgAEv9Bc.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1637,
+              "x": 0,
+              "y": 411
+            },
+            {
+              "h": 1637,
+              "w": 1637,
+              "x": 0,
+              "y": 51
+            },
+            {
+              "h": 1866,
+              "w": 1637,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 357,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1637,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1637
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1637
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 959
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 1312,
+                "y": 128
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 39,
+                "w": 39,
+                "x": 768,
+                "y": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 1312,
+                "y": 128
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 22,
+                "w": 22,
+                "x": 435,
+                "y": 42
+              }
+            ]
+          }
+        },
+        "id_str": "2044705234224828416",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705234224828416",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705234224828416"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk8RaUAABWFY.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 821
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 410
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 181
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 51,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044705233541193730",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705233541193730",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705233541193730"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk5ua4AI96vB.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 545,
+              "w": 973,
+              "x": 0,
+              "y": 184
+            },
+            {
+              "h": 973,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1109,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1218,
+              "w": 609,
+              "x": 212,
+              "y": 0
+            },
+            {
+              "h": 1218,
+              "w": 973,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1218,
+          "width": 973
+        },
+        "sizes": {
+          "large": {
+            "h": 1218,
+            "resize": "fit",
+            "w": 973
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 959
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 543
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      },
+      {
+        "display_url": "pic.x.com/aXTsHmfLbh",
+        "expanded_url": "https://x.com/andika74/status/2044705237924250109/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044705234900209664",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "3_2044705234900209664",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044705234900209664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGBAk-yb0AAcV7m.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 514
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 153
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 39
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 255,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aXTsHmfLbh"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGBAk6gbgAEv9Bc.jpg",
+    "https://pbs.twimg.com/media/HGBAk8RaUAABWFY.jpg",
+    "https://pbs.twimg.com/media/HGBAk5ua4AI96vB.jpg",
+    "https://pbs.twimg.com/media/HGBAk-yb0AAcV7m.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044799024004252052",
+  "url": "https://x.com/VictorOnieva82/status/2044799024004252052",
+  "twitterUrl": "https://twitter.com/VictorOnieva82/status/2044799024004252052",
+  "text": "Venice\n\n#streetphotography @OfEarth8 @Futura_Noir @BebuCesco @Italia @streetphotofdn @ThePhotoHour @cameralab21 @wonceptual @archi_tradition @earthcurated @the_gpc_ @SonyAlpha @W0rld2026 @visiteurope @travolax @Italia @ItalyInTheHeart #hacerfotos https://t.co/390Sl0XREr",
+  "fullText": "Venice\n\n#streetphotography @OfEarth8 @Futura_Noir @BebuCesco @Italia @streetphotofdn @ThePhotoHour @cameralab21 @wonceptual @archi_tradition @earthcurated @the_gpc_ @SonyAlpha @W0rld2026 @visiteurope @travolax @Italia @ItalyInTheHeart #hacerfotos https://t.co/390Sl0XREr",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 19,
+  "createdAt": "Thu Apr 16 15:24:12 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044799024004252052",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "VictorOnieva82",
+    "url": "https://x.com/VictorOnieva82",
+    "twitterUrl": "https://twitter.com/VictorOnieva82",
+    "id": "2286849452",
+    "name": "Víctor Onieva Oñate",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1855397440746344448/xQD03jDc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2286849452/1663435613",
+    "description": "Fotografía de paisaje y paisaje urbano.\nPadre de dos ☀️.\nApasionado de las estrellas. \nMallorca, Illes Balears, España.",
+    "location": "Marratxí, España",
+    "followers": 429,
+    "following": 557,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 11 16:03:25 +0000 2014",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/victor.onieva_…",
+            "expanded_url": "https://www.instagram.com/victor.onieva_fotografia",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/9tFBwSTYl8"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19400,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 452,
+    "statusesCount": 4445,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2033156567005090095"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/390Sl0XREr",
+        "expanded_url": "https://x.com/VictorOnieva82/status/2044799024004252052/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              },
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 1010,
+                "y": 756
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 124,
+                "y": 1320
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 591,
+                "y": 443
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 72,
+                "y": 773
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 1010,
+                "y": 756
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 124,
+                "y": 1320
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 25,
+                "w": 25,
+                "x": 335,
+                "y": 251
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 41,
+                "y": 438
+              }
+            ]
+          }
+        },
+        "id_str": "2044799021009514496",
+        "indices": [
+          247,
+          270
+        ],
+        "media_key": "3_2044799021009514496",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044799021009514496"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCV4DRWsAAlrXN.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 924
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 410
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 181
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 255,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/390Sl0XREr"
+      },
+      {
+        "display_url": "pic.x.com/390Sl0XREr",
+        "expanded_url": "https://x.com/VictorOnieva82/status/2044799024004252052/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              },
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 83,
+                "w": 83,
+                "x": 205,
+                "y": 935
+              },
+              {
+                "h": 101,
+                "w": 101,
+                "x": 711,
+                "y": 1461
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 49,
+                "w": 49,
+                "x": 120,
+                "y": 548
+              },
+              {
+                "h": 59,
+                "w": 59,
+                "x": 417,
+                "y": 856
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 206,
+                "y": 938
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 714,
+                "y": 1466
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 68,
+                "y": 310
+              },
+              {
+                "h": 33,
+                "w": 33,
+                "x": 236,
+                "y": 485
+              }
+            ]
+          }
+        },
+        "id_str": "2044799020338475010",
+        "indices": [
+          247,
+          270
+        ],
+        "media_key": "3_2044799020338475010",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044799020338475010"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCV4AxXcAI0IVU.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 767,
+              "w": 1369,
+              "x": 0,
+              "y": 798
+            },
+            {
+              "h": 1369,
+              "w": 1369,
+              "x": 0,
+              "y": 497
+            },
+            {
+              "h": 1561,
+              "w": 1369,
+              "x": 0,
+              "y": 401
+            },
+            {
+              "h": 2054,
+              "w": 1027,
+              "x": 154,
+              "y": 0
+            },
+            {
+              "h": 2054,
+              "w": 1369,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2054,
+          "width": 1369
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/390Sl0XREr"
+      }
+    ]
+  },
+  "card": {},
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            12.1667704,
+            45.2304183
+          ],
+          [
+            12.1667704,
+            45.5779025
+          ],
+          [
+            12.5966178,
+            45.5779025
+          ],
+          [
+            12.5966178,
+            45.2304183
+          ],
+          [
+            12.1667704,
+            45.2304183
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "country": "Italy",
+    "country_code": "IT",
+    "full_name": "Venice, Veneto",
+    "id": "0af3b7ebabdf70af",
+    "name": "Venice",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0af3b7ebabdf70af.json"
+  },
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          8,
+          26
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          235,
+          246
+        ],
+        "text": "hacerfotos"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/390Sl0XREr",
+        "expanded_url": "https://x.com/VictorOnieva82/status/2044799024004252052/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              },
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 1010,
+                "y": 756
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 124,
+                "y": 1320
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 591,
+                "y": 443
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 72,
+                "y": 773
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 78,
+                "w": 78,
+                "x": 1010,
+                "y": 756
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 124,
+                "y": 1320
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 25,
+                "w": 25,
+                "x": 335,
+                "y": 251
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 41,
+                "y": 438
+              }
+            ]
+          }
+        },
+        "id_str": "2044799021009514496",
+        "indices": [
+          247,
+          270
+        ],
+        "media_key": "3_2044799021009514496",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044799021009514496"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCV4DRWsAAlrXN.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 917,
+              "w": 1638,
+              "x": 0,
+              "y": 924
+            },
+            {
+              "h": 1638,
+              "w": 1638,
+              "x": 0,
+              "y": 410
+            },
+            {
+              "h": 1867,
+              "w": 1638,
+              "x": 0,
+              "y": 181
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 255,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1638,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1638
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1638
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/390Sl0XREr"
+      },
+      {
+        "display_url": "pic.x.com/390Sl0XREr",
+        "expanded_url": "https://x.com/VictorOnieva82/status/2044799024004252052/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              },
+              {
+                "name": "CameraLab",
+                "screen_name": "cameralab21",
+                "type": "user",
+                "user_id": "2255946627"
+              },
+              {
+                "name": "Earth",
+                "screen_name": "earthcurated",
+                "type": "user",
+                "user_id": "1038150281794646017"
+              },
+              {
+                "name": "Italia.it",
+                "screen_name": "Italia",
+                "type": "user",
+                "user_id": "397920310"
+              },
+              {
+                "name": "Italy In The Heart",
+                "screen_name": "ItalyInTheHeart",
+                "type": "user",
+                "user_id": "1303218145826607104"
+              },
+              {
+                "name": "Visit Europe",
+                "screen_name": "visiteurope",
+                "type": "user",
+                "user_id": "19392297"
+              },
+              {
+                "name": "Wonceptual",
+                "screen_name": "wonceptual",
+                "type": "user",
+                "user_id": "4847410392"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 83,
+                "w": 83,
+                "x": 205,
+                "y": 935
+              },
+              {
+                "h": 101,
+                "w": 101,
+                "x": 711,
+                "y": 1461
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 49,
+                "w": 49,
+                "x": 120,
+                "y": 548
+              },
+              {
+                "h": 59,
+                "w": 59,
+                "x": 417,
+                "y": 856
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 84,
+                "w": 84,
+                "x": 206,
+                "y": 938
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 714,
+                "y": 1466
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 68,
+                "y": 310
+              },
+              {
+                "h": 33,
+                "w": 33,
+                "x": 236,
+                "y": 485
+              }
+            ]
+          }
+        },
+        "id_str": "2044799020338475010",
+        "indices": [
+          247,
+          270
+        ],
+        "media_key": "3_2044799020338475010",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044799020338475010"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGCV4AxXcAI0IVU.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 767,
+              "w": 1369,
+              "x": 0,
+              "y": 798
+            },
+            {
+              "h": 1369,
+              "w": 1369,
+              "x": 0,
+              "y": 497
+            },
+            {
+              "h": 1561,
+              "w": 1369,
+              "x": 0,
+              "y": 401
+            },
+            {
+              "h": 2054,
+              "w": 1027,
+              "x": 154,
+              "y": 0
+            },
+            {
+              "h": 2054,
+              "w": 1369,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2054,
+          "width": 1369
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/390Sl0XREr"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1537906562508894211",
+        "indices": [
+          27,
+          36
+        ],
+        "name": "Prime",
+        "screen_name": "OfEarth8"
+      },
+      {
+        "id_str": "1205558561943773189",
+        "indices": [
+          37,
+          49
+        ],
+        "name": "Futura",
+        "screen_name": "Futura_Noir"
+      },
+      {
+        "id_str": "743056743979225089",
+        "indices": [
+          50,
+          60
+        ],
+        "name": "Bebu",
+        "screen_name": "BebuCesco"
+      },
+      {
+        "id_str": "397920310",
+        "indices": [
+          61,
+          68
+        ],
+        "name": "Italia.it",
+        "screen_name": "Italia"
+      },
+      {
+        "id_str": "959124633038438401",
+        "indices": [
+          69,
+          84
+        ],
+        "name": "Street Photographers",
+        "screen_name": "streetphotofdn"
+      },
+      {
+        "id_str": "3291337947",
+        "indices": [
+          85,
+          98
+        ],
+        "name": "#ThePhotoHour",
+        "screen_name": "ThePhotoHour"
+      },
+      {
+        "id_str": "2255946627",
+        "indices": [
+          99,
+          111
+        ],
+        "name": "CameraLab",
+        "screen_name": "cameralab21"
+      },
+      {
+        "id_str": "4847410392",
+        "indices": [
+          112,
+          123
+        ],
+        "name": "Wonceptual",
+        "screen_name": "wonceptual"
+      },
+      {
+        "id_str": "898922311553822720",
+        "indices": [
+          124,
+          140
+        ],
+        "name": "Old World Explorer",
+        "screen_name": "archi_tradition"
+      },
+      {
+        "id_str": "1038150281794646017",
+        "indices": [
+          141,
+          154
+        ],
+        "name": "Earth",
+        "screen_name": "earthcurated"
+      },
+      {
+        "id_str": "1696093120255930368",
+        "indices": [
+          155,
+          164
+        ],
+        "name": "theglobalphotocommunity",
+        "screen_name": "the_gpc_"
+      },
+      {
+        "id_str": "19202616",
+        "indices": [
+          165,
+          175
+        ],
+        "name": "Sony | Alpha",
+        "screen_name": "SonyAlpha"
+      },
+      {
+        "id_str": "1263555193951657984",
+        "indices": [
+          176,
+          186
+        ],
+        "name": "WORLD 2026 🌊",
+        "screen_name": "W0rld2026"
+      },
+      {
+        "id_str": "19392297",
+        "indices": [
+          187,
+          199
+        ],
+        "name": "Visit Europe",
+        "screen_name": "visiteurope"
+      },
+      {
+        "id_str": "1554183784723058689",
+        "indices": [
+          200,
+          209
+        ],
+        "name": "Travolax | Always Traveling",
+        "screen_name": "travolax"
+      },
+      {
+        "id_str": "397920310",
+        "indices": [
+          210,
+          217
+        ],
+        "name": "Italia.it",
+        "screen_name": "Italia"
+      },
+      {
+        "id_str": "1303218145826607104",
+        "indices": [
+          218,
+          234
+        ],
+        "name": "Italy In The Heart",
+        "screen_name": "ItalyInTheHeart"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGCV4DRWsAAlrXN.jpg",
+    "https://pbs.twimg.com/media/HGCV4AxXcAI0IVU.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043579264709145003",
+  "url": "https://x.com/petkovic_b60165/status/2043579264709145003",
+  "twitterUrl": "https://twitter.com/petkovic_b60165/status/2043579264709145003",
+  "text": "So many history grains #streetphotography #retropresent #nostalgiarejected https://t.co/mqDLVoYhqj",
+  "fullText": "So many history grains #streetphotography #retropresent #nostalgiarejected https://t.co/mqDLVoYhqj",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 25,
+  "createdAt": "Mon Apr 13 06:37:19 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043579264709145003",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "petkovic_b60165",
+    "url": "https://x.com/petkovic_b60165",
+    "twitterUrl": "https://twitter.com/petkovic_b60165",
+    "id": "1708161422104940544",
+    "name": "Boro",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1751986491457236992/2sAi8s9f_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1708161422104940544/1714161028",
+    "description": "A supporter of DIY aesthetics, creativity without rules, surrealism over reality. Believe in freedom and truth.",
+    "location": "Verici, Republika Srpska",
+    "followers": 119,
+    "following": 190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 30 16:48:03 +0000 2023",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4548,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 5820,
+    "statusesCount": 7455,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 424,
+                "w": 424,
+                "x": 420,
+                "y": 142
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 248,
+                "w": 248,
+                "x": 246,
+                "y": 83
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 424,
+                "w": 424,
+                "x": 420,
+                "y": 142
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 140,
+                "w": 140,
+                "x": 139,
+                "y": 47
+              }
+            ]
+          }
+        },
+        "id_str": "2043579259105775616",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579259105775616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579259105775616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgkFbEAAaiID.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1184
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 518,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 122,
+                "w": 122,
+                "x": 1172,
+                "y": 1300
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 687,
+                "y": 762
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 122,
+                "w": 122,
+                "x": 1172,
+                "y": 1300
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 389,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2043579250876510208",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579250876510208",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579250876510208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgFbacAA0IbJ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1154
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043579258618966016",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579258618966016",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579258618966016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgiRW8AAoyMC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1154
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 324,
+                "y": 594
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 189,
+                "y": 348
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 324,
+                "y": 594
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 107,
+                "y": 197
+              }
+            ]
+          }
+        },
+        "id_str": "2043579261030977537",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579261030977537",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579261030977537"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgrQbUAEX5fk.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1184
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          23,
+          41
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          42,
+          55
+        ],
+        "text": "retropresent"
+      },
+      {
+        "indices": [
+          56,
+          74
+        ],
+        "text": "nostalgiarejected"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 424,
+                "w": 424,
+                "x": 420,
+                "y": 142
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 248,
+                "w": 248,
+                "x": 246,
+                "y": 83
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 424,
+                "w": 424,
+                "x": 420,
+                "y": 142
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 140,
+                "w": 140,
+                "x": 139,
+                "y": 47
+              }
+            ]
+          }
+        },
+        "id_str": "2043579259105775616",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579259105775616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579259105775616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgkFbEAAaiID.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1184
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 518,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 122,
+                "w": 122,
+                "x": 1172,
+                "y": 1300
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 71,
+                "w": 71,
+                "x": 687,
+                "y": 762
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 122,
+                "w": 122,
+                "x": 1172,
+                "y": 1300
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 40,
+                "w": 40,
+                "x": 389,
+                "y": 431
+              }
+            ]
+          }
+        },
+        "id_str": "2043579250876510208",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579250876510208",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579250876510208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgFbacAA0IbJ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1154
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043579258618966016",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579258618966016",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579258618966016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgiRW8AAoyMC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1154
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      },
+      {
+        "display_url": "pic.x.com/mqDLVoYhqj",
+        "expanded_url": "https://x.com/petkovic_b60165/status/2043579264709145003/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 324,
+                "y": 594
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 53,
+                "w": 53,
+                "x": 189,
+                "y": 348
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 324,
+                "y": 594
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 30,
+                "w": 30,
+                "x": 107,
+                "y": 197
+              }
+            ]
+          }
+        },
+        "id_str": "2043579261030977537",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2043579261030977537",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043579261030977537"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFxAgrQbUAEX5fk.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 864,
+              "w": 1542,
+              "x": 0,
+              "y": 1184
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 0,
+              "y": 506
+            },
+            {
+              "h": 1758,
+              "w": 1542,
+              "x": 0,
+              "y": 290
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1542,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1542
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1542
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 904
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 512
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mqDLVoYhqj"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFxAgkFbEAAaiID.jpg",
+    "https://pbs.twimg.com/media/HFxAgFbacAA0IbJ.jpg",
+    "https://pbs.twimg.com/media/HFxAgiRW8AAoyMC.jpg",
+    "https://pbs.twimg.com/media/HFxAgrQbUAEX5fk.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043298408459543013",
+  "url": "https://x.com/shisennokaseki/status/2043298408459543013",
+  "twitterUrl": "https://twitter.com/shisennokaseki/status/2043298408459543013",
+  "text": "from the world's end.\n\n#streetphotography \n#路上写真 #視線ノ化石 https://t.co/99O7mNX0Ic",
+  "fullText": "from the world's end.\n\n#streetphotography \n#路上写真 #視線ノ化石 https://t.co/99O7mNX0Ic",
+  "source": "Twitter for Android",
+  "retweetCount": 5,
+  "replyCount": 1,
+  "likeCount": 51,
+  "quoteCount": 0,
+  "viewCount": 536,
+  "createdAt": "Sun Apr 12 12:01:17 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2043298408459543013",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "shisennokaseki",
+    "url": "https://x.com/shisennokaseki",
+    "twitterUrl": "https://twitter.com/shisennokaseki",
+    "id": "1079399811751657472",
+    "name": "須能 九郎/snow crow",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1162940147370881024/fkBhZgOH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1079399811751657472/1754622110",
+    "description": "取るに足らない私的な #視線ノ化石\n\nHe said, the place where you are if you had a camera is a world's end.",
+    "followers": 445,
+    "following": 223,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 30 15:32:24 +0000 2018",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21280,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2399,
+    "statusesCount": 2776,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/99O7mNX0Ic",
+        "expanded_url": "https://x.com/shisennokaseki/status/2043298408459543013/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 862,
+                "y": 618
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 63,
+                "w": 63,
+                "x": 505,
+                "y": 362
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 862,
+                "y": 618
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 286,
+                "y": 205
+              }
+            ]
+          }
+        },
+        "id_str": "2043298374737387520",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "3_2043298374737387520",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043298374737387520"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtBC8Ra4AAO2TB.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 764,
+              "w": 1365,
+              "x": 0,
+              "y": 898
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 0,
+              "y": 598
+            },
+            {
+              "h": 1556,
+              "w": 1365,
+              "x": 0,
+              "y": 492
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1365
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/99O7mNX0Ic"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          23,
+          41
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          43,
+          48
+        ],
+        "text": "路上写真"
+      },
+      {
+        "indices": [
+          49,
+          55
+        ],
+        "text": "視線ノ化石"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/99O7mNX0Ic",
+        "expanded_url": "https://x.com/shisennokaseki/status/2043298408459543013/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 862,
+                "y": 618
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 63,
+                "w": 63,
+                "x": 505,
+                "y": 362
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 108,
+                "w": 108,
+                "x": 862,
+                "y": 618
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 286,
+                "y": 205
+              }
+            ]
+          }
+        },
+        "id_str": "2043298374737387520",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "3_2043298374737387520",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043298374737387520"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFtBC8Ra4AAO2TB.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 764,
+              "w": 1365,
+              "x": 0,
+              "y": 898
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 0,
+              "y": 598
+            },
+            {
+              "h": 1556,
+              "w": 1365,
+              "x": 0,
+              "y": 492
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 153,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1365,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1365
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1365
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/99O7mNX0Ic"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFtBC8Ra4AAO2TB.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2042247312680931442",
+  "url": "https://x.com/93DWTW/status/2042247312680931442",
+  "twitterUrl": "https://twitter.com/93DWTW/status/2042247312680931442",
+  "text": "above quiet water.\n\n#gent #belgium #streetphotography #lofistreet #monochrome https://t.co/s1hpu1WKiX",
+  "fullText": "above quiet water.\n\n#gent #belgium #streetphotography #lofistreet #monochrome https://t.co/s1hpu1WKiX",
+  "source": "Twitter for Android",
+  "retweetCount": 9,
+  "replyCount": 0,
+  "likeCount": 105,
+  "quoteCount": 0,
+  "viewCount": 599,
+  "createdAt": "Thu Apr 09 14:24:37 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2042247312680931442",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "93DWTW",
+    "url": "https://x.com/93DWTW",
+    "twitterUrl": "https://twitter.com/93DWTW",
+    "id": "1469955161930051585",
+    "name": "panthera.streets",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2011693460659847168/K9Q6okZu_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1469955161930051585/1772294556",
+    "description": "👁 documenting the unnoticed\n⚫️ street life in black & white\n⚜️ ⁹³, ⁹³/⁹³ 🄳🅆🅃🅆\n📍 Belgium",
+    "location": "Belgium",
+    "followers": 2137,
+    "following": 1356,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 12 09:00:24 +0000 2021",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "streetphotographyfrance.fr/panthera-stree…",
+            "expanded_url": "https://streetphotographyfrance.fr/panthera-streets",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/W94MXdXOaF"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 253609,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 17568,
+    "statusesCount": 26512,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2011692946236850615"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 552,
+          "name": "Photographer"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1904839615325905012"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/s1hpu1WKiX",
+        "expanded_url": "https://x.com/93DWTW/status/2042247312680931442/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042247309610594305",
+        "indices": [
+          78,
+          101
+        ],
+        "media_key": "3_2042247309610594305",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042247309610594305"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFeFG5jWMAEFDy2.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 1188
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 297
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/s1hpu1WKiX"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          25
+        ],
+        "text": "gent"
+      },
+      {
+        "indices": [
+          26,
+          34
+        ],
+        "text": "belgium"
+      },
+      {
+        "indices": [
+          35,
+          53
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          54,
+          65
+        ],
+        "text": "lofistreet"
+      },
+      {
+        "indices": [
+          66,
+          77
+        ],
+        "text": "monochrome"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/s1hpu1WKiX",
+        "expanded_url": "https://x.com/93DWTW/status/2042247312680931442/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2042247309610594305",
+        "indices": [
+          78,
+          101
+        ],
+        "media_key": "3_2042247309610594305",
+        "media_results": {
+          "result": {
+            "media_key": "3_2042247309610594305"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFeFG5jWMAEFDy2.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 1188
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 512
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 297
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/s1hpu1WKiX"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFeFG5jWMAEFDy2.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044428952001753165",
+  "url": "https://x.com/93DWTW/status/2044428952001753165",
+  "twitterUrl": "https://twitter.com/93DWTW/status/2044428952001753165",
+  "text": "forward motion.\n\n#gent #belgium #streetphotography #lofistreet #monochrome https://t.co/HT6nQwmfML",
+  "fullText": "forward motion.\n\n#gent #belgium #streetphotography #lofistreet #monochrome https://t.co/HT6nQwmfML",
+  "source": "Twitter for Android",
+  "retweetCount": 5,
+  "replyCount": 0,
+  "likeCount": 53,
+  "quoteCount": 0,
+  "viewCount": 335,
+  "createdAt": "Wed Apr 15 14:53:40 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2044428952001753165",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "93DWTW",
+    "url": "https://x.com/93DWTW",
+    "twitterUrl": "https://twitter.com/93DWTW",
+    "id": "1469955161930051585",
+    "name": "panthera.streets",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2011693460659847168/K9Q6okZu_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1469955161930051585/1772294556",
+    "description": "👁 documenting the unnoticed\n⚫️ street life in black & white\n⚜️ ⁹³, ⁹³/⁹³ 🄳🅆🅃🅆\n📍 Belgium",
+    "location": "Belgium",
+    "followers": 2137,
+    "following": 1356,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 12 09:00:24 +0000 2021",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "streetphotographyfrance.fr/panthera-stree…",
+            "expanded_url": "https://streetphotographyfrance.fr/panthera-streets",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/W94MXdXOaF"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 253609,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 17568,
+    "statusesCount": 26512,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2011692946236850615"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 552,
+          "name": "Photographer"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1904839615325905012"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/HT6nQwmfML",
+        "expanded_url": "https://x.com/93DWTW/status/2044428952001753165/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044428947996254208",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2044428947996254208",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044428947996254208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF9FS93XoAA8eDo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 542
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 204
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 97
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/HT6nQwmfML"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          22
+        ],
+        "text": "gent"
+      },
+      {
+        "indices": [
+          23,
+          31
+        ],
+        "text": "belgium"
+      },
+      {
+        "indices": [
+          32,
+          50
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          51,
+          62
+        ],
+        "text": "lofistreet"
+      },
+      {
+        "indices": [
+          63,
+          74
+        ],
+        "text": "monochrome"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/HT6nQwmfML",
+        "expanded_url": "https://x.com/93DWTW/status/2044428952001753165/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2044428947996254208",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_2044428947996254208",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044428947996254208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HF9FS93XoAA8eDo.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 542
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 204
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 97
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/HT6nQwmfML"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HF9FS93XoAA8eDo.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043778772617359658",
+  "url": "https://x.com/colinesss/status/2043778772617359658",
+  "twitterUrl": "https://twitter.com/colinesss/status/2043778772617359658",
+  "text": "In music\n#Street #blackandwhite #streetphotography #Paris #pascalcolin #canon #50mm https://t.co/soAoXhU0Us",
+  "fullText": "In music\n#Street #blackandwhite #streetphotography #Paris #pascalcolin #canon #50mm https://t.co/soAoXhU0Us",
+  "source": "Twitter for Android",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 67,
+  "quoteCount": 0,
+  "viewCount": 443,
+  "createdAt": "Mon Apr 13 19:50:05 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2043778772617359658",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "colinesss",
+    "url": "https://x.com/colinesss",
+    "twitterUrl": "https://twitter.com/colinesss",
+    "id": "120265046",
+    "name": "pascal colin",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/808451944981340160/j5ZcsAKf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/120265046/1481584709",
+    "description": "Streetphotography\nhttps://t.co/6nbpRGBwdG.\nhttps://t.co/EESTMr6Q9y\nhttps://t.co/HL5u3ZK14m",
+    "location": "PARIS 13",
+    "followers": 19559,
+    "following": 9738,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 05 23:22:10 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "streetphotographyfrance.fr/boutique/sur-l…",
+            "expanded_url": "https://streetphotographyfrance.fr/boutique/sur-le-reflet/",
+            "indices": [
+              18,
+              41
+            ],
+            "url": "https://t.co/6nbpRGBwdG"
+          },
+          {
+            "display_url": "instagram.com/pascalcolinstr…",
+            "expanded_url": "http://instagram.com/pascalcolinstreet",
+            "indices": [
+              43,
+              66
+            ],
+            "url": "https://t.co/EESTMr6Q9y"
+          },
+          {
+            "display_url": "ciel-villeetnature.e-monsite.com",
+            "expanded_url": "http://ciel-villeetnature.e-monsite.com",
+            "indices": [
+              67,
+              90
+            ],
+            "url": "https://t.co/HL5u3ZK14m"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCuW2L…",
+            "expanded_url": "https://www.youtube.com/channel/UCuW2LMJEU57M7Z_F2gY30eQ",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/MKWBrb9jIi"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 816500,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 2465,
+    "statusesCount": 5228,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1738183549746843747"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/soAoXhU0Us",
+        "expanded_url": "https://x.com/colinesss/status/2043778772617359658/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043778770700578816",
+        "indices": [
+          84,
+          107
+        ],
+        "media_key": "3_2043778770700578816",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043778770700578816"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFz19qsXsAA85nq.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 92
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 393,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 1197,
+              "x": 477,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 683,
+              "x": 734,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1365,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/soAoXhU0Us"
+      }
+    ]
+  },
+  "card": {},
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            2.2241006,
+            48.8155214
+          ],
+          [
+            2.2241006,
+            48.9021461
+          ],
+          [
+            2.4699053,
+            48.9021461
+          ],
+          [
+            2.4699053,
+            48.8155214
+          ],
+          [
+            2.2241006,
+            48.8155214
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "country": "France",
+    "country_code": "FR",
+    "full_name": "Paris, Ile-de-France",
+    "id": "3102b24b5af90698",
+    "name": "Paris",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/3102b24b5af90698.json"
+  },
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          9,
+          16
+        ],
+        "text": "Street"
+      },
+      {
+        "indices": [
+          17,
+          31
+        ],
+        "text": "blackandwhite"
+      },
+      {
+        "indices": [
+          32,
+          50
+        ],
+        "text": "streetphotography"
+      },
+      {
+        "indices": [
+          51,
+          57
+        ],
+        "text": "Paris"
+      },
+      {
+        "indices": [
+          58,
+          70
+        ],
+        "text": "pascalcolin"
+      },
+      {
+        "indices": [
+          71,
+          77
+        ],
+        "text": "canon"
+      },
+      {
+        "indices": [
+          78,
+          83
+        ],
+        "text": "50mm"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/soAoXhU0Us",
+        "expanded_url": "https://x.com/colinesss/status/2043778772617359658/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2043778770700578816",
+        "indices": [
+          84,
+          107
+        ],
+        "media_key": "3_2043778770700578816",
+        "media_results": {
+          "result": {
+            "media_key": "3_2043778770700578816"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HFz19qsXsAA85nq.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 92
+            },
+            {
+              "h": 1365,
+              "w": 1365,
+              "x": 393,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 1197,
+              "x": 477,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 683,
+              "x": 734,
+              "y": 0
+            },
+            {
+              "h": 1365,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1365,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 1365,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/soAoXhU0Us"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HFz19qsXsAA85nq.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044400356210389017",
+  "url": "https://x.com/hykw_photo/status/2044400356210389017",
+  "twitterUrl": "https://twitter.com/hykw_photo/status/2044400356210389017",
+  "text": "Back Number@2025-04-15\n\n#streetphotography",
+  "fullText": "Back Number@2025-04-15\n\n#streetphotography",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 150,
+  "createdAt": "Wed Apr 15 13:00:02 +0000 2026",
+  "lang": "en",
+  "quoteId": "1911917387315843126",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044400356210389017",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "hykw_photo",
+    "url": "https://x.com/hykw_photo",
+    "twitterUrl": "https://twitter.com/hykw_photo",
+    "id": "1589838118856716290",
+    "name": "𝐀𝐤𝐢𝐫𝐚.𝐇𝐚𝐲𝐚𝐤𝐚𝐰𝐚＠毎日写真投稿中！",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1589844374996729856/7fUSnG27_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1589838118856716290/1672565493",
+    "description": "日々薄れていく記憶を写真で記録するがテーマのお散歩Photographer。\n  \n地元 東京都小金井市を中心に中央線・山手線沿線をフラフラと徘徊しながら#streetphotography 。\n活動時間はわりと深夜が多め。\n最初の愛機はAE-1で生粋のCanon党、絞りやズームは反時計回りじゃないと気持ち悪いのです。",
+    "location": "Koganei City, Tokyo, JAPAN",
+    "followers": 3037,
+    "following": 1428,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Nov 08 04:32:07 +0000 2022",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 144353,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5351,
+    "statusesCount": 7952,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2039129754583142650"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 552,
+          "name": "Photographer"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1618990141573591042"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          24,
+          42
+        ],
+        "text": "streetphotography"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1911917387315843126",
+    "text": "夜道を照らす・・・\n東京都小金井市の貫井北町あたりをフラフラと。\n \nCanon EOS R7\nCanon EF50 F1.4 USM\n \n#streetphotography https://t.co/ucOj2kPVjz",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 21,
+    "quoteCount": 1,
+    "viewCount": 586,
+    "createdAt": "Mon Apr 14 23:00:01 +0000 2025",
+    "lang": "ja",
+    "bookmarkCount": 0,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "hykw_photo",
+      "url": "https://x.com/hykw_photo",
+      "twitterUrl": "https://twitter.com/hykw_photo",
+      "id": "1589838118856716290",
+      "name": "𝐀𝐤𝐢𝐫𝐚.𝐇𝐚𝐲𝐚𝐤𝐚𝐰𝐚＠毎日写真投稿中！",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1589844374996729856/7fUSnG27_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1589838118856716290/1672565493",
+      "description": "日々薄れていく記憶を写真で記録するがテーマのお散歩Photographer。\n  \n地元 東京都小金井市を中心に中央線・山手線沿線をフラフラと徘徊しながら#streetphotography 。\n活動時間はわりと深夜が多め。\n最初の愛機はAE-1で生粋のCanon党、絞りやズームは反時計回りじゃないと気持ち悪いのです。",
+      "location": "Koganei City, Tokyo, JAPAN",
+      "followers": 3037,
+      "following": 1428,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Tue Nov 08 04:32:07 +0000 2022",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 144353,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 5351,
+      "statusesCount": 7952,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2039129754583142650"
+      ],
+      "professional": {
+        "category": [
+          {
+            "icon_name": "IconBriefcaseStroke",
+            "id": 552,
+            "name": "Photographer"
+          }
+        ],
+        "professional_type": "Creator",
+        "rest_id": "1618990141573591042"
+      }
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 1575,
+                  "y": 687
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 923,
+                  "y": 402
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 2308,
+                  "y": 1007
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 523,
+                  "y": 228
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526905356288",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526905356288",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526905356288"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIgWgAAeezl.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 125,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 248,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 625,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 1611,
+                  "y": 761
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 944,
+                  "y": 446
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 125,
+                  "w": 125,
+                  "x": 2361,
+                  "y": 1116
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 535,
+                  "y": 252
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526871830528",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526871830528",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526871830528"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIYW8AADJ6E.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 725,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 848,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 1225,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 105,
+                  "w": 105,
+                  "x": 1839,
+                  "y": 213
+                },
+                {
+                  "h": 153,
+                  "w": 153,
+                  "x": 469,
+                  "y": 585
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 1078,
+                  "y": 125
+                },
+                {
+                  "h": 90,
+                  "w": 90,
+                  "x": 275,
+                  "y": 343
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 155,
+                  "w": 155,
+                  "x": 2695,
+                  "y": 313
+                },
+                {
+                  "h": 225,
+                  "w": 225,
+                  "x": 688,
+                  "y": 858
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 610,
+                  "y": 70
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 155,
+                  "y": 194
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526976692224",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526976692224",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526976692224"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIxXAAAYTrM.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 125,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 248,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 625,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 1079,
+                  "y": 777
+                },
+                {
+                  "h": 327,
+                  "w": 327,
+                  "x": 1343,
+                  "y": 433
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 632,
+                  "y": 455
+                },
+                {
+                  "h": 192,
+                  "w": 192,
+                  "x": 787,
+                  "y": 254
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 208,
+                  "w": 208,
+                  "x": 1582,
+                  "y": 1139
+                },
+                {
+                  "h": 480,
+                  "w": 480,
+                  "x": 1968,
+                  "y": 635
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 358,
+                  "y": 258
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 446,
+                  "y": 143
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526897033216",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526897033216",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526897033216"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIeXgAAOpDK.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 285
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 1000,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 1246,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 1825,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            70,
+            88
+          ],
+          "text": "streetphotography"
+        }
+      ],
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 1575,
+                  "y": 687
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 923,
+                  "y": 402
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 2308,
+                  "y": 1007
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 523,
+                  "y": 228
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526905356288",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526905356288",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526905356288"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIgWgAAeezl.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 125,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 248,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 625,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 1611,
+                  "y": 761
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 944,
+                  "y": 446
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 125,
+                  "w": 125,
+                  "x": 2361,
+                  "y": 1116
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 535,
+                  "y": 252
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526871830528",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526871830528",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526871830528"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIYW8AADJ6E.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 725,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 848,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 1225,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 105,
+                  "w": 105,
+                  "x": 1839,
+                  "y": 213
+                },
+                {
+                  "h": 153,
+                  "w": 153,
+                  "x": 469,
+                  "y": 585
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 1078,
+                  "y": 125
+                },
+                {
+                  "h": 90,
+                  "w": 90,
+                  "x": 275,
+                  "y": 343
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 155,
+                  "w": 155,
+                  "x": 2695,
+                  "y": 313
+                },
+                {
+                  "h": 225,
+                  "w": 225,
+                  "x": 688,
+                  "y": 858
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 610,
+                  "y": 70
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 155,
+                  "y": 194
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526976692224",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526976692224",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526976692224"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIxXAAAYTrM.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 125,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 248,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 625,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/ucOj2kPVjz",
+          "expanded_url": "https://x.com/hykw_photo/status/1911917387315843126/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 1079,
+                  "y": 777
+                },
+                {
+                  "h": 327,
+                  "w": 327,
+                  "x": 1343,
+                  "y": 433
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 632,
+                  "y": 455
+                },
+                {
+                  "h": 192,
+                  "w": 192,
+                  "x": 787,
+                  "y": 254
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 208,
+                  "w": 208,
+                  "x": 1582,
+                  "y": 1139
+                },
+                {
+                  "h": 480,
+                  "w": 480,
+                  "x": 1968,
+                  "y": 635
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 358,
+                  "y": 258
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 446,
+                  "y": 143
+                }
+              ]
+            }
+          },
+          "id_str": "1911869526897033216",
+          "indices": [
+            89,
+            112
+          ],
+          "media_key": "3_1911869526897033216",
+          "media_results": {
+            "result": {
+              "media_key": "3_1911869526897033216"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GohTNIeXgAAOpDK.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1680,
+                "w": 3000,
+                "x": 0,
+                "y": 285
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 1000,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 1246,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 1825,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 3000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 3000
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucOj2kPVjz"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2044681696474464757",
+  "url": "https://x.com/Imagein8/status/2044681696474464757",
+  "twitterUrl": "https://twitter.com/Imagein8/status/2044681696474464757",
+  "text": "Submarine, yet not really! 📸 streetartporn \n#StreetArt #UrbanArt #StreetPhotography #ArtInPublic https://t.co/Vg2geUTNGv",
+  "fullText": "Submarine, yet not really! 📸 streetartporn \n#StreetArt #UrbanArt #StreetPhotography #ArtInPublic https://t.co/Vg2geUTNGv",
+  "source": "Post Planner App",
+  "retweetCount": 4,
+  "replyCount": 1,
+  "likeCount": 24,
+  "quoteCount": 0,
+  "viewCount": 183,
+  "createdAt": "Thu Apr 16 07:37:59 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2044681696474464757",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Imagein8",
+    "url": "https://x.com/Imagein8",
+    "twitterUrl": "https://twitter.com/Imagein8",
+    "id": "1319430305581731840",
+    "name": "Image.in",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1733248245684748288/0nukXH9F_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1319430305581731840/1761995793",
+    "description": "All things #Creative\n#Art #Painting #Photography #StreetPhoto #StreetArt #Advt. #Market #Design  \nDM 4 credit/inclusion of content",
+    "location": "Auckland. NZ",
+    "followers": 13215,
+    "following": 11249,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 23 00:09:11 +0000 2020",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44717,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6271,
+    "statusesCount": 25274,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1343781896971403266"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 934,
+          "name": "Social Media Influencer"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1622201704489041920"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Vg2geUTNGv",
+        "expanded_url": "https://x.com/Imagein8/status/2044681696474464757/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 207,
+                "w": 207,
+                "x": 1261,
+                "y": 1459
+              },
+              {
+                "h": 325,
+                "w": 325,
+                "x": 1059,
+                "y": 599
+              },
+              {
+                "h": 443,
+                "w": 443,
+                "x": 1034,
+                "y": 1134
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 739,
+                "y": 855
+              },
+              {
+                "h": 190,
+                "w": 190,
+                "x": 620,
+                "y": 351
+              },
+              {
+                "h": 260,
+                "w": 260,
+                "x": 605,
+                "y": 664
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 469,
+                "w": 469,
+                "x": 2851,
+                "y": 3298
+              },
+              {
+                "h": 736,
+                "w": 736,
+                "x": 2394,
+                "y": 1355
+              },
+              {
+                "h": 1003,
+                "w": 1003,
+                "x": 2336,
+                "y": 2562
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 419,
+                "y": 484
+              },
+              {
+                "h": 108,
+                "w": 108,
+                "x": 351,
+                "y": 199
+              },
+              {
+                "h": 147,
+                "w": 147,
+                "x": 343,
+                "y": 376
+              }
+            ]
+          }
+        },
+        "id_str": "2044681689503551488",
+        "indices": [
+          97,
+          120
+        ],
+        "media_key": "3_2044681689503551488",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044681689503551488"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGArKdWa0AAho-t.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1943,
+              "w": 3470,
+              "x": 0,
+              "y": 1458
+            },
+            {
+              "h": 3470,
+              "w": 3470,
+              "x": 0,
+              "y": 694
+            },
+            {
+              "h": 3956,
+              "w": 3470,
+              "x": 0,
+              "y": 451
+            },
+            {
+              "h": 4627,
+              "w": 2314,
+              "x": 346,
+              "y": 0
+            },
+            {
+              "h": 4627,
+              "w": 3470,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4627,
+          "width": 3470
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Vg2geUTNGv"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          44,
+          54
+        ],
+        "text": "StreetArt"
+      },
+      {
+        "indices": [
+          55,
+          64
+        ],
+        "text": "UrbanArt"
+      },
+      {
+        "indices": [
+          65,
+          83
+        ],
+        "text": "StreetPhotography"
+      },
+      {
+        "indices": [
+          84,
+          96
+        ],
+        "text": "ArtInPublic"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/Vg2geUTNGv",
+        "expanded_url": "https://x.com/Imagein8/status/2044681696474464757/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 207,
+                "w": 207,
+                "x": 1261,
+                "y": 1459
+              },
+              {
+                "h": 325,
+                "w": 325,
+                "x": 1059,
+                "y": 599
+              },
+              {
+                "h": 443,
+                "w": 443,
+                "x": 1034,
+                "y": 1134
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 739,
+                "y": 855
+              },
+              {
+                "h": 190,
+                "w": 190,
+                "x": 620,
+                "y": 351
+              },
+              {
+                "h": 260,
+                "w": 260,
+                "x": 605,
+                "y": 664
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 469,
+                "w": 469,
+                "x": 2851,
+                "y": 3298
+              },
+              {
+                "h": 736,
+                "w": 736,
+                "x": 2394,
+                "y": 1355
+              },
+              {
+                "h": 1003,
+                "w": 1003,
+                "x": 2336,
+                "y": 2562
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 68,
+                "w": 68,
+                "x": 419,
+                "y": 484
+              },
+              {
+                "h": 108,
+                "w": 108,
+                "x": 351,
+                "y": 199
+              },
+              {
+                "h": 147,
+                "w": 147,
+                "x": 343,
+                "y": 376
+              }
+            ]
+          }
+        },
+        "id_str": "2044681689503551488",
+        "indices": [
+          97,
+          120
+        ],
+        "media_key": "3_2044681689503551488",
+        "media_results": {
+          "result": {
+            "media_key": "3_2044681689503551488"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HGArKdWa0AAho-t.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1943,
+              "w": 3470,
+              "x": 0,
+              "y": 1458
+            },
+            {
+              "h": 3470,
+              "w": 3470,
+              "x": 0,
+              "y": 694
+            },
+            {
+              "h": 3956,
+              "w": 3470,
+              "x": 0,
+              "y": 451
+            },
+            {
+              "h": 4627,
+              "w": 2314,
+              "x": 346,
+              "y": 0
+            },
+            {
+              "h": 4627,
+              "w": 3470,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 4627,
+          "width": 3470
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Vg2geUTNGv"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HGArKdWa0AAho-t.jpg"
+  ],
+  "isConversationControlled": false
+}]

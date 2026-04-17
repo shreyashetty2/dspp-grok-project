@@ -1,0 +1,186 @@
+Loading data from data/processed/all_posts.csv...
+Loaded 800 posts.
+
+=== AI Detection Summary ===
+Total posts:      800
+AI-generated:     800 (100.0%)
+
+Detection methods used:
+detection_method
+pre_labeled    800
+
+Mean confidence by method:
+detection_method
+pre_labeled    1.0
+
+Saved classified data → data/processed/classified_posts.csv
+Loading data from data/processed/all_posts.csv...
+Loaded 800 posts.
+
+=== Building bipartite network ===
+Bipartite graph: 999 nodes, 1768 edges
+
+=== Building account projection ===
+Account projection: 774 nodes, 84776 edges
+
+=== Detecting communities ===
+[Louvain] Detected 3 communities.
+
+=== Computing statistics ===
+
+=== Centralization Results ===
+  gini_coefficient: 0.1904
+  top10_degree_share: 0.1616
+  network_density: 0.283389
+  n_nodes: 774
+  n_edges: 84776
+  n_communities: 3
+  structure: Decentralized (peer-to-peer)
+
+=== Top 10 accounts by betweenness centrality ===
+       username  degree  betweenness  community  followers
+  synuser_48895       5     0.242551          0        960
+  synuser_63781       3     0.106556          2        749
+      ReviewAI_      14     0.044764          0          8
+Gyanendra844522       3     0.039398          0         19
+       steto123       3     0.039398          0        242
+ boiledkeyboard       5     0.005416          2        586
+   thisisavatar       6     0.005341          2         20
+   ashay_pallav       5     0.002111          0         31
+  synuser_28402       3     0.002003          2        743
+  synuser_23742       3     0.002003          2        686
+
+=== Top 15 hashtags ===
+           hashtag  accounts_using  total_uses
+         #portrait             178         179
+       #digitalart             155         156
+             #nsfw             143         143
+ #artistsontwitter             142         142
+      #photography             134         141
+   #syntheticmedia             135         135
+        #grokimage             128         135
+           #grokai             126         130
+      #aigenerated             124         124
+            #aiart             124         124
+       #deepfakeai             112         112
+             #grok               4          14
+              #art              10          14
+     #illustration               9          13
+#streetphotography               9          10
+
+=== Plotting ===
+[Plot] Network graph → outputs/figures/network_bipartite.png
+[Plot] Degree distribution → outputs/figures/degree_distribution.png
+
+Network analysis complete.
+Loading data from data/processed/all_posts.csv...
+Loaded 800 posts.
+
+=== Preparing features ===
+Prepared dataset: 800 posts (400 treated, 400 control)
+
+=== Estimating propensity scores ===
+[PSM] Propensity score range: 0.064 – 0.890
+
+=== Matching samples ===
+[PSM] Matched 218 pairs (218 treated + 218 control).
+
+=== Covariate Balance After PSM ===
+Covariate                   Treated Mean   Control Mean      SMD
+-----------------------------------------------------------------
+log_followers                     6.4170         6.4165   0.001 ✓
+log_account_age                   7.1075         7.1383  -0.026 ✓
+has_media_int                     0.7431         0.7385   0.010 ✓
+hour_of_day                       0.8670         0.7752   0.030 ✓
+(SMD < 0.1 indicates good balance)
+
+=== T-tests on matched sample ===
+
+  log_views:
+    AI-gen mean:  3.2219
+    Human mean:   3.0342
+    Difference:   +6.2%
+    t=2.797, p=0.0054 [SIGNIFICANT]
+    Cohen's d:    0.268
+
+  log_engagement_total:
+    AI-gen mean:  0.8832
+    Human mean:   0.8567
+    Difference:   +3.1%
+    t=0.270, p=0.7871 [not significant]
+    Cohen's d:    0.026
+
+  engagement_rate:
+    AI-gen mean:  0.1112
+    Human mean:   0.1073
+    Difference:   +3.6%
+    t=0.282, p=0.7782 [not significant]
+    Cohen's d:    0.027
+
+=== OLS Regressions ===
+
+  Outcome: log_views
+    Treat coef: 0.1771 (SE=0.0603, p=0.0035) **
+    R² = 0.2141, N = 436
+[Plot] Regression coefficients → outputs/figures/regression_coef_views.png
+
+  Outcome: log_engagement_total
+    Treat coef: 0.0174 (SE=0.0956, p=0.8555) 
+    R² = 0.0572, N = 436
+
+  Outcome: engagement_rate
+    Treat coef: 0.0040 (SE=0.0137, p=0.7721) 
+    R² = 0.0056, N = 436
+
+=== Visualizations ===
+[Plot] Violin plot → outputs/figures/engagement_violin.png
+
+✓ Engagement analysis complete.
+
+╔══════════════════════════════════════════════════════════╗
+║  AI-NCII on X: Full Analysis Pipeline                   ║
+║  Data Science & Public Policy  Spring 2026              ║
+║  Mode: INGEST                                             ║
+║  Skip step 1: True                                        ║
+║  Started: 2026-04-17 04:12:18:<49║
+╚══════════════════════════════════════════════════════════╝
+
+
+[--skip-scrape] Skipping ingestion — using existing data/processed/all_posts.csv
+  Found 800 posts — proceeding to analysis.
+
+============================================================
+  STEP: Classify posts as AI-generated vs human-created
+  CMD:  "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3" 02_ai_detection.py --input data/processed/all_posts.csv --output data/processed/classified_posts.csv
+  TIME: 04:12:19
+============================================================
+  Done at 04:12:19
+
+============================================================
+  STEP: Build account-hashtag network + community detection
+  CMD:  "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3" 03_network_analysis.py --input data/processed/all_posts.csv
+  TIME: 04:12:19
+============================================================
+  Done at 04:12:27
+
+============================================================
+  STEP: PSM matching + OLS regression for algorithmic amplification
+  CMD:  "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3" 04_engagement_analysis.py --input data/processed/all_posts.csv
+  TIME: 04:12:27
+============================================================
+  Done at 04:12:28
+
+╔══════════════════════════════════════════════════════════╗
+║  Pipeline complete!                                     ║
+╠══════════════════════════════════════════════════════════╣
+║  Key outputs:                                           ║
+║    outputs/figures/network_bipartite.png                ║
+║    outputs/figures/engagement_violin.png                ║
+║    outputs/figures/regression_coef_views.png            ║
+║    outputs/tables/ttest_results.csv                     ║
+║    outputs/tables/ols_regression_results.csv            ║
+║    outputs/tables/centralization_test.csv               ║
+╠══════════════════════════════════════════════════════════╣
+║  Finished: 2026-04-17 04:12:28:<47║
+╚══════════════════════════════════════════════════════════╝
+
