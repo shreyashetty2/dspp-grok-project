@@ -2,6 +2,7 @@
 .env
 *.env
 .env.local
+outputs/pipeline_live_20260417_022040.log
 
 <!-- # Scraped data — too large and ethically sensitive to commit -->
 <!-- data/raw/

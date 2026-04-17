@@ -1,355 +1,223 @@
 """
-01_data_collection.py - AI-NCII Research Project
-=================================================
-PURPOSE:
-  Collects posts from X (Twitter) using Apify cloud scraping,
-  saves raw JSON and cleaned CSVs for downstream analysis.
+01_data_collection.py
+=====================
+Collects posts from X (Twitter) using snscrape — a FREE, no-API-key-needed
+Python library that scrapes X search results directly from your machine.
 
-WHAT THIS SCRIPT DOES (plain English):
-  1. Reads your Apify API key from an ENVIRONMENT VARIABLE (never hardcoded).
-  2. Sends search queries to Apify, which runs a cloud browser to scrape
-     public X posts matching our hashtags — same as searching X manually
-     but automated and exported to JSON.
-  3. Normalises raw JSON into a clean DataFrame (consistent column names,
-     engagement counts, author info, etc.).
-  4. Saves two labelled datasets:
-       Treatment: posts with AI-generation markers (#GrokAI, #AIGenerated...)
-       Control:   posts from similar human communities (#photography, #portrait...)
-     These two groups are compared in 04_engagement_analysis.py.
-  5. --mode synthetic: skips Apify entirely, generates statistically
-     calibrated fake data so the pipeline can be tested for free.
+WHY snscrape instead of Apify:
+  Every Apify Twitter actor charges per result ($0.20-$0.40/1K tweets).
+  There is no free compute-unit-only Twitter scraper on Apify.
+  snscrape scrapes X the same way a browser would — completely free.
 
-HOW TO SET YOUR API KEY SAFELY (never paste it into this file):
-  Mac/Linux terminal:
-    export APIFY_TOKEN="apify_api_xxxxxxxxxxxxxxxxxxxx"
-
-  Windows PowerShell:
-    $env:APIFY_TOKEN="apify_api_xxxxxxxxxxxxxxxxxxxx"
-
-  The key lives only in your shell session and is never written to disk,
-  so it cannot accidentally end up on GitHub.
-
-  To persist across sessions (Mac/Linux):
-    echo 'export APIFY_TOKEN="apify_api_xxxxxxxxxxxxxxxxxxxx"' >> ~/.zshrc
-    source ~/.zshrc
+INSTALL:
+  pip3 install snscrape pandas
 
 USAGE:
-  python3 01_data_collection.py --mode synthetic   # free, no API key needed
-  python3 01_data_collection.py --mode treatment   # needs APIFY_TOKEN env var
-  python3 01_data_collection.py --mode control     # needs APIFY_TOKEN env var
-  python3 01_data_collection.py --mode all         # treatment + control
+  python3 01_data_collection.py --mode synthetic    # fake data, instant, free
+  python3 01_data_collection.py --mode treatment    # scrape AI hashtags (free)
+  python3 01_data_collection.py --mode control      # scrape human hashtags (free)
+  python3 01_data_collection.py --mode all          # both treatment + control
+
+NOTES:
+  - snscrape works by mimicking a browser — no API key, no cost
+  - X occasionally rate-limits aggressive scraping; --max-per-tag 200 is safe
+  - If you get 0 results, wait 30 min and retry (X rate limit, not a code bug)
+  - Results saved to data/processed/ as CSVs
 """
 
 import os
 import sys
 import json
-import time
 import argparse
-import requests
 import pandas as pd
+import numpy as np
 from datetime import datetime, timedelta
 from pathlib import Path
 
-# ── Folder setup ─────────────────────────────────────────────────────────────
-# Three separate directories keep raw API data, cleaned CSVs, and synthetic
-# data apart — so re-running cleaning never requires re-scraping.
-RAW_DIR   = Path("data/raw")        # untouched JSON from Apify
-PROC_DIR  = Path("data/processed")  # cleaned CSVs used by analysis scripts
-SYNTH_DIR = Path("data/synthetic")  # synthetic test data
+# ── Folder setup ──────────────────────────────────────────────────────────────
+RAW_DIR   = Path("data/raw")
+PROC_DIR  = Path("data/processed")
+SYNTH_DIR = Path("data/synthetic")
 for d in [RAW_DIR, PROC_DIR, SYNTH_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
-# ── Apify config ──────────────────────────────────────────────────────────────
-# SECURITY: Token read from environment variable, NEVER hardcoded.
-# os.getenv returns "" (empty string) if variable is not set;
-# we catch this in check_token() before any API call is made.
-APIFY_TOKEN = os.getenv("APIFY_TOKEN", "")
-BASE_URL    = "https://api.apify.com/v2"
-
-# Actor ID = Apify's identifier for the Twitter/X Scraper v2 cloud job.
-# This actor scrapes public X search results without needing an official
-# X API key (which now costs $100+/month for basic access).
-ACTOR_ID = "61RPP7dywgiy0JPD0"
-
 # ── Seed hashtags ─────────────────────────────────────────────────────────────
-# TREATMENT: tags strongly associated with AI-generated content on X.
-# Identified via manual reconnaissance of communities documented in
-# investigative reporting on Grok NCII proliferation (early 2025).
+# TREATMENT: AI-generation markers (our research target)
 TREATMENT_HASHTAGS = [
-    "#GrokAI",         # direct Grok attribution
-    "#AIGenerated",    # generic AI generation label
-    "#GrokImage",      # Grok image-specific tag
-    "#AIArt",          # AI art community (high overlap with NCII)
-    "#SyntheticMedia", # broader synthetic media tag
-    "#DeepfakeAI",     # deepfake-adjacent community
+    "#GrokAI", "#AIGenerated", "#GrokImage",
+    "#AIArt", "#SyntheticMedia", "#DeepfakeAI",
 ]
 
-# CONTROL: human-generated content communities using similar hashtag-driven
-# discoverability strategies. Matched on platform affordance (visual,
-# hashtag-heavy) so the ONLY meaningful difference is AI-generation status.
-# This is what allows PSM to isolate AI generation's effect on reach.
+# CONTROL: human creative communities (baseline comparison)
 CONTROL_HASHTAGS = [
-    "#photography",       # large legitimate photography community
-    "#portrait",          # closest visual match to AI portrait content
-    "#nsfw",              # adult content human-generated baseline
-    "#artistsontwitter",  # human artist community
-    "#digitalart",        # human digital art (visually similar to AI art)
+    "#photography", "#portrait", "#nsfw",
+    "#artistsontwitter", "#digitalart",
 ]
 
-# Seed accounts for snowball sampling — fill in after manual recon.
-# Format: plain usernames without @. Example: ["user1", "user2"]
-SEED_ACCOUNTS = []
+# ── snscrape scraping functions ───────────────────────────────────────────────
 
-
-def check_token():
-    """
-    Exit with a helpful message if APIFY_TOKEN is not set.
-    Called before any live API request — avoids cryptic HTTP 401 errors.
-    """
-    if not APIFY_TOKEN:
-        print("\n" + "="*60)
-        print("ERROR: APIFY_TOKEN environment variable is not set.")
-        print("="*60)
-        print("\nFix: run this in your terminal before the pipeline:")
-        print('  export APIFY_TOKEN="apify_api_xxxxxxxxxxxxxxxxxxxx"')
-        print("\nGet your free token (no credit card needed):")
-        print("  https://console.apify.com/account/integrations\n")
+def check_snscrape():
+    """Check snscrape is installed; give a clear install message if not."""
+    try:
+        import snscrape.modules.twitter as sntwitter
+        return sntwitter
+    except ImportError:
+        print("\n[ERROR] snscrape is not installed.")
+        print("  Fix: pip3 install snscrape")
+        print("  Then re-run this script.\n")
         sys.exit(1)
 
 
-def run_apify_actor(query: str, max_items: int = 200) -> list:
+def scrape_hashtag(tag: str, max_results: int, days_back: int = 60):
     """
-    HOW APIFY SCRAPING WORKS:
-      1. We POST a job request (with our search query) to the Apify REST API.
-      2. Apify launches a cloud browser, goes to x.com/search?q=<query>,
-         scrolls through results page by page, saves each post as JSON.
-      3. We poll every 10 seconds until the job finishes (status=SUCCEEDED).
-      4. We download the resulting dataset and return it as a list of dicts.
+    Scrape posts for one hashtag using snscrape.
 
-    This is identical to searching X manually and copy-pasting results,
-    but automated, structured, and runs in the cloud — no local browser needed.
+    HOW IT WORKS:
+      snscrape builds an X advanced search URL (same as x.com/search?q=...)
+      and paginates through results, yielding tweet objects one by one.
+      No API key needed — it mimics what a browser does.
 
-    sort="Latest" gets chronological results (not "Top"/viral posts) so we
-    get a representative random sample rather than only outliers.
+    QUERY FORMAT:
+      "#GrokAI since:2025-02-16 until:2026-04-17 lang:en"
+      This matches X's own advanced search syntax exactly.
     """
-    check_token()
+    sntwitter = check_snscrape()
 
-    input_data = {
-        "searchTerms": [query],
-        "maxItems": max_items,
-        "sort": "Latest",        # chronological, not popularity-ranked
-        "tweetLanguage": "en",
-        # Limit to past 60 days — keeps data current and costs low
-        "start": (datetime.now() - timedelta(days=60)).strftime("%Y-%m-%d"),
-    }
+    since = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
+    until = datetime.now().strftime("%Y-%m-%d")
+    # lang:en filters to English posts; -filter:retweets excludes retweets
+    # so we only get original posts (cleaner for engagement analysis)
+    query = f"{tag} lang:en -filter:retweets since:{since} until:{until}"
 
-    # Start the Apify actor run
-    run_url = f"{BASE_URL}/acts/{ACTOR_ID}/runs?token={APIFY_TOKEN}"
+    print(f"  Query: {query}")
+    print(f"  Collecting up to {max_results} posts...")
+
+    posts = []
     try:
-        resp = requests.post(run_url, json=input_data, timeout=30)
-        resp.raise_for_status()
-    except requests.RequestException as e:
-        print(f"  [ERROR] Could not start Apify run for '{query}': {e}")
-        return []
+        scraper = sntwitter.TwitterSearchScraper(query)
+        for i, tweet in enumerate(scraper.get_items()):
+            if i >= max_results:
+                break
 
-    run_id = resp.json()["data"]["id"]
-    print(f"  [Apify] Run started: {run_id} | query='{query}' | max={max_items}")
+            # Extract all fields we need for analysis
+            author = tweet.user
 
-    # Poll status every 10 seconds (max 5 minutes = 30 polls)
-    # Apify runs asynchronously — typical completion: 1-3 minutes
-    status_url  = f"{BASE_URL}/actor-runs/{run_id}?token={APIFY_TOKEN}"
-    status_resp = None
-    for attempt in range(30):
-        time.sleep(10)
-        try:
-            status_resp = requests.get(status_url, timeout=15)
-            status = status_resp.json()["data"]["status"]
-            print(f"  [Apify] Status: {status} (poll {attempt+1}/30)")
-        except requests.RequestException:
-            print("  [Apify] Poll failed, retrying...")
-            continue
-        if status == "SUCCEEDED":
-            break
-        elif status in ("FAILED", "ABORTED", "TIMED-OUT"):
-            print(f"  [ERROR] Run ended with status: {status}")
-            return []
-    else:
-        print(f"  [TIMEOUT] Run {run_id} did not finish within 5 minutes.")
-        return []
+            # Media: check for images/videos
+            has_media = bool(tweet.media)
+            media_types = ""
+            media_urls  = ""
+            if tweet.media:
+                media_types = ",".join([
+                    getattr(m, "type", type(m).__name__) for m in tweet.media
+                ])
+                media_urls = ",".join([
+                    getattr(m, "thumbnailUrl", "") or getattr(m, "previewUrl", "")
+                    for m in tweet.media if hasattr(m, "thumbnailUrl") or hasattr(m, "previewUrl")
+                ])
 
-    # Download the dataset produced by the completed run
-    dataset_id = status_resp.json()["data"]["defaultDatasetId"]
-    items_url  = (f"{BASE_URL}/datasets/{dataset_id}/items"
-                  f"?token={APIFY_TOKEN}&format=json&clean=true")
-    try:
-        items = requests.get(items_url, timeout=60).json()
-        print(f"  [Apify] Downloaded {len(items)} posts for '{query}'")
-        return items
-    except Exception as e:
-        print(f"  [ERROR] Could not download dataset: {e}")
-        return []
+            # Hashtags from tweet entities
+            hashtags = ""
+            if tweet.hashtags:
+                hashtags = ",".join([h.lower() for h in tweet.hashtags])
 
-
-def scrape_hashtags(hashtags: list, mode: str, max_per_tag: int = 200) -> pd.DataFrame:
-    """
-    WHAT IS BEING SCRAPED HERE:
-      Public X posts containing each hashtag, sorted by most recent.
-      One Apify run per hashtag — keeps runs small (free tier: 10 runs/day)
-      and lets us resume from any point if a run fails.
-
-    Raw JSON is saved immediately before cleaning so we can always
-    re-run cleaning without re-scraping (scraping costs; cleaning is free).
-    """
-    all_posts = []
-    for tag in hashtags:
-        print(f"\n  Scraping {mode} hashtag: {tag}")
-        raw_items = run_apify_actor(tag, max_items=max_per_tag)
-        if raw_items:
-            safe     = tag.replace("#","").replace(" ","_").lower()
-            raw_path = RAW_DIR / f"{mode}_{safe}_{datetime.now():%Y%m%d}.json"
-            with open(raw_path, "w", encoding="utf-8") as f:
-                json.dump(raw_items, f, ensure_ascii=False, indent=2)
-            print(f"  [Saved raw JSON] → {raw_path}")
-            all_posts.extend(raw_items)
-        time.sleep(5)   # pause between runs to avoid rate limits
-
-    return parse_posts(all_posts, mode) if all_posts else pd.DataFrame()
-
-
-def scrape_accounts(accounts: list, mode: str, max_per_account: int = 100) -> pd.DataFrame:
-    """
-    WHAT IS BEING SCRAPED HERE (snowball sampling):
-      Full timelines of identified seed accounts using X's "from:<user>"
-      search operator. This captures ALL hashtags an account uses — not just
-      those that appeared in our hashtag searches — giving richer edge data
-      for the bipartite network in 03_network_analysis.py.
-    """
-    all_posts = []
-    for account in accounts:
-        print(f"\n  Scraping account timeline: @{account}")
-        raw_items = run_apify_actor(f"from:{account}", max_items=max_per_account)
-        all_posts.extend(raw_items)
-        time.sleep(5)
-    return parse_posts(all_posts, mode) if all_posts else pd.DataFrame()
-
-
-def parse_posts(raw_posts: list, content_type: str) -> pd.DataFrame:
-    """
-    WHAT THIS DOES:
-      Flattens Apify's inconsistently-structured JSON into a clean DataFrame.
-      Field names vary between Apify actor versions, so we try multiple
-      alternatives for each field (e.g. "likeCount" vs "favorite_count").
-
-    WHY EACH FIELD MATTERS FOR OUR ANALYSIS:
-
-      author_followers  — PSM CONFOUNDER: larger accounts get more views
-                          naturally. Must control for this before comparing
-                          AI vs human engagement.
-
-      views             — PRIMARY OUTCOME: algorithmic reach — how many
-                          accounts X surfaced this post to. If AI posts get
-                          more views WITHOUT more engagement (likes/RT),
-                          that is direct evidence of algorithmic amplification
-                          rather than user preference.
-
-      engagement_rate   — TERTIARY OUTCOME: engagement / views. If this is
-                          NOT higher for AI posts but views ARE, the algorithm
-                          is surfacing AI content to users who don't seek it.
-
-      hashtags          — NETWORK EDGES: used to build the bipartite graph
-                          (account <-> hashtag) in 03_network_analysis.py.
-
-      media_urls        — AI DETECTION INPUT: image URLs passed to
-                          02_ai_detection.py for CLIP + EXIF watermark check.
-
-      ai_generated      — LABEL: None here, filled by 02_ai_detection.py.
-    """
-    records = []
-    for post in raw_posts:
-        try:
-            author       = post.get("author", {})
-            followers    = int(author.get("followers", author.get("followersCount", 0)) or 0)
-
-            media_list   = post.get("media") or post.get("extendedEntities", {}).get("media", [])
-            media_types  = ",".join(m.get("type","") for m in media_list)
-            media_urls   = ",".join(
-                m.get("url", m.get("media_url_https",""))
-                for m in media_list if m.get("url") or m.get("media_url_https")
-            )
-
-            likes    = int(post.get("likeCount",    post.get("favorite_count",  0)) or 0)
-            retweets = int(post.get("retweetCount", post.get("retweet_count",   0)) or 0)
-            replies  = int(post.get("replyCount",   post.get("reply_count",     0)) or 0)
-            views    = int(post.get("viewCount",    post.get("views",           0)) or 0)
-            bookmarks= int(post.get("bookmarkCount", 0) or 0)
-            quotes   = int(post.get("quoteCount",   0) or 0)
-
-            hash_list = post.get("entities", {}).get("hashtags", [])
-            hashtags  = ",".join(
-                h.get("text", h.get("tag","")).lower().lstrip("#")
-                for h in hash_list if h.get("text") or h.get("tag")
-            )
-
-            records.append({
-                "post_id":          str(post.get("id", post.get("id_str",""))),
-                "author_id":        str(author.get("id","")),
-                "author_username":  str(author.get("userName", author.get("username",""))),
-                "author_followers": followers,
-                "author_created":   str(author.get("created", author.get("createdAt",""))),
-                "text":             str(post.get("text", post.get("full_text",""))),
-                "created_at":       str(post.get("createdAt", post.get("created_at",""))),
-                "lang":             str(post.get("lang","en")),
-                "has_media":        len(media_list) > 0,
+            posts.append({
+                "post_id":          str(tweet.id),
+                "author_id":        str(author.id) if author else "",
+                "author_username":  author.username if author else "",
+                "author_followers": getattr(author, "followersCount", 0) or 0,
+                "author_created":   str(getattr(author, "created", "")),
+                "author_account_age_days": (
+                    (datetime.now() - author.created.replace(tzinfo=None)).days
+                    if author and getattr(author, "created", None) else 365
+                ),
+                "text":             tweet.content or "",
+                "created_at":       str(tweet.date),
+                "lang":             tweet.lang or "en",
+                "has_media":        has_media,
                 "media_types":      media_types,
                 "media_urls":       media_urls,
-                "likes":            likes,
-                "retweets":         retweets,
-                "replies":          replies,
-                "views":            views,
-                "bookmarks":        bookmarks,
-                "quotes":           quotes,
+                "likes":            tweet.likeCount or 0,
+                "retweets":         tweet.retweetCount or 0,
+                "replies":          tweet.replyCount or 0,
+                "views":            tweet.viewCount or 0,
+                "bookmarks":        tweet.bookmarkCount or 0,
+                "quotes":           tweet.quoteCount or 0,
                 "hashtags":         hashtags,
-                "content_type":     content_type,
-                "ai_generated":     None,   # filled by 02_ai_detection.py
+                "content_type":     None,  # set by caller
+                "ai_generated":     None,  # set by 02_ai_detection.py
             })
-        except Exception as e:
-            print(f"  [WARN] Skipped malformed post: {e}")
 
-    if not records:
+            if (i + 1) % 50 == 0:
+                print(f"    Collected {i+1} posts...")
+
+    except Exception as e:
+        print(f"  [WARN] snscrape error for '{tag}': {e}")
+        print("  This usually means X is rate-limiting. Wait 30 min and retry.")
+
+    print(f"  Collected {len(posts)} posts for {tag}")
+    return posts
+
+
+def scrape_hashtags(hashtags: list, content_type: str,
+                    max_per_tag: int = 200) -> pd.DataFrame:
+    """
+    Scrape all hashtags for one content_type group (treatment or control).
+    Saves raw JSON per hashtag, then returns combined cleaned DataFrame.
+    """
+    all_posts = []
+
+    for tag in hashtags:
+        print(f"\n  --- Scraping: {tag} ({content_type}) ---")
+        posts = scrape_hashtag(tag, max_results=max_per_tag)
+
+        if posts:
+            # Label content_type before saving raw JSON
+            for p in posts:
+                p["content_type"] = content_type
+
+            # Save raw JSON — so we can re-run cleaning without re-scraping
+            safe     = tag.replace("#","").replace(" ","_").lower()
+            raw_path = RAW_DIR / f"{content_type}_{safe}_{datetime.now():%Y%m%d}.json"
+            with open(raw_path, "w", encoding="utf-8") as f:
+                json.dump(posts, f, ensure_ascii=False, indent=2)
+            print(f"  [Saved raw] → {raw_path}")
+            all_posts.extend(posts)
+
+    if not all_posts:
+        print(f"  [WARNING] No posts collected for {content_type}.")
         return pd.DataFrame()
 
-    df = pd.DataFrame(records)
-    df["created_at"]       = pd.to_datetime(df["created_at"], errors="coerce")
+    df = pd.DataFrame(all_posts)
+    df["created_at"] = pd.to_datetime(df["created_at"], errors="coerce")
     df["engagement_total"] = df["likes"] + df["retweets"] + df["replies"] + df["quotes"]
     df["engagement_rate"]  = df.apply(
         lambda r: r["engagement_total"] / r["views"] if r["views"] > 0 else 0, axis=1
     )
 
-    # Deduplicate posts that appeared under multiple hashtag searches
+    # Deduplicate posts appearing under multiple hashtags
     before = len(df)
     df = df.drop_duplicates("post_id").reset_index(drop=True)
     if len(df) < before:
-        print(f"  [Dedup] Removed {before-len(df)} duplicates.")
+        print(f"  [Dedup] Removed {before - len(df)} duplicates.")
+
     return df
 
+
+# ── Synthetic data (free, instant, for testing) ───────────────────────────────
 
 def generate_synthetic_data(n_treatment: int = 800, n_control: int = 800,
                              seed: int = 42) -> pd.DataFrame:
     """
-    WHY SYNTHETIC DATA (not dummy data):
-      Statistically calibrated to match published X engagement benchmarks:
-        - Views: negative binomial (standard overdispersed count model —
-          Vosoughi et al., Science 2018)
-        - Engagement ratios: likes 2-8% of views, retweets 0.5-2%
-          (Pew Research 2023, Social Insider 2023)
-        - Follower counts: negative binomial, empirical mean ~500
+    Generate calibrated fake data for pipeline testing.
+    Distributions based on:
+      - Pew Research 2023 X engagement benchmarks
+      - Social Insider 2023 platform averages
+      - Negative binomial for count data (Vosoughi et al., Science 2018)
 
-    CRITICAL: The 2.3x view multiplier for treatment is our HYPOTHESIS
-    baked in for pipeline testing. The real effect size comes from Apify data.
-    State this clearly when presenting results.
+    IMPORTANT: The 2.3x view multiplier for treatment is our HYPOTHESIS
+    baked in for testing. Real scraped data will reveal the true effect.
     """
-    import numpy as np
-    rng = np.random.default_rng(seed)   # fixed seed = reproducible results
+    rng = np.random.default_rng(seed)
 
     def make_posts(n, content_type, view_multiplier=1.0):
         followers    = rng.negative_binomial(2, 0.004, n).clip(10, 500_000)
@@ -404,15 +272,18 @@ def generate_synthetic_data(n_treatment: int = 800, n_control: int = 800,
     df = pd.concat([treatment, control]).sample(frac=1, random_state=seed).reset_index(drop=True)
     out = SYNTH_DIR / "synthetic_posts.csv"
     df.to_csv(out, index=False)
-    print(f"[Synthetic] Generated {len(df)} posts → {out}")
+    print(f"[Synthetic] {len(df)} posts saved → {out}")
     return df
 
 
+# ── Main ──────────────────────────────────────────────────────────────────────
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mode", choices=["treatment","control","synthetic","all"],
+    parser.add_argument("--mode", choices=["synthetic","treatment","control","all"],
                         default="synthetic")
-    parser.add_argument("--max-per-tag", type=int, default=200)
+    parser.add_argument("--max-per-tag", type=int, default=200,
+                        help="Max posts per hashtag (default 200)")
     args = parser.parse_args()
 
     print(f"\n{'='*60}")
@@ -425,23 +296,20 @@ if __name__ == "__main__":
         print(df.groupby("content_type")[["views","likes","engagement_rate"]].mean().round(3))
 
     if args.mode in ("treatment", "all"):
-        print("\n=== Scraping TREATMENT posts (AI hashtags via Apify) ===")
+        print("\n=== Scraping TREATMENT posts (snscrape, free) ===")
         df_t = scrape_hashtags(TREATMENT_HASHTAGS, "treatment", args.max_per_tag)
-        if SEED_ACCOUNTS:
-            df_acct = scrape_accounts(SEED_ACCOUNTS, "treatment")
-            df_t = pd.concat([df_t, df_acct]).drop_duplicates("post_id")
         if not df_t.empty:
             out = PROC_DIR / "treatment_posts.csv"
             df_t.to_csv(out, index=False)
-            print(f"[Saved] {len(df_t)} treatment posts → {out}")
+            print(f"\n[Saved] {len(df_t)} treatment posts → {out}")
 
     if args.mode in ("control", "all"):
-        print("\n=== Scraping CONTROL posts (human hashtags via Apify) ===")
+        print("\n=== Scraping CONTROL posts (snscrape, free) ===")
         df_c = scrape_hashtags(CONTROL_HASHTAGS, "control", args.max_per_tag)
         if not df_c.empty:
             out = PROC_DIR / "control_posts.csv"
             df_c.to_csv(out, index=False)
-            print(f"[Saved] {len(df_c)} control posts → {out}")
+            print(f"\n[Saved] {len(df_c)} control posts → {out}")
 
     print(f"\n{'='*60}")
     print("  01_data_collection.py complete.")
