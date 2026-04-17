@@ -1,0 +1,25 @@
+# API keys and secrets — NEVER commit these
+.env
+*.env
+.env.local
+
+# Scraped data — too large and ethically sensitive to commit
+data/raw/
+data/processed/
+data/synthetic/
+
+# Pipeline outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Mac/IDE junk
+.DS_Store
+.vscode/
+.idea/
+*.swp
