@@ -1,0 +1,196 @@
+
+============================================================
+  01_data_collection.py | mode=treatment | 2026-04-17 01:57:23
+============================================================
+
+
+=== Scraping TREATMENT posts (AI hashtags via Apify) ===
+
+  Scraping treatment hashtag: #GrokAI
+  [Apify] Run started: N5cy5yAnB6Mt2i9lz | query='#GrokAI' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#GrokAI'
+  [Saved raw JSON] → data/raw/treatment_grokai_20260417.json
+
+  Scraping treatment hashtag: #AIGenerated
+  [Apify] Run started: p613IFqOk7GGRqTiB | query='#AIGenerated' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#AIGenerated'
+  [Saved raw JSON] → data/raw/treatment_aigenerated_20260417.json
+
+  Scraping treatment hashtag: #GrokImage
+  [Apify] Run started: qW3WyryqFXS2tP2Ff | query='#GrokImage' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#GrokImage'
+  [Saved raw JSON] → data/raw/treatment_grokimage_20260417.json
+
+  Scraping treatment hashtag: #AIArt
+  [Apify] Run started: hxL5I3ePrIAhGOA4T | query='#AIArt' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#AIArt'
+  [Saved raw JSON] → data/raw/treatment_aiart_20260417.json
+
+  Scraping treatment hashtag: #SyntheticMedia
+  [Apify] Run started: RRIB2rvq0Z7WHty9X | query='#SyntheticMedia' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#SyntheticMedia'
+  [Saved raw JSON] → data/raw/treatment_syntheticmedia_20260417.json
+
+  Scraping treatment hashtag: #DeepfakeAI
+  [Apify] Run started: cod5vtVuHQEOfoB3S | query='#DeepfakeAI' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#DeepfakeAI'
+  [Saved raw JSON] → data/raw/treatment_deepfakeai_20260417.json
+  [Dedup] Removed 59 duplicates.
+[Saved] 1 treatment posts → data/processed/treatment_posts.csv
+
+============================================================
+  01_data_collection.py complete.
+============================================================
+
+
+============================================================
+  01_data_collection.py | mode=control | 2026-04-17 01:58:58
+============================================================
+
+
+=== Scraping CONTROL posts (human hashtags via Apify) ===
+
+  Scraping control hashtag: #photography
+  [Apify] Run started: 6YAFCgtssDINxZV3P | query='#photography' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#photography'
+  [Saved raw JSON] → data/raw/control_photography_20260417.json
+
+  Scraping control hashtag: #portrait
+  [Apify] Run started: eh7qih1WcK2zmn2uN | query='#portrait' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#portrait'
+  [Saved raw JSON] → data/raw/control_portrait_20260417.json
+
+  Scraping control hashtag: #nsfw
+  [Apify] Run started: Yrsi5X38q6bKK2iPp | query='#nsfw' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#nsfw'
+  [Saved raw JSON] → data/raw/control_nsfw_20260417.json
+
+  Scraping control hashtag: #artistsontwitter
+  [Apify] Run started: BGWpo1VRTIwCLZOpl | query='#artistsontwitter' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#artistsontwitter'
+  [Saved raw JSON] → data/raw/control_artistsontwitter_20260417.json
+
+  Scraping control hashtag: #digitalart
+  [Apify] Run started: I7w6XxU7zkiVa2asn | query='#digitalart' | max=200
+  [Apify] Status: SUCCEEDED (poll 1/30)
+  [Apify] Downloaded 10 posts for '#digitalart'
+  [Saved raw JSON] → data/raw/control_digitalart_20260417.json
+  [Dedup] Removed 49 duplicates.
+[Saved] 1 control posts → data/processed/control_posts.csv
+
+============================================================
+  01_data_collection.py complete.
+============================================================
+
+Loading data from data/processed/all_posts.csv...
+Loaded 1602 posts.
+  Classified 0/1602 posts...
+
+=== AI Detection Summary ===
+Total posts:      1602
+AI-generated:     800 (49.9%)
+
+Detection methods used:
+detection_method
+pre_labeled    1600
+no_signal         2
+
+Mean confidence by method:
+detection_method
+no_signal      0.3
+pre_labeled    1.0
+
+Saved classified data → data/processed/classified_posts.csv
+Loading data from data/processed/all_posts.csv...
+Loaded 1602 posts.
+
+=== Building bipartite network ===
+Bipartite graph: 1597 nodes, 3200 edges
+
+=== Building account projection ===
+Account projection: 1588 nodes, 436439 edges
+
+=== Detecting communities ===
+[Louvain] Detected 2 communities.
+
+=== Computing statistics ===
+
+=== Centralization Results ===
+  gini_coefficient: 0.148
+  top10_degree_share: 0.1634
+  network_density: 0.346359
+  n_nodes: 1588
+  n_edges: 436439
+  n_communities: 2
+  structure: Decentralized (peer-to-peer)
+
+=== Top 10 accounts by betweenness centrality ===
+  username  degree  betweenness  community  followers
+user_18102       4     0.151233          1        422
+user_42873       4     0.106239          1        558
+user_27567       3     0.090220          1        911
+user_90665       3     0.087110          0        474
+user_43860       2     0.063797          0        156
+user_39212       5     0.000762          1       1387
+user_45571       4     0.000624          1        910
+user_21467       3     0.000462          1        565
+user_41623       3     0.000462          1        548
+user_88614       3     0.000462          1        262
+
+=== Top 15 hashtags ===
+          hashtag  accounts_using  total_uses
+      #digitalart             411         414
+        #portrait             399         401
+     #photography             394         394
+#artistsontwitter             376         376
+          #grokai             334         334
+  #syntheticmedia             326         326
+           #aiart             324         324
+       #grokimage             322         324
+     #aigenerated             314         314
+
+=== Plotting ===
+[Plot] Network graph → outputs/figures/network_bipartite.png
+[Plot] Degree distribution → outputs/figures/degree_distribution.png
+
+Network analysis complete.
+Loading data from data/processed/all_posts.csv...
+Loaded 1602 posts.
+
+=== Preparing features ===
+
+╔══════════════════════════════════════════════════════════╗
+║  AI-NCII on X: Full Analysis Pipeline                   ║
+║  Data Science & Public Policy — Spring 2026             ║
+╚══════════════════════════════════════════════════════════╝
+
+
+============================================================
+▶  python3 01_data_collection.py --mode treatment
+============================================================
+
+============================================================
+▶  python3 01_data_collection.py --mode control
+============================================================
+
+============================================================
+▶  python3 02_ai_detection.py --input data/processed/all_posts.csv --output data/processed/classified_posts.csv 
+============================================================
+
+============================================================
+▶  python3 03_network_analysis.py --input data/processed/all_posts.csv
+============================================================
+
+============================================================
+▶  python3 04_engagement_analysis.py --input data/processed/all_posts.csv
+============================================================

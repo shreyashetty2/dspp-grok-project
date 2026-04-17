@@ -1,4 +1,4 @@
 outcome,treated_mean,control_mean,difference,pct_difference,t_stat,p_value,cohen_d,significant
-log_views,9.2622,8.4306,0.8317,9.86,27.9872,0.0,1.8869,True
-log_engagement_total,6.6012,5.7368,0.8644,15.07,23.9123,0.0,1.6122,True
-engagement_rate,0.0722,0.0699,0.0023,3.31,1.876,0.060991,0.1265,False
+log_views,9.2699,8.4483,0.8216,9.72,27.5047,0.0,1.8215,True
+log_engagement_total,6.604,5.7675,0.8365,14.5,23.6631,0.0,1.5671,True
+engagement_rate,0.0719,0.0706,0.0014,1.98,1.1704,0.242146,0.0775,False
